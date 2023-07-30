@@ -1,14 +1,15 @@
 ---
-title: "Meetup bij District01 op donderdag 25 januari 2018"
+title: 'Meetup bij District01 op donderdag 25 januari 2018'
 date: 2017-12-07
 eventdate: 2017-12-07
-location: 
-categories: 
-    - meetup
+location:
+categories:
+  - meetup
 ---
+
 ![](/_img/bijeenkomsten/logo.jpeg)
 
-Op donderdag *25 januari 2018* zijn we er terug met een nieuwe meetup. We starten het nieuwe jaar meteen goed met maar liefst drie interessante talks. We zullen te gast zijn bij de sympathieke mensen van *District01 in Kontich*. De talks worden gegeven door Fabian Meul, Kevin Decock en Enzo Eghermanne.
+Op donderdag _25 januari 2018_ zijn we er terug met een nieuwe meetup. We starten het nieuwe jaar meteen goed met maar liefst drie interessante talks. We zullen te gast zijn bij de sympathieke mensen van _District01 in Kontich_. De talks worden gegeven door Fabian Meul, Kevin Decock en Enzo Eghermanne.
 
 De bijeenkomst is gratis voor leden en niet-leden, en District01 zorgt voor iets lekkers te eten en te drinken!
 
@@ -18,13 +19,13 @@ De bijeenkomst is gratis voor leden en niet-leden, en District01 zorgt voor iets
 
 # Programma
 
-* 18:00 · Inloop met een hapje en een drankje
-* 18:50 · Introductie en welkomstwoord
-* 19:00 · Talk 1: Fabian Meul ([@FabianMeul](https://github.com/fabianmeul)) - Using my frontend-skill to create Chatbots
-* 19:30 · Talk 2: Kevin Decock ([@ambewass](https://twitter.com/ambewass)) – Using my frontend-skill to create VR-experiences
-* 20:00 · Pauze
-* 20:15 · Talk 3: Enzo Eghermanne ([@EnzoEghermanne](https://github.com/EnzoEghermanne)) – CSS Grid Layout Module Level 1
-* 20:45 · Borrel
+- 18:00 · Inloop met een hapje en een drankje
+- 18:50 · Introductie en welkomstwoord
+- 19:00 · Talk 1: Fabian Meul ([@FabianMeul](https://github.com/fabianmeul)) - Using my frontend-skill to create Chatbots
+- 19:30 · Talk 2: Kevin Decock ([@ambewass](https://twitter.com/ambewass)) – Using my frontend-skill to create VR-experiences
+- 20:00 · Pauze
+- 20:15 · Talk 3: Enzo Eghermanne ([@EnzoEghermanne](https://github.com/EnzoEghermanne)) – CSS Grid Layout Module Level 1
+- 20:45 · Borrel
 
 ```
 
@@ -48,9 +49,9 @@ We waited for over 5 years, but CSS Grid is finally here to change the future of
 
 # Locatie
 
-*Hof Ter Elst*
+_Hof Ter Elst_
 Kattenbroek 1
-2650  Edegem
+2650 Edegem
 
 ```
 

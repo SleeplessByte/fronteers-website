@@ -1,12 +1,13 @@
 ---
-title: "ALV 2015: 3 december - bestuursleden gezocht"
+title: 'ALV 2015: 3 december - bestuursleden gezocht'
 date: 2015-10-22
 author: Bestuur
-categories: 
+categories:
   - Bijeenkomsten
   - Leden
   - Vereniging
 ---
+
 De datum voor onze jaarlijkse ledenvergadering is bekend: op donderdagavond 3 december 2015 zullen we alweer voor de negende keer bij elkaar komen om het reilen en zeilen van de vereniging te bespreken. Een aantal bestuursleden zal op deze avond aftreden en zich niet opnieuw herkiesbaar stellen. We zijn dus op zoek naar nieuwe bestuursleden.
 
 Fronteers is door de jaren heen uitgegroeid naar een zeer succesvolle vereniging, met een aantal zeer goedlopende activiteiten. Er zijn echter ook activiteiten waarvan we graag allemaal zouden zien dat we ze _ook_ nog zouden oppakken, of die we liever anders zouden zien, maar waar we aanlopen tegen de beperkingen van de beschikbare tijd van onze vrijwilligers. De ALV is bij uitstek de gelegenheid om hierover met elkaar van gedachten te wisselen, en samen de prioriteiten voor het komende jaar te bepalen. We verwelkomen je graag, zowel wanneer je een mening hebt over die prioriteiten, als wanneer je een steentje wilt bijdragen aan het realiseren hiervan.

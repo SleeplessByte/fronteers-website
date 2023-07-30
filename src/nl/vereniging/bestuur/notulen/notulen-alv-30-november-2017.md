@@ -1,23 +1,24 @@
 ---
 title: Notulen ALV 30 november 2017
 ---
+
 # Aanwezigen
 
-* Paul Verbeek
-* Wim van Iersel
-* Peter-Paul Koch
-* Tom Greuter
-* Niels Leenheer
-* Jan van Hellemond
-* Paul van Buuren
-* Arjan Eising
-* Jules Ernst
-* Jasha Joachimsthal
-* Sander Aarts
-* Edwin Martin
-* Jaco Koster (voorzitter & secretaris)
-* Roy Tomeij (algemeen bestuurslid)
-* Sander Vink (penningmeester)
+- Paul Verbeek
+- Wim van Iersel
+- Peter-Paul Koch
+- Tom Greuter
+- Niels Leenheer
+- Jan van Hellemond
+- Paul van Buuren
+- Arjan Eising
+- Jules Ernst
+- Jasha Joachimsthal
+- Sander Aarts
+- Edwin Martin
+- Jaco Koster (voorzitter & secretaris)
+- Roy Tomeij (algemeen bestuurslid)
+- Sander Vink (penningmeester)
 
 # Welkomstwoord
 
@@ -25,19 +26,19 @@ Jaco opent de ALV. Vorig jaar was een bewogen ALV. Weinig ‘echte’ bestuursve
 
 # Toelichting commissies
 
-*Activiteiten*
+_Activiteiten_
 Vorig jaar hadden we een enthousiaste start met de Activiteitencommissie, die met name door twee mensen werd gerund; een van die twee hield er mee op (Thomas), en daardoor is de Activiteitencommissie op een wat lager pitje terecht gekomen. Er zijn al veel meetups e.d. en we hebben initiatieven ondersteund via onze vereniging (met name publiciteit).
 
-*Workshops*
+_Workshops_
 Workshopcommissie was dit jaar heel succesvol. Veel workshops gehad, met ook goed aantal inschrijvingen (veel leden). Vergoeding voor sprekers omhoog gegaan, waardoor we (zo lijkt het) wat makkelijker aan workshopgevers komen. En uiteraard doet de commissie zelf ook goed werk!
 
-*België*
+_België_
 België-commissie is ook weer goed aangetrokken. Organiseren regelmatig meetups, en zijn actief. Daar zijn we blij mee! We hopen dat ze dat blijven volhouden, en proberen dat zoveel mogelijk te ondersteunen.
 
-*Online Community*
+_Online Community_
 De online community van Fronteers doet het goed. Er is veel activiteit op Slack met goede ondersteuning van de commissie, en onze Social Media kanalen worden goed bijgehouden.
 
-*Vacaturebank*
+_Vacaturebank_
 Vacaturebank gaat ook nog steeds goed. Bernard doet dit goed, en zorgt voor een goede stroom aan extra inkomsten. Dit jaar was de vacaturebank tijdelijk gesloten (Bernard is getrouwd dit jaar).
 
 # Evaluatie congres
@@ -52,31 +53,31 @@ De dingen rondom het congres, zoals FrontCheers en Jam Sessions, zijn geregeld d
 
 Vorig jaar is ook een motie aangenomen tot het onderzoeken van de haalbaarheid van een vrijwilligersvergoeding, en het bestuur (met name Roy) heeft dat uitgevoerd. Er zitten een aantal voorwaarden aan:
 
-* Maximaal €4,50 per uur / €150 per maand / €1500 per jaar (hetgeen het eerst bereikt wordt).
-* Onkosten (reis, overnachtingen, etc.) gaan hier ook vanaf, en kunnen niet meer apart ingediend worden.
-* Bij overschrijding dienen we een salarisadministratie op te zetten, maandelijks loonaangifte te doen, en loonheffing te betalen.
-* Leden moeten bijhouden wanneer, hoeveel, en waaraan ze werken.
-* Penningmeester moet dit toetsen, maxima bijhouden, en uitkeren.
+- Maximaal €4,50 per uur / €150 per maand / €1500 per jaar (hetgeen het eerst bereikt wordt).
+- Onkosten (reis, overnachtingen, etc.) gaan hier ook vanaf, en kunnen niet meer apart ingediend worden.
+- Bij overschrijding dienen we een salarisadministratie op te zetten, maandelijks loonaangifte te doen, en loonheffing te betalen.
+- Leden moeten bijhouden wanneer, hoeveel, en waaraan ze werken.
+- Penningmeester moet dit toetsen, maxima bijhouden, en uitkeren.
 
 Aantal rekenvoorbeelden:
 
-* 65 uur gewerkt verspreid over 2 maanden: €292,50
-* 65 uur gewerkt in één maand: €150
-* Begroting: 20 leden die 8 uur per maand werken = €8640 per jaar
+- 65 uur gewerkt verspreid over 2 maanden: €292,50
+- 65 uur gewerkt in één maand: €150
+- Begroting: 20 leden die 8 uur per maand werken = €8640 per jaar
 
 Als bestuur zien we een aantal drempels:
 
-* Wie bepaalt waaraan betaald gewerkt wordt?
-* Wie bepaalt wanneer een lid actief genoeg is voor een vergoeding, en hoeveel dan?
-* Bepaalde gevallen, bijv. rondom het congres, op kosten van de vereniging 2 nachten hotel à €150 is niet meer mogelijk.
-* Het levert extra werkdruk op die het bestuur in de huidige grootte niet aan kan.
-* Mochten we in de toekomst winstbelasting moeten betalen, dan zou deze totale regeling komen te vervallen (en moet alles o.b.v. een salarisadministratie).
+- Wie bepaalt waaraan betaald gewerkt wordt?
+- Wie bepaalt wanneer een lid actief genoeg is voor een vergoeding, en hoeveel dan?
+- Bepaalde gevallen, bijv. rondom het congres, op kosten van de vereniging 2 nachten hotel à €150 is niet meer mogelijk.
+- Het levert extra werkdruk op die het bestuur in de huidige grootte niet aan kan.
+- Mochten we in de toekomst winstbelasting moeten betalen, dan zou deze totale regeling komen te vervallen (en moet alles o.b.v. een salarisadministratie).
 
 Conclusie van het bestuur: wij zijn geen voorstander van een vrijwilligersvergoeding vanwege de extra administratie die dit oplevert, en de mogelijke creatie van (de schijn van) een werkgever-werknemerrelatie. Het bestuur stelt een alternatief voor:
 
-* Gratis deelname (voucher-achtig) aan één workshop per jaar.
-* Korting van 50% op de contributie.
-* Voorrang bij aanschaf congresticket.
+- Gratis deelname (voucher-achtig) aan één workshop per jaar.
+- Korting van 50% op de contributie.
+- Voorrang bij aanschaf congresticket.
 
 De voorzitters van de commissies bepalen samen met het bestuur wie hiervoor in aanmerking komt. De aanwezigen vinden het alternatief een goed idee, en het nieuwe bestuur zal dit verder oppakken.
 

@@ -1,20 +1,21 @@
 ---
-title: "Bijeenkomst op 24 september bij Incentro"
+title: 'Bijeenkomst op 24 september bij Incentro'
 date: 2014-08-29
 author: Meta Kruijs
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op woensdag 24 september is Fronteers te gast bij Incentro in Amsterdam. Er worden drie presentaties voorzien.
 
 Het programma is als volgt:
 
-* 18:00 Inloop en eten
-* 18:45 Modulair ontwikkelen met Angularjs - Kasper Reijnders
-* 19:00 Frontend Maturity Model - Steven Chim
-* 19:45 Korte pauze
-* 20:00 Mobile Viewports - Peter-Paul Koch
-* 21:00 Borrel
+- 18:00 Inloop en eten
+- 18:45 Modulair ontwikkelen met Angularjs - Kasper Reijnders
+- 19:00 Frontend Maturity Model - Steven Chim
+- 19:45 Korte pauze
+- 20:00 Mobile Viewports - Peter-Paul Koch
+- 21:00 Borrel
 
 Dit evenement vindt plaats bij Incentro in Amsterdam. Lees meer op de [pagina van deze bijeenkomst](https://fronteers.nl/bijeenkomsten/2014/incentro).
 

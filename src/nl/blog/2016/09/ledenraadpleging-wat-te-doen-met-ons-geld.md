@@ -1,10 +1,11 @@
 ---
-title: "Ledenraadpleging: wat te doen met ons geld?"
+title: 'Ledenraadpleging: wat te doen met ons geld?'
 date: 2016-09-28
 author: Bestuur
-categories: 
+categories:
   - Vereniging
 ---
+
 "Zouden we onze vrijwilligers moeten betalen?"
 "Zijn het dan nog wel vrijwilligers?"
 
@@ -24,7 +25,7 @@ We kunnen ook op andere manieren onze vrijwilligers bedanken. Laten we ze op cur
 
 Of toch die donaties aan een goed doel?
 
-*Waarom willen we uberhaupt iets op dit gebied?* De vereniging doet het op financieel gebied goed. _Te_ goed! De meeste van onze activiteiten zijn zelfbedruipend, de weinige echte kosten die we hebben worden ruimschoots gedragen door onze lidmaatschapsinkomsten, en daar bovenop stroomt het geld binnen via onze vacaturebank. In 2012 [hebben we besloten](/blog/2012/11/financien-en-reserves-van-fronteers) onze inkomsten te gebruiken om een aantal reserves op te bouwen om de continuïteit van de vereniging op de langere termijn te kunnen garanderen, maar daar beginnen we zo stilletjes aan ook wel aan te komen. Bovendien lopen we gevaar belasting te moeten gaan betalen door te veel inkomsten en te weinig uitgaven, en we zouden nalatig zijn als we niet proberen dat geld te besteden aan iets dat beter bij de missie van Fronteers past, waarbij het onze vrijwilligers zijn die helpen die missie tot uitvoering te brengen.
+_Waarom willen we uberhaupt iets op dit gebied?_ De vereniging doet het op financieel gebied goed. _Te_ goed! De meeste van onze activiteiten zijn zelfbedruipend, de weinige echte kosten die we hebben worden ruimschoots gedragen door onze lidmaatschapsinkomsten, en daar bovenop stroomt het geld binnen via onze vacaturebank. In 2012 [hebben we besloten](/blog/2012/11/financien-en-reserves-van-fronteers) onze inkomsten te gebruiken om een aantal reserves op te bouwen om de continuïteit van de vereniging op de langere termijn te kunnen garanderen, maar daar beginnen we zo stilletjes aan ook wel aan te komen. Bovendien lopen we gevaar belasting te moeten gaan betalen door te veel inkomsten en te weinig uitgaven, en we zouden nalatig zijn als we niet proberen dat geld te besteden aan iets dat beter bij de missie van Fronteers past, waarbij het onze vrijwilligers zijn die helpen die missie tot uitvoering te brengen.
 
 Aan de andere kant, dit is dus wel verenigingsgeld, dus we kunnen ook proberen alle leden van de vereniging zo veel mogelijk baat te laten hebben bij ons huidige overschot aan inkomsten, door de kosten van zowel congres als workshops naar beneden bij te stellen.
 
@@ -32,4 +33,4 @@ De reden dat we in het verleden huiverig zijn geweest om dit te doen, is dat de 
 
 Misschien dan maar de inkomsten uit de vacaturebank gebruiken om het congres en de workshops te 'sponsoren' en ze voor iedereen - inclusief niet-leden - goedkoper te maken?
 
-*Moet het lidmaatschapsgeld dan niet gewoon omlaag?* Tja, we zullen dat dit jaar wederom voorleggen aan de ALV, zoals we om de paar jaar doen, maar de verwachting is dat de ALV voorstander zal zijn van het handhaven van het huidige niveau, met de redenering dat een minimale drempel van dit niveau zin heeft om een lidmaatschap iets te laten zijn dat alleen wordt overwogen door mensen die serieus bezig zijn met front-end, en specifiek de meerwaarde van het bestaan van Fronteers zien.
+_Moet het lidmaatschapsgeld dan niet gewoon omlaag?_ Tja, we zullen dat dit jaar wederom voorleggen aan de ALV, zoals we om de paar jaar doen, maar de verwachting is dat de ALV voorstander zal zijn van het handhaven van het huidige niveau, met de redenering dat een minimale drempel van dit niveau zin heeft om een lidmaatschap iets te laten zijn dat alleen wordt overwogen door mensen die serieus bezig zijn met front-end, en specifiek de meerwaarde van het bestaan van Fronteers zien.

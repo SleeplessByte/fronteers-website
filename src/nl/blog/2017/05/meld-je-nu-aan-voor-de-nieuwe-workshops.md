@@ -1,10 +1,11 @@
 ---
-title: "Meld je nu aan voor de nieuwe workshops"
+title: 'Meld je nu aan voor de nieuwe workshops'
 date: 2017-05-19
 author: Tom Greuter
-categories: 
+categories:
   - Workshops
 ---
+
 De komende maanden staan er weer boeiende workshops op het programma. Meld je gauw aan als je een deep dive wilt nemen in service workers, inclusive design of WebGL!
 
 ## Service Workers 101

@@ -1,10 +1,11 @@
 ---
-title: "Clichés op het web"
+title: 'Clichés op het web'
 date: 2019-12-20
 author: Paul van Buuren
-categories: 
+categories:
   - Adventskalender
 ---
+
 Letterlijk is een ‘cliché’ een metalen plaat waarmee je illustraties kunt afdrukken. Figuurlijk is een cliché een afgesleten manier van spreken of denken. De eerste keer dat je een grap maakt, is ‘ie leuk. De tweede keer is ‘ie al minder. Na tien keer is ‘ie saai. Clichés zijn de doodgeslagen cola van je denkvermogen, om het op z’n BLØFs te zeggen.
 
 ![Een cliché voor reclame voor King pepermunt](/_img/adventskalender/cliches/king-pepermunt-cliche.jpg)
@@ -147,11 +148,11 @@ Cookie-waarschuwingen zijn bedoeld als pleister, om bezoekers meer controle te g
 
 Daarom denk ik dat het goed is dat we als front-enders veel meer weerstand bieden tegen mogelijke schendingen van de privacy van onze bezoekers. Vraag je bij elk formulier dat je maakt bijvoorbeeld:
 
-* Waarom vraag ik dit van de gebruiker?
-* Moet ik een binair geslacht weten? Welke ramp gebeurt er als ik straks niet iemand aanspreek met ‘Geachte mevrouw’, maar met ‘Hallo’ of ‘Goedendag’?
-* Moet ik echt een telefoonnummer vragen?
-* Wat gebeurt er straks met al deze gegevens?
-* En wat als deze gegevens op straat komen te liggen?
+- Waarom vraag ik dit van de gebruiker?
+- Moet ik een binair geslacht weten? Welke ramp gebeurt er als ik straks niet iemand aanspreek met ‘Geachte mevrouw’, maar met ‘Hallo’ of ‘Goedendag’?
+- Moet ik echt een telefoonnummer vragen?
+- Wat gebeurt er straks met al deze gegevens?
+- En wat als deze gegevens op straat komen te liggen?
 
 Uiteraard wil je weten hoeveel bezoekers je hebt op je site. Maar moet je echt Google mee laten kijken? Google weet welke zoektermen je bezoeker gebruikte en dankzij je niet-geanonimiseerde Analytics-tracker weet het ook hoe snel je bezoeker weer wegstuiterde van je site. Gebruik betere analytics tools, die niet stiekem data doorverkopen aan adverteerders. Advertentieboeren zijn de keyloggers van het internet. Het is tijd dat we het heft weer in eigen hand nemen. Baas over eigen data.
 
@@ -185,9 +186,9 @@ Prima, maar wat als je bezoeker nou moeite heeft met kleuren zien? Dan is het he
 
 Ik heb een paar willekeurige clichés gekozen om over te klagen. Waar dit wat mij betreft op neerkomt is:
 
-* Hoe minder je bezoeker hoeft na te denken over je site hoe beter het is.
-* Hoe minder meuk wij vragen van onze bezoeker, hoe beter het voor hem is.
-* Hoe beter we nadenken over het hoe en waarom we websites maken, hoe beter het voor iedereen is.
+- Hoe minder je bezoeker hoeft na te denken over je site hoe beter het is.
+- Hoe minder meuk wij vragen van onze bezoeker, hoe beter het voor hem is.
+- Hoe beter we nadenken over het hoe en waarom we websites maken, hoe beter het voor iedereen is.
 
 We moeten wat liever zijn voor onze bezoekers en de boel niet te moeilijk maken.
 
@@ -196,6 +197,7 @@ Vrede op aarde.
 (Dit is een vertaling van een praatje dat ik eerder gaf bij de Fronteers Jam Sessions in oktober.)
 
 ### Over Paul van Buuren
+
 <img src="/_img/adventskalender/paul.jpg" alt="Foto van Paul van Buuren" class="floating-portrait" /> 
 Paul van Buuren maakt websites sinds 1998. Zijn vooropleiding heeft niks met webdesign te maken, want dat bestond domweg nog niet. Onder de noemer WBVB Rotterdam werkt hij als zelfstandige voor diverse opdrachtgevers. Z'n specialiteit is het maken van toegankelijke WordPress-sites. Hij praat opvallend vaak in algemeenheden en tegeltjeswijsheden.
 Pauls donatie gaat naar KiKa.

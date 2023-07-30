@@ -1,10 +1,11 @@
 ---
-title: "Het is al goud wiens cursor blinkt"
+title: 'Het is al goud wiens cursor blinkt'
 date: 2011-12-12
 author: Jan Moesen
-categories: 
+categories:
   - Adventskalender
 ---
+
 Een pijnlijk vergezochte titel voor een alledaags onderwerp: de opdrachtregel of terminal. Die tekstinterface voor je computer mag dan wel al meegaan van toen de mainframes nog op stoom werkten, tegenwoordig is hij hipper dan ooit. (Een zwart scherm is het nieuwe, euh, zwart.)
 
 Wie al wat langer in dit wereldje meedraait (hier, neem nog een Werthers Echte), heeft de verandering van "slicer" naar "front-end developer" meegemaakt. Vroeger zat er vaak niemand tussen de designer en de ontwikkelaar van een website. Alles was mooi afgelijnd: de designer leverde een hoop geslicete afbeeldingen op en de ontwikkelaar trok er z'n plan mee. Nu komt daar steeds vaker nog een front-ender bij kijken, en die moet van alle markten thuis zijn. In de praktijk betekent dat bijvoorbeeld overweg kunnen met bronbeheersoftware als Subversion en Git, of met allerlei minifiers voor JS en CSS met tal van opties—allemaal uit te voeren op de opdrachtregel.
@@ -90,15 +91,15 @@ export PS1="\[$(tput setaf 4; tput bold)\](\t) \u@\h \W\n\$ $(tput sgr0)"
 
 Dat is een hele boterham, en in tegenstelling tot wat je moeder altijd zei tijdens het mosselen eten, is het wél nuttig om je voedsel te ontleden:
 
-* `PS1` is de omgevingsvariabele die je prompt instelt.
-* `tput setaf 4` zorgt ervoor dat de verdere tekst blauw wordt.
-* `tput bold` maakt de tekst vet, wat meestal neerkomt op helder gekleurd.
-* `\t` toont de huidige tijd, zodat je die niet uit het oog verliest.
-* `\u@\h` is de gebruikersnaam en de computernaam.
-* `\W` is de huidige map.
-* `\n` is een nieuwe regel: zo heb je meer plaats voor jouw commando.
-* `\$` toont de `$` voor jou en `#` voor de "root"-gebruiker.
-* `tput sgr0` zorgt ervoor dat je niet in het blauw zit te smurf—euh, typen.
+- `PS1` is de omgevingsvariabele die je prompt instelt.
+- `tput setaf 4` zorgt ervoor dat de verdere tekst blauw wordt.
+- `tput bold` maakt de tekst vet, wat meestal neerkomt op helder gekleurd.
+- `\t` toont de huidige tijd, zodat je die niet uit het oog verliest.
+- `\u@\h` is de gebruikersnaam en de computernaam.
+- `\W` is de huidige map.
+- `\n` is een nieuwe regel: zo heb je meer plaats voor jouw commando.
+- `\$` toont de `$` voor jou en `#` voor de "root"-gebruiker.
+- `tput sgr0` zorgt ervoor dat je niet in het blauw zit te smurf—euh, typen.
 
 Je kan veel verder dan dit gaan. En dat brengt me naadloos bij de laatste tip.
 
@@ -109,6 +110,7 @@ Deze en vele andere instellingen die je leven in de terminal verbeteren, zijn ov
 "Good artists copy; great artists pull."
 
 ### Over Jan Moesen
+
 <img src="/_img/2011/12/jan-moesen.jpg" alt="Foto van jan moesen uit 2011" class="floating-portrait" /> 
 [Jan](https://twitter.com/janmoesen) is een webnerd die zich zowel in de browser als op de terminal thuis voelt, en mensen wil doen inzien dat die terminal echt efficiënt is. Dat doet hij op zijn dagtaak als webontwikkelaar, en vanaf begin 2012 ook [op bestelling bij jou](http://tervelo.com/).
 

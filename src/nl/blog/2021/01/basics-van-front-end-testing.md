@@ -1,12 +1,13 @@
 ---
-title: "Basics van front-end testing"
+title: 'Basics van front-end testing'
 date: 2021-01-04
 author: Melle Wynia
-categories: 
+categories:
   - Adventskalender
 graphic:
   src: sigmund-LCun3uxh-z0-unsplash.jpeg
 ---
+
 Als front-end developer zullen de begrippen unit test, integration test en end-to-end test je waarschijnlijk wel bekend voorkomen. Maar wat is het en wanneer gebruik je welke test? Dit artikel is een kleine intro tot de verschillende soorten tests en tools die je als front-end developer tot je beschikking hebt om je code te testen en uiteindelijk de kwaliteit te verbeteren.
 
 # Unit test
@@ -24,7 +25,7 @@ function validatePostcode(postcode) {
     const number = parseInt(matches.groups.getal, 10);
     const chars = matches.groups.letters;
 
-    // Check number range 
+    // Check number range
     if (number < 1000 || number > 9992) return false;
 
     return true;

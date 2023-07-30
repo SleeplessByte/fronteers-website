@@ -1,11 +1,12 @@
 ---
-title: "Bijeenkomst bij Kees™ op 2 september 2009"
+title: 'Bijeenkomst bij Kees™ op 2 september 2009'
 date: 2009-09-02
 eventdate: 2009-09-02
-location: 
-categories: 
-    - meetup
+location:
+categories:
+  - meetup
 ---
+
 Op woensdag 2 september komen de Fronteers en verschillende mensen van de overheid en ICTU bijeen om te discussieren over [de Webrichtlijnen](http://www.webrichtlijnen.nl/). Hoewel één avond eigenlijk te kort is om dit onderwerp goed uit te diepen, doen we in ieder geval een poging om een discussie op gang te krijgen.
 
 # Inloop koffie / thee
@@ -32,34 +33,34 @@ Alexander gaat in op vijf issues die spelen. Hij stelt een vraag en geeft een vo
 
 ## 1. Wanneer is een specificatie geschikt voor opname in de Webrichtlijnen?
 
-* Als het een officiële standaard of W3C recommendation is
-* Wanneer de specificatie in de belangrijkste browsers is geïmplementeerd
-* Zodra de specificatie beschikbaar is
-* Anders (zelf in te vullen)
+- Als het een officiële standaard of W3C recommendation is
+- Wanneer de specificatie in de belangrijkste browsers is geïmplementeerd
+- Zodra de specificatie beschikbaar is
+- Anders (zelf in te vullen)
 
 ## 2. Hoe vaak kun je tussentijds de Webrichtlijnen aanpassen zonder dat het verwarrend wordt?
 
-* Nooit
-* Naar behoefte
-* Met een vaste frequentie bijvoorbeeld twee keer per jaar
-* Pas niet de richtlijnen aan maar de de toetsingscriteria
+- Nooit
+- Naar behoefte
+- Met een vaste frequentie bijvoorbeeld twee keer per jaar
+- Pas niet de richtlijnen aan maar de de toetsingscriteria
 
 ## 3. Voorafgaand aan de ontwikkeling van Webrichtlijnen versie 2 is een lijst opgesteld met richtlijnen die waarschijnlijk overbodig zijn. Is deze lijst compleet?
 
 ## 4. Wat zijn de drie grootste wensen met betrekking tot de Webrichtlijnen
 
-* Weg ermee
-* Maak er een wet van
-* Niet langer alleen verplicht voor de overheid
-* Front-end developer is een beschermd beroep met de Webrichtlijnen als referentie
-* Anders (zelf in te vullen)
+- Weg ermee
+- Maak er een wet van
+- Niet langer alleen verplicht voor de overheid
+- Front-end developer is een beschermd beroep met de Webrichtlijnen als referentie
+- Anders (zelf in te vullen)
 
 ## 5. Hoe manage je compliance met de Webrichtlijnen nadat je klant uit zicht is? Het gaat immers om jouw reputatie!
 
-* Niet, want de factuur is toch al betaald
-* Er wordt altijd opgeleverd met een keurmerk dat is mijn vrijwaring
-* Ik geef standaard een jaar garantie
-* Anders (zelf in te vullen)
+- Niet, want de factuur is toch al betaald
+- Er wordt altijd opgeleverd met een keurmerk dat is mijn vrijwaring
+- Ik geef standaard een jaar garantie
+- Anders (zelf in te vullen)
 
 # Opdrachten
 
@@ -69,7 +70,7 @@ Al snel is iedereen druk aan het schrijven en stickeren. Na een klein half uur v
 
 # Discussie
 
-De stoelen zijn voor de gelegenheid in een kring gezet zodat iedereen gemakkelijk kan deelnemen aan de discussie. De issues worden stuk voor stuk behandeld en een aantal mensen gaat fel in discussie. Ook de beschreven ansichtkaarten brengen we in in de discussie. Al met al een levendig geheel waarbij iedereen zijn zegje kan doen. *Wellicht gaat de discussie [in de comments](/blog/2009/08/bijeenkomst-september) verder?*
+De stoelen zijn voor de gelegenheid in een kring gezet zodat iedereen gemakkelijk kan deelnemen aan de discussie. De issues worden stuk voor stuk behandeld en een aantal mensen gaat fel in discussie. Ook de beschreven ansichtkaarten brengen we in in de discussie. Al met al een levendig geheel waarbij iedereen zijn zegje kan doen. _Wellicht gaat de discussie [in de comments](/blog/2009/08/bijeenkomst-september) verder?_
 
 # Borrel
 

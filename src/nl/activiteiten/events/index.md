@@ -1,5 +1,5 @@
 ---
-title: "Evenementen"
+title: 'Evenementen'
 key: events
 excludeFromCollection: true
 ---

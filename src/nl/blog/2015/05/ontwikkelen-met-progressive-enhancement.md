@@ -1,10 +1,11 @@
 ---
-title: "Ontwikkelen met progressive enhancement"
+title: 'Ontwikkelen met progressive enhancement'
 date: 2015-05-18
 author: Sanne Veroude
-categories: 
+categories:
   - De Artikelen
 ---
+
 Sanne Veroude werkt bij de Voorhoede in Amsterdam, waar ze bij het bouwen van websites gebruik maken van progressive enhancement. In haar artikel vertelt ze over het proces dat zij gebruiken voor progressive enhancement.
 
 # Ontwikkelen met progressive enhancement
@@ -31,8 +32,8 @@ if ('querySelector' in document) {
 
 Browsers die de ‘cut the mustard’ test niet doorstaan, krijgen de minimale gebruikerservaring. Wanneer een browser de cut the mustard test doorstaat:
 
-* wordt JavaScript ingeladen.
-* wordt de class name ‘enhanced’ aan de HTML tag toegevoegd. Binnen deze class wordt de enhanced CSS toegevoegd. JavaScript afhankelijke controls worden binnen deze class gescoped.
+- wordt JavaScript ingeladen.
+- wordt de class name ‘enhanced’ aan de HTML tag toegevoegd. Binnen deze class wordt de enhanced CSS toegevoegd. JavaScript afhankelijke controls worden binnen deze class gescoped.
 
 Doordat JavaScript niet wordt ingeladen voor de oudere browsers, worden deze niet belemmerd door extra requests.
 
@@ -41,7 +42,7 @@ Doordat JavaScript niet wordt ingeladen voor de oudere browsers, worden deze nie
 Nu onze websites moeten werken op een breed scala aan apparaten, zijn onze werkprocessen veranderd. In plaats van het bouwen van complete webpagina’s ontwikkelen we nu een systeem van [componenten](http://daverupert.com/2013/04/responsive-deliverables).
 Ook op dit niveau beginnen we het ontwikkelen van een component met toegankelijke en semantische HTML. Vervolgens voegen we CSS en JavaScript enhancements toe, op basis van features die door de browser worden ondersteund.
 
-Een voorbeeld: we willen een standaard input element met type=”file” laten passen binnen de look & feel van de website. Bovendien willen we het element gebruiksvriendelijker maken voor mobiele devices door het touch target te vergroten. We kunnen [dit doen door](http://www.filamentgroup.com/examples/jquery-custom-file-input/#) het input element een opacity van 0 te geven en er een `<div>` element overheen te plaatsen die we de custom CSS geven. 
+Een voorbeeld: we willen een standaard input element met type=”file” laten passen binnen de look & feel van de website. Bovendien willen we het element gebruiksvriendelijker maken voor mobiele devices door het touch target te vergroten. We kunnen [dit doen door](http://www.filamentgroup.com/examples/jquery-custom-file-input/#) het input element een opacity van 0 te geven en er een `<div>` element overheen te plaatsen die we de custom CSS geven.
 Omdat deze oplossing gebruik maakt van de opacity property, willen we de enhancement alleen serveren aan browsers die deze property ondersteunen. Dus eerst checken we voor opacity support:
 
 ```
@@ -116,9 +117,10 @@ Hetzelfde geldt voor de manier waarop we websites bouwen: gebruikers moeten alti
 
 Progressive enhancement biedt ons een aantal praktische methodes waarmee we:
 
-* door middel van feature detection geavanceerde technieken kunnen aanbieden aan moderne browsers, terwijl de basiservaring altijd beschikbaar is voor minder capabele browsers.
-* een website bestand maken tegen onverwachte gebeurtenissen, waardoor deze ook bruikbaar is in het geval van een instabiele internetverbinding.
+- door middel van feature detection geavanceerde technieken kunnen aanbieden aan moderne browsers, terwijl de basiservaring altijd beschikbaar is voor minder capabele browsers.
+- een website bestand maken tegen onverwachte gebeurtenissen, waardoor deze ook bruikbaar is in het geval van een instabiele internetverbinding.
 
 ### Over Sanne Veroude
+
 <img src="/_img/blog/2015/sanneveroude.png" alt="Foto van Sanne">
 Front-end developer, likes building stuff accessible for everyone and on every device

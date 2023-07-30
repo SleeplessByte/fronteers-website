@@ -1,10 +1,11 @@
 ---
-title: "CSS en JavaScripters"
+title: 'CSS en JavaScripters'
 date: 2018-12-21
 author: Peter-Paul Koch
-categories: 
+categories:
   - Adventskalender
 ---
+
 Een probleem dat ik de laatste twee of drie jaar steeds vaker zie opduiken, is dat het lijkt alsof een boel JavaScripters, vooral diegenen die in grote toolchains hebben geïnvesteerd, niet meer zo goed weten hoe CSS werkt.
 
 Om daar wat aan te doen heb ik het plan opgevat hier een boek aan te wijden. Dit artikel is een soort voorschot daarop. Bovendien is het leuke van de Fronteers-crew dat de meeste mensen vloeiend zijn in zowel CSS als JavaScript en dat ik hier dus wellicht wat nuttige feedback kan krijgen.

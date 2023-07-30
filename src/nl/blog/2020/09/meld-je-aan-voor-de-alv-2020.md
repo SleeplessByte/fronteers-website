@@ -1,11 +1,12 @@
 ---
-title: "Meld je aan voor de ALV 2020"
+title: 'Meld je aan voor de ALV 2020'
 date: 2020-09-21
 author: Anneke Sinnema
-categories: 
+categories:
   - Leden
   - Vereniging
 ---
+
 Op woensdagavond 14 oktober vanaf 20:00 houden we onze jaarlijkse algemene ledenvergadering (ALV)! Alle leden zijn hiervoor van harte uitgenodigd. De vergadering vindt dit keer vanwege het Coronavirus online plaats, via Jitsi Meet. Vooraf software installeren op je computer is niet nodig, mocht je willen inbellen vanaf je telefoon, dan zijn er apps beschikbaar voor [Android, iOS en F-Droid](https://jitsi.org/downloads/)!
 
 [English version](#english-version) below.
@@ -17,18 +18,18 @@ Notulen van de avond worden altijd zo snel mogelijk na de vergadering online ged
 
 # Voorlopige agenda
 
-* Opening
-* Jaarrekening 2019
-* Bevindingen kascommissie
-* Benoeming nieuwe kascommissie
-* Financiën 2020
-* Begroting 2021
-* Herbenoeming Anneke Sinnema
-* Herbenoeming Edwin Martin
-* Toelichting commissies
-* Evaluatie W3C-lidmaatschap
-* Rondvraag
-* Sluiting
+- Opening
+- Jaarrekening 2019
+- Bevindingen kascommissie
+- Benoeming nieuwe kascommissie
+- Financiën 2020
+- Begroting 2021
+- Herbenoeming Anneke Sinnema
+- Herbenoeming Edwin Martin
+- Toelichting commissies
+- Evaluatie W3C-lidmaatschap
+- Rondvraag
+- Sluiting
 
 # Aanmelden
 
@@ -44,27 +45,19 @@ Below, you'll find the provisional program of the evening. The financial documen
 
 # (Provisional) Agenda
 
-* Opening
-* Financial Statements 2019
-* Findings of the treasury committee
-* Naming of the new treasury committee
-* Finances of 2020
-* Budget for 2021
-* Reappointment Anneke Sinnema
-* Reappointment Edwin Martin
-* Report of committees
-* Evaluation W3C membership
-* Round of questions
-* Close
+- Opening
+- Financial Statements 2019
+- Findings of the treasury committee
+- Naming of the new treasury committee
+- Finances of 2020
+- Budget for 2021
+- Reappointment Anneke Sinnema
+- Reappointment Edwin Martin
+- Report of committees
+- Evaluation W3C membership
+- Round of questions
+- Close
 
 Van deze ALV zijn de notulen beschikbaar:
 
 [Notulen ALV 14 oktober 2020](https://fronteers.nl/vereniging/bestuur/notulen/notulen-alv-14-oktober-2020)
-
-
-
-
-
-
-
-

@@ -1,20 +1,21 @@
 ---
-title: "Bijeenkomst bij de Persgroep op 27 november 2014"
+title: 'Bijeenkomst bij de Persgroep op 27 november 2014'
 date: 2014-11-10
 eventdate: 2014-11-10
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Op donderdag 27 november 2014 is Fronteers te gast bij De Persgroep Publishing in Asse (Kobbegem). Er worden drie presentaties voorzien.
 
 # Het programma is als volgt:
 
-* 18:00 ontvangst met broodjes en een drankje
-* 19:00 [Harald Bertels](https://twitter.com/Bizonder) over _Design collaboration_
-* 19:30 [Pieter Mergan](https://twitter.com/FirstManOnDaMoo) over _Schema.org microdata_ ([slides](http://www.slideshare.net/FirstManOnDaMoon/fronteers-schemaorgv2))
-* 20:15 [Jochen Vandendriessche](https://twitter.com/joggink) over _Large Scale JavaScript Design Patterns (and how we use them at De Persgroep)_ ([slides](http://static.joggink.com/fronteers/js-patterns/#/))
-* 21:00 naborrelen
+- 18:00 ontvangst met broodjes en een drankje
+- 19:00 [Harald Bertels](https://twitter.com/Bizonder) over _Design collaboration_
+- 19:30 [Pieter Mergan](https://twitter.com/FirstManOnDaMoo) over _Schema.org microdata_ ([slides](http://www.slideshare.net/FirstManOnDaMoon/fronteers-schemaorgv2))
+- 20:15 [Jochen Vandendriessche](https://twitter.com/joggink) over _Large Scale JavaScript Design Patterns (and how we use them at De Persgroep)_ ([slides](http://static.joggink.com/fronteers/js-patterns/#/))
+- 21:00 naborrelen
 
 # Harald Bertels, _Design collaboration_
 
@@ -230,8 +231,7 @@ Volg de discussie via Twitter op [#fronteersbe](https://twitter.com/search?q=%23
 </tr>
 </table>
 
-
-Naast bovenstaande officiële lijst kunnen aangemelde deelnemers ook [via Lanyrd aangeven dat ze aanwezig zullen zijn](http://lanyrd.com/2014/fronteersbe-persgroep/). *Inschrijven via het onderstaande formulier is echter verplicht!*
+Naast bovenstaande officiële lijst kunnen aangemelde deelnemers ook [via Lanyrd aangeven dat ze aanwezig zullen zijn](http://lanyrd.com/2014/fronteersbe-persgroep/). _Inschrijven via het onderstaande formulier is echter verplicht!_
 
 {%- comment -%}
 {%- form -%}

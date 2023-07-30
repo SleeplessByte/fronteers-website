@@ -1,31 +1,32 @@
 ---
-title: "Fuck the system, be nice"
+title: 'Fuck the system, be nice'
 date: 2018-12-23
 author: Paul van Buuren
-categories: 
+categories:
   - Adventskalender
 ---
+
 Het is de tijd voor de goede voornemens. Laat me je helpen een fijnere collega te worden met 5 Ware Waarheden om een leukere collega en een betere front-ender te zijn.
 
 # TL;DR:
 
-* wees bescheiden
-* omring je niet met klonen van jezelf
-* deel je kennis
-* laat je inspireren door kunst
-* zeur niet
+- wees bescheiden
+- omring je niet met klonen van jezelf
+- deel je kennis
+- laat je inspireren door kunst
+- zeur niet
 
 # 1: Jij bent niet je gebruiker
 
 ![Tegeltje met de tekst: "Assumption is the mother of all fuck ups"](/_img/adventskalender/assumption-is-the-mother-of-all-fuck-ups-576x576.png)
 
-Eigenlijk zijn toegankelijkheidsrichtlijnen een grote les in nederigheid. Elk succescriterium is een herinnering: niet iedereen is zoals jij. Er zijn mensen die het web anders gebruiken dan jij. Ja echt, sorry.  Je kunt nooit alle mogelijke scenario’s testen en ondervangen. Maar je kunt er wel rekening mee houden dat je site-bezoeker niet exact denkt of doet als jij verwacht.
+Eigenlijk zijn toegankelijkheidsrichtlijnen een grote les in nederigheid. Elk succescriterium is een herinnering: niet iedereen is zoals jij. Er zijn mensen die het web anders gebruiken dan jij. Ja echt, sorry. Je kunt nooit alle mogelijke scenario’s testen en ondervangen. Maar je kunt er wel rekening mee houden dat je site-bezoeker niet exact denkt of doet als jij verwacht.
 
 Er zijn bijvoorbeeld mensen die amper een muis gebruiken en alles met een toetsenbord doen. Dus daarom test je of je site het doet met alleen toetsenbordbediening. Er zijn mensen die zo kippig zijn dat ze hun computer in hoog-contrastmodus gebruiken met een heel grote letter. Daarom gebruik je bijvoorbeeld schaalbare lettergroottes in plaats van pixels, want je wil dat de tekst fatsoenlijk meegroeit als de gebruiker inzoomt, om maar eens succescriterium 1.4.4 als voorbeeld te nemen. En je test of je site nog steeds begrijpelijk is als geen scripts of stylesheets geladen zijn. Er zijn volslagen idiote types – zoals ik – die beleefd alle cookies weigeren omdat ze zo min mogelijk gevolgd willen worden op het web (en ook om het web stuk te maken, ook dat). Ik accepteer alleen cookies als ik moet inloggen of als ik een webshopwinkelwagentje vul. Als je cookies nodig hebt, is het dus handig dat je eerst checkt of er überhaupt cookies geplaatst mogen worden.
 
-* Hoe houd je een website begrijpelijk als je weet dat ‘ie gebruikt kan worden via een desktop, een screenreader, iemands commandline, een
-* ereader, een smartwatch? Hou je er rekening mee dat niet iedereen zo
-* goed kan lezen als jij? Ingewikkeld? Ingewikkelde dingen simpel maken is het mooiste in dit vak.
+- Hoe houd je een website begrijpelijk als je weet dat ‘ie gebruikt kan worden via een desktop, een screenreader, iemands commandline, een
+- ereader, een smartwatch? Hou je er rekening mee dat niet iedereen zo
+- goed kan lezen als jij? Ingewikkeld? Ingewikkelde dingen simpel maken is het mooiste in dit vak.
 
 # 2: Liever één goed elftal dan elf goede ééntallen
 
@@ -78,6 +79,7 @@ En als je ideeën, systemen wilt afkraken: gebruik humor en argumenten.
 Fuck the system, be nice.
 
 ### Over Paul van Buuren
+
 <img src="/_img/adventskalender/paul.jpg" alt="Foto van Paul van Buuren" class="floating-portrait" /> 
 Paul van Buuren maakt websites sinds 1998. Zijn vooropleiding heeft niks met webdesign te maken, want dat bestond domweg nog niet. Onder de noemer WBVB Rotterdam werkt hij als zelfstandige voor diverse opdrachtgevers. Z'n specialiteit is het maken van toegankelijke WordPress-sites. Hij praat opvallend vaak in algemeenheden en tegeltjeswijsheden.
 Donatie:

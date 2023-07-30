@@ -1,10 +1,11 @@
 ---
-title: "Fronteers nieuwjaarsborrel"
+title: 'Fronteers nieuwjaarsborrel'
 date: 2013-12-22
 author: Meta Kruijs
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Een nieuw jaar, een nieuwe locatie voor de Fronteers nieuwjaarsborrel, speciaal voor leden!
 
 Op vrijdag 17 januari 2014 organiseert Fronteers een Nieuwjaarsborrel voor leden. Deze zal plaatsvinden in Cafe Lebowski, in Utrecht.

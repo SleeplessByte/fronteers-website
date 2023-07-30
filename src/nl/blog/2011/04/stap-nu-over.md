@@ -1,10 +1,11 @@
 ---
-title: "Fronteers adviseert af te stappen van HTML"
+title: 'Fronteers adviseert af te stappen van HTML'
 date: 2011-04-01
 author: Bestuur
-categories: 
+categories:
   - Website
 ---
+
 Als vakvereniging voor front-end ontwikkelend Nederland proberen we de trends in onze branche goed in de gaten te houden. HTML5, het mobiele web, responsive design, 3D geneuzel in je browser; het zit er allemaal aan te komen. Maar wat betekent dit voor onze toekomst? Moeten we echt iedere dag bij blijven leren en tijd verspillen aan artikelen en demo's die slechts 10% van onze bezoekers kunnen zien? Waarom kunnen we niet gewoon tevreden zijn met wat we al hebben?
 
 HTML5 zorgt alleen maar voor meer veiligheidsproblemen. Privacy op het web behoort nu al tot het verleden. Testcases voor CSS worden afgeraffeld door browser bouwers. JavaScript wordt steeds sneller, maar tegelijkertijd worden libraries alleen maar groter. Google probeert hard het web sneller te krijgen, maar trends tonen aan dat pagina's alleen maar zwaarder worden. De mobiele web maffia probeert ons te doen geloven dat we eerst aan hun moeten denken, voordat we zooi toevoegen. En aan de andere kant zijn er figuren die blindstaren op het "One Web" mantra.

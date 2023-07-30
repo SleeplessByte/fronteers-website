@@ -1,20 +1,21 @@
 ---
-title: "Bijeenkomst bij Kabisa op 8 april 2015"
+title: 'Bijeenkomst bij Kabisa op 8 april 2015'
 date: 2015-04-08
 eventdate: 2015-04-08
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Op woensdag 8 april 2015 is Fronteers te gast bij [Kabisa](http://www.kabisa.nl) in Weert. Er worden twee presentaties gehouden.
 
 # Het programma is als volgt:
 
-* 18:00 uur Ontvangst met buffet & drankje
-* 19:00 uur Rik Schennink - Conditioner.js
-* 19:45 uur Korte pauze
-* 20:00 uur Koen Kivits - Bowser in de browser
-* 20:45 uur Borrel
+- 18:00 uur Ontvangst met buffet & drankje
+- 19:00 uur Rik Schennink - Conditioner.js
+- 19:45 uur Korte pauze
+- 20:00 uur Koen Kivits - Bowser in de browser
+- 20:45 uur Borrel
 
 Geen tijd om na je werk nog ergens een hapje te gaan eten? Geen nood: er staat vanaf 18:00u een lekker buffet voor je klaar. Geef even door of je aanschuift, en of je nog speciale dieetwensen hebt.
 
@@ -24,7 +25,7 @@ Rik zal spreken over Conditioner.js, een door hem ontwikkelde javascript library
 
 {%- vimeo "144794951" -%}
 
-# Koen Kivits - Bowser in de browser  ([slides](http://koenkivits.github.io/slides/20150408-kabisafronteers/))
+# Koen Kivits - Bowser in de browser ([slides](http://koenkivits.github.io/slides/20150408-kabisafronteers/))
 
 Wat gebeurt er als je 30 jaar oude techniek naar de browsers van nu brengt? Koen vertelt over het experimenteren met nieuwe browser API's om de NES console nieuw leven in te blazen.
 
@@ -35,8 +36,6 @@ Wat gebeurt er als je 30 jaar oude techniek naar de browsers van nu brengt? Koen
 Kabisa is gevestigd op de Marconilaan 8, 6003 DD Weert. Op dit bedrijventerrein is voldoende parkeergelegenheid. Met openbaar vervoer kan ook: pak bus 61 of 82 vanaf station Weert naar halte Marconilaan, dan 5 minuutjes lopen. Meld je bij aankomst even bij de receptie van het Dancohr gebouw, dan word je naar binnen geloodst.
 
 {%- googlemaps "Kabisa, Marconilaan 8, 6003 DD Weert" -%}
-
-
 
 # Aanmeldingen
 

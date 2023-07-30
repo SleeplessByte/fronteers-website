@@ -1,9 +1,10 @@
 ---
 title: Voorwaarden
 key: terms-and-conditions
-heroSlogan: ""
+heroSlogan: ''
 ---
-Iedereen mag lid worden van Fronteers. De contributie bedraagt {{ general-info.contribution }} (inclusief btw). 
+
+Iedereen mag lid worden van Fronteers. De contributie bedraagt {{ general-info.contribution }} (inclusief btw).
 Leden die zich na 30 juni opgeven, betalen hiervan de helft, {{ general-info.contribution_discounted }}. Een lidmaatschap van Fronteers geldt voor een kalenderjaar.
 
 Voor studenten worden deze bedragen gehalveerd, tot {{ general-info.students_contribution }} en {{ general-info.students_discounted }}.

@@ -1,19 +1,20 @@
 ---
-title: "Bijeenkomst op 19 april in Breda"
+title: 'Bijeenkomst op 19 april in Breda'
 date: 2012-03-20
 author: Arjan Eising
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op donderdag 19 april is Fronteers wederom te gast bij [e-sites](http://e-sites.nl) in Breda. De presentaties zijn gerelateerd aan JavaScript, en gaan redelijk diep in op de materie. Nikolai Onken en Anne van Kesteren zullen spreken.
 
 # Het programma is als volgt:
 
-* 18.30 inloop
-* 19.30 Nikolai Onken over een geavanceerd JavaScript onderwerp
-* 20.30 korte pauze
-* 20.45 Anne van Kesteren over standaarden
-* 21.45 borrelen
+- 18.30 inloop
+- 19.30 Nikolai Onken over een geavanceerd JavaScript onderwerp
+- 20.30 korte pauze
+- 20.45 Anne van Kesteren over standaarden
+- 21.45 borrelen
 
 # Tales from a standards engineer, door Anne van Kesteren
 

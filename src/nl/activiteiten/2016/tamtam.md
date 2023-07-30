@@ -1,11 +1,12 @@
 ---
-title: "Bijeenkomst bij TamTam op 24 februari 2016"
+title: 'Bijeenkomst bij TamTam op 24 februari 2016'
 date: 2016-01-14
 eventdate: 2016-01-14
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Op woensdag 24 februari 2016 is Fronteers te gast bij TamTam in Amsterdam. Er staan twee sprekers op het programma.
 
 # Sprekers
@@ -24,11 +25,11 @@ Nick deelt in zijn presentatie alles over het integreren van backend-less develo
 
 # Het programma
 
-* 18:00 - inloop met pizza
-* 19:00 - Simon Colijn - Designing a System of Components
-* 19:45 - korte pauze
-* 20:00 - Nick Groenewegen - Optimizing your Application Workflow using Backendless Development
-* We sluiten af met een borrel.
+- 18:00 - inloop met pizza
+- 19:00 - Simon Colijn - Designing a System of Components
+- 19:45 - korte pauze
+- 20:00 - Nick Groenewegen - Optimizing your Application Workflow using Backendless Development
+- We sluiten af met een borrel.
 
 # Waar?
 
@@ -37,14 +38,12 @@ Tam Tam, Helicopterstraat 25, Amsterdam
 Afslag S107 vanaf de A4
 Bus en metro zijn op 10 minuten loopafstand
 
-* Parkeren kan voor de deur, er is voldoende ruimte, €0,10 voor de eerste 3 uur.
-* Betalingsmethoden: pin, mobiel parkeren
+- Parkeren kan voor de deur, er is voldoende ruimte, €0,10 voor de eerste 3 uur.
+- Betalingsmethoden: pin, mobiel parkeren
 
 Zie ook [https://www.tamtam.nl/contact/](https://www.tamtam.nl/contact/)
 
 {%- googlemaps "Tam Tam, Helicopterstraat 25, Amsterdam" -%}
-
-
 
 # Vragen?
 

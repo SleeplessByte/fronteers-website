@@ -220,7 +220,8 @@ There are also various elements that can be embedded /included directly. The com
 
 ```liquid
 {% aboutushero "We are a proud union" %}
-Test Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Test Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.
 {% endaboutushero %}
 ```
 
@@ -253,23 +254,27 @@ This is a quote
 (Remove newlines):
 
 ```liquid
-{% memberquote
-  "Member"
+{%
+  memberquote "Member"
   "Jobtitle"
   "/path/to/avatar"
   "Shield value"
-%}Member Quote{% endmemberquote %}
+-%}
+Member Quote{% endmemberquote %}
 ```
 
 For example (remove newlines):
 
 ```liquid
-{% memberquote
-  "Anneke Sinnema"
+{%
+  memberquote "Anneke Sinnema"
   "Frontender"
   "/assets/member-avatars/anneke-sinnema.png"
-  "annekesinnema" %}
-  To all users of technology who are willing to take a chance, make a choice, and try a new way of doing things so that we can nurture and enjoy a happy, healthy planet.
+  "annekesinnema"
+%}
+To all users of technology who are willing to take a chance, make a choice, and
+try a new way of doing things so that we can nurture and enjoy a happy, healthy
+planet.
 {% endmemberquote %}
 ```
 
@@ -422,8 +427,8 @@ click them.
 (remove newlines)
 
 ```liquid
-{% banner
-  "style"
+{%
+  banner "style"
   "Heading"
   "https://example.com/"
   "/_img/path/to/image"
@@ -436,8 +441,8 @@ click them.
 For example (remove newlines):
 
 ```liquid
-{% banner
-  "greater"
+{%
+  banner "greater"
   "Banner with short code! (greater style)"
   "https://github.com/"
   "/_img/adventskalender/2020/thats-all-folks/porky.jpeg-full.jpg"
@@ -476,22 +481,25 @@ You can also use `include` directly, for example to draw shapes (remove newlines
 <!-- {% raw %} -->
 
 ```liquid
-<section class="inner-wrapper">
-    <div class="greater-than-bg">
-        {% include partials/utility/dynamic-headerlevel
-          level: "h3"
-          title: "My greater than shape" %}
-    </div>
-    <div class="curly-braces-bg">
-        {% include partials/utility/dynamic-headerlevel
-          level: "h4"
-          title: "My curly braces shape" %}
-    </div>
-    <div class="parentheses-bg">
-        {% include partials/utility/dynamic-headerlevel
-          level: "h5"
-          title: "My parentheses shape" %}
-    </div>
+<section class='inner-wrapper'>
+  <div class='greater-than-bg'>
+    {% include 'partials/utility/dynamic-headerlevel',
+      level: 'h3',
+      title: 'My greater than shape'
+    %}
+  </div>
+  <div class='curly-braces-bg'>
+    {% include 'partials/utility/dynamic-headerlevel',
+      level: 'h4',
+      title: 'My curly braces shape'
+    %}
+  </div>
+  <div class='parentheses-bg'>
+    {% include 'partials/utility/dynamic-headerlevel',
+      level: 'h5',
+      title: 'My parentheses shape'
+    %}
+  </div>
 </section>
 ```
 
@@ -499,12 +507,12 @@ You can also use `include` directly, for example to draw shapes (remove newlines
 
 <section class="inner-wrapper">
     <div class="greater-than-bg">
-        {% include partials/utility/dynamic-headerlevel level: "h3" title: "My greater than shape" %}
+        {% include 'partials/utility/dynamic-headerlevel' level: "h3" title: "My greater than shape" %}
     </div>
     <div class="curly-braces-bg">
-        {% include partials/utility/dynamic-headerlevel level: "h4" title: "My curly braces shape" %}
+        {% include 'partials/utility/dynamic-headerlevel' level: "h4" title: "My curly braces shape" %}
     </div>
     <div class="parentheses-bg">
-        {% include partials/utility/dynamic-headerlevel level: "h5" title: "My parentheses shape" %}
+        {% include 'partials/utility/dynamic-headerlevel' level: "h5" title: "My parentheses shape" %}
     </div>
 </section>

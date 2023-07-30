@@ -1,19 +1,20 @@
 ---
-title: "Bijeenkomst bij 3SIGN op 28 april 2015"
+title: 'Bijeenkomst bij 3SIGN op 28 april 2015'
 date: 2015-04-28
 eventdate: 2015-04-28
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Op dinsdag 28 april 2015 is Fronteers te gast bij 3SIGN in Eeklo. Er worden twee presentaties voorzien.
 
 # Het programma is als volgt:
 
-* 18:00 ontvangst met verse pizza en een drankje
-* 19:00 “De mythe van het extra werk van de AnySurfer-richtlijnen” door [Bart De Clercq](https://twitter.com/b_de_clercq)
-* 20:00 “Help! De designer werkt met Illustrator” + “Introductie in Sketch en Zeplin” door [Dries van Giel](https://twitter.com/macetaria)
-* 21:00 naborrelen
+- 18:00 ontvangst met verse pizza en een drankje
+- 19:00 “De mythe van het extra werk van de AnySurfer-richtlijnen” door [Bart De Clercq](https://twitter.com/b_de_clercq)
+- 20:00 “Help! De designer werkt met Illustrator” + “Introductie in Sketch en Zeplin” door [Dries van Giel](https://twitter.com/macetaria)
+- 21:00 naborrelen
 
 # Waar?
 
@@ -142,8 +143,7 @@ Volg de discussie via Twitter op [#fronteersbe](https://twitter.com/search?q=%23
 </tr>
 </table>
 
-
-Naast bovenstaande officiële lijst kunnen aangemelde deelnemers ook [via Lanyrd aangeven dat ze aanwezig zullen zijn](http://lanyrd.com/2015/fronteersbe-3sign/). *Inschrijven via het onderstaande formulier is echter verplicht!*
+Naast bovenstaande officiële lijst kunnen aangemelde deelnemers ook [via Lanyrd aangeven dat ze aanwezig zullen zijn](http://lanyrd.com/2015/fronteersbe-3sign/). _Inschrijven via het onderstaande formulier is echter verplicht!_
 
 {%- comment -%}
 {%- form -%}

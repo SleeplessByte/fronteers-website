@@ -1,10 +1,11 @@
 ---
-title: "Goeie docs = Happy devs"
+title: 'Goeie docs = Happy devs'
 date: 2019-12-03
 author: Anke Willems
-categories: 
+categories:
   - Adventskalender
 ---
+
 Je hebt een geweldige app gemaakt, een mooie site gebouwd of een stevig CMS in elkaar gezet. Maanden werk. Je snapt zelf helemaal hoe het in elkaar zit. En dan komen ze: de vragen. Vragen van anderen die met jouw product aan de slag gaan.
 
 Een draagvlak krijgen voor je app, script, plugin of anderszins, valt of staat bij goede documentatie. Gebruikers zijn ongeduldig, ze zoeken iets dat snel werkt. En als ze zich in de steek gelaten voelen zonder goede documentatie, zoeken ze door naar de volgende app. Want: als iets niet meteen werkt én je snapt ook nog eens de documentatie niet, voel je je dom of vind je de app dom. Niemand wil zich dom voelen, dus als er geen (goede) docs zijn en iemand worstelt met het starten met je app raak je die gebruiker snel kwijt. Dit zegt niks over hoe goed je applicatie is, maar de waarheid is dat niets zichzelf verkoopt, hoe goed het ook is.
@@ -47,7 +48,7 @@ preLoadChecks();
 Magic numbers? Het liefst gebruik je zo min mogelijk _magic numbers_ in je code. Toch gebruikt? Leg uit waarom.
 
 ```
-width: 200px; /* Magic number, needs fixing! Exact width of logo, 
+width: 200px; /* Magic number, needs fixing! Exact width of logo,
                  looks best on mobile like this */
 ```
 
@@ -66,22 +67,22 @@ Een goede README in je git repository laat je project opvallen in de massa ander
 
 Je README moet voldoende info bevatten om mensen snel op weg te helpen. Denk daarbij aan:
 
-* Een introductie. Wat voor project is dit? Wat doet het en voor wie is het? Hou het simpel met heldere taal en korte zinnen. 
-* Wat maakt dit project zo uniek en speciaal? Bezoekers die op GitHub zoeken naar een geschikte app of plugin, willen snel kunnen vergelijken. 
-* Screenshots en/of code voorbeelden.
-* Welke specs zijn nodig? 
-* Welke stappen zijn nodig voor de installatie? 
-* Hoe kan je meehelpen? Laat mensen weten hoe ze kunnen bijdragen aan je project. 
-* Credits! Wie hebben er meegebouwd? 
-* Is er een licentie, en zo ja, welke?
+- Een introductie. Wat voor project is dit? Wat doet het en voor wie is het? Hou het simpel met heldere taal en korte zinnen.
+- Wat maakt dit project zo uniek en speciaal? Bezoekers die op GitHub zoeken naar een geschikte app of plugin, willen snel kunnen vergelijken.
+- Screenshots en/of code voorbeelden.
+- Welke specs zijn nodig?
+- Welke stappen zijn nodig voor de installatie?
+- Hoe kan je meehelpen? Laat mensen weten hoe ze kunnen bijdragen aan je project.
+- Credits! Wie hebben er meegebouwd?
+- Is er een licentie, en zo ja, welke?
 
 # Documentatiesites
 
 Voor de grotere projecten maak je een documentatie-website. Een handleiding waarin je je gebruiker bij de hand neemt om de applicatie zo goed mogelijk te gebruiken. Met de verschillende leerstijlen in gedachten kan je verschillende ingangen maken voor gebruikers. Bijvoorbeeld - Een stap-voor-stap uitleg. Voor het opzetten van een installatie of een eerste demo. De doeners in je doelgroep worden hier blij van! - Via een inhoudsopgave op kernwoorden. - Een serie video tutorials
 
-* Een stap-voor-stap uitleg. Voor het opzetten van een installatie of een eerste demo. De doeners in je doelgroep worden hier blij van! 
-* Via een inhoudsopgave op kernwoorden. 
-* Een serie video tutorials
+- Een stap-voor-stap uitleg. Voor het opzetten van een installatie of een eerste demo. De doeners in je doelgroep worden hier blij van!
+- Via een inhoudsopgave op kernwoorden.
+- Een serie video tutorials
 
 Veel mensen starten met **doen**. Ze installeren je applicatie en klikken er in rond. Als het goed is zit je applicatie duidelijk in elkaar en snappen mensen direct wat ze moeten doen. Komen ze een hobbel tegen, dan gaan ze op zoek naar de docs.
 
@@ -97,7 +98,7 @@ Focus niet op het _happy path_: het scenario waarbij alles vlekkeloos verloopt i
 
 Gebruik de exacte bewoording van foutmeldingen. Gebruikers _google-en_ immers vaak de melding en komen zo direct op jouw site waar de oplossing staat.
 
-Vermijd wollig taalgebruik en schrijf actief. ‘_You will see the big red button on the top. Press this to go to the configuration page where you can edit the settings_’ wordt: ‘_Edit the configuration settings by pressing the ’config’ button_’. 
+Vermijd wollig taalgebruik en schrijf actief. ‘_You will see the big red button on the top. Press this to go to the configuration page where you can edit the settings_’ wordt: ‘_Edit the configuration settings by pressing the ’config’ button_’.
 Eenvoudig: Hoe kortere zinnen (én woorden!), hoe makkelijker leesbaar. En geen enkele gebruiker heeft ooit geklaagd dat iets ‘te makkelijk leesbaar’ was.
 
 Mensen leren van fouten van anderen. Kom je zelf een foutmelding tegen die niet gedocumenteerd is? Draag bij aan de documentatie door bijvoorbeeld een pull request.
@@ -124,11 +125,12 @@ Dit waren mijn tips. Hopelijk helpt deze blog je op weg als je de volgende keer 
 
 # Meer informatie?
 
-* Tips voor code comments op Hongkiat: [Source Code Comment Styling: Tips and Best Practices](https://www.hongkiat.com/blog/source-code-comment-styling-tips/)
-* Tips voor een goede README op Medium: [A Beginners Guide to writing a Kickass README](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-* Hoe schermvideo’s opnemen op de Mac: [Apple: How to record the screen on your iPhone, iPad, or iPod touch](https://support.apple.com/en-us/HT207935) [Apple: How to record the screen on your Mac](https://support.apple.com/en-us/HT208721)
+- Tips voor code comments op Hongkiat: [Source Code Comment Styling: Tips and Best Practices](https://www.hongkiat.com/blog/source-code-comment-styling-tips/)
+- Tips voor een goede README op Medium: [A Beginners Guide to writing a Kickass README](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+- Hoe schermvideo’s opnemen op de Mac: [Apple: How to record the screen on your iPhone, iPad, or iPod touch](https://support.apple.com/en-us/HT207935) [Apple: How to record the screen on your Mac](https://support.apple.com/en-us/HT208721)
 
 ### Over Anke Willems
+
 <img src="/_img/adventskalender/anke.jpeg" alt="Foto van anke" class="floating-portrait">
 Anke is webdesigner en front-end developer bij Two Kings. In een eerder leven was ze grafisch ontwerper (met drukwerk en papier en zo), maar digitaal vind ze toch echt leuker. Heeft een grote liefde voor het maken van kleine gebruiksaanwijzingen die op een post-it moeten passen. Maakte de afgelopen twee jaar ook de sketch notes van de Fronteers Conferentie.
 Ankes donatie gaat naar Stem op een vrouw.

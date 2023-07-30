@@ -1,10 +1,11 @@
 ---
-title: "Commissie Onderwijs: docentendag, commissieleden gezocht en bronnen bijgewerkt"
+title: 'Commissie Onderwijs: docentendag, commissieleden gezocht en bronnen bijgewerkt'
 date: 2011-02-01
 author: Arjan Eising
-categories: 
+categories:
   - Onderwijs
 ---
+
 De commissie Onderwijs organiseert op 25 februari 2011 een docentendag in Amsterdam. Ook zoekt zij nieuwe commissieleden. Daarnaast zijn de bronnen op de website bijgewerkt.
 
 # Docentendag

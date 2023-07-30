@@ -1,10 +1,11 @@
 ---
-title: "&quot;Ik doe ook front-end&quot;"
+title: '&quot;Ik doe ook front-end&quot;'
 date: 2018-12-17
 author: Sander Langendoen
-categories: 
+categories:
   - Adventskalender
 ---
+
 Nadat ik kennis heb gemaakt met een Poolse collega bij het koffiezetapparaat, bevliegt mij weer eens een terugkerend vraagstuk. Mijn Poolse collega blijkt een back-end developer te zijn die in een geheel Pools team werkt voor mijn nieuwe opdrachtgever. Terwijl ik tijdens het tappen van mijn espresso uitleg dat ik tijdelijk word ingehuurd als front-end developer, reageert hij direct “Yes, I do front-end too”. Ik dwaal direct af, nadenkend over zijn skills, gezien hij aangeeft een back-end developer te zijn. Ik zie front-end development als een specifiek vakgebied, waar je bepaalde skills voor nodig hebt. Terwijl ik teruglopend naar mijn plek hem nog eens profileer, vraag ik mezelf af; wat voor type front-end developer ben ik zelf eigenlijk?
 
 # Onzekerheid
@@ -40,6 +41,7 @@ Aan het eind van de dag zal het project worden opgeleverd. Ik ben er van overtui
 Wat voor skills en persoonlijke vaardigheden dient een front-end developer eigenlijk nog meer te hebben volgens jou?
 
 ### Over Sander Langendoen
+
 <img src="/_img/adventskalender/sanderlangendoen.jpg" alt="Foto van Sander Langendoen" class="floating-portrait" /> 
 Ik ben Sander Langendoen. Freelance Front-end Developer. Front-end development blijft voor mij een nog niet uitgespeelde game. Ik ben blij dat ik iedere dag betaald mijn hobby mag uitoefenen.
 Donatie

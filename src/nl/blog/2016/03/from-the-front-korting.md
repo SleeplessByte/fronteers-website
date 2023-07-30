@@ -1,10 +1,11 @@
 ---
-title: "Met korting naar From the Front in Bologna"
+title: 'Met korting naar From the Front in Bologna'
 date: 2016-03-02
 author: Hidde de Vries
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Op 15 en 16 september 2016 organiseert From the Front, een Fronteers-achtige organisatie in het noorden van Italië, wederom hun [From the Front conference](http://2016.fromthefront.it). Fronteers-leden krijgen korting: 20% op de early-birdprijs, en zelfs 25% op de reguliere prijs.
 
 # Programma

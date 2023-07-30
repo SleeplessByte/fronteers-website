@@ -1,11 +1,12 @@
 ---
-title: "Bijeenkomst bij EasyToBook op 11 januari 2010"
+title: 'Bijeenkomst bij EasyToBook op 11 januari 2010'
 date: 2010-01-11
 eventdate: 2010-01-11
-location: 
-categories: 
-    - meetup
+location:
+categories:
+  - meetup
 ---
+
 De eerste bijeenkomst van 2010 vond plaats op 11 januari bij [EasyToBook](http://easytobook.com). Daar hielden Peter Boersma en Peter Kassenaar een presenatie, beiden in het teken van gebruikersvriendelijkheid.
 
 # Design Processes For Web Projects, door Peter Boersma
@@ -26,5 +27,5 @@ Daarna ging hij in op tien punten die gezamelijk de usability van een website vo
 
 # Overige materialen en verslagen
 
-* [Slides van de presentatie van Peter Boersma.](http://www.slideshare.net/pboersma/design-processes-for-web-projects)
-* [Verslag en slides van de presentatie van Peter Kassenaar.](http://www.kassenaar.com/blog/post/2010/01/Presentatie-Usability-in-Context.aspx)
+- [Slides van de presentatie van Peter Boersma.](http://www.slideshare.net/pboersma/design-processes-for-web-projects)
+- [Verslag en slides van de presentatie van Peter Kassenaar.](http://www.kassenaar.com/blog/post/2010/01/Presentatie-Usability-in-Context.aspx)

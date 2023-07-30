@@ -1,10 +1,11 @@
 ---
-title: "CSS Resets"
+title: 'CSS Resets'
 date: 2015-01-12
 author: Kaj Rietberg
-categories: 
+categories:
   - De Artikelen
 ---
+
 Wat betekenen ‘reset’ en ‘normalize’ eigenlijk? Hebben deze termen wel met elkaar te maken? En wat moet je er mee als front-ender?
 
 # Wat doet de CSS reset?
@@ -20,15 +21,15 @@ Op [cssresetr.com](http://cssresetr.com/) kun je zien wat verschillende resets d
 
 # Welke resets zijn er eigenlijk?
 
-Jeff Starr heeft in zijn artikel [Killer Collection of CSS Resets](http://perishablepress.com/a-killer-collection-of-global-css-reset-styles/) verschillende CSS-resets opgenomen. In augustus 2013 is het artikel geüpdatet. Het valt op dat de eerste resets vrij globaal starten met een * en een padding en margin van 0, tot aan specifiek benoemde HTML tags. Deze laatste levert dan ook een behoorlijk verhaal op. Op Sixrevisions is [de geschiedenis van de css reset](http://sixrevisions.com/css/the-history-of-css-resets/) beschreven. Hier staan verschillende resets benoemt. Interessant om eens door te nemen.
+Jeff Starr heeft in zijn artikel [Killer Collection of CSS Resets](http://perishablepress.com/a-killer-collection-of-global-css-reset-styles/) verschillende CSS-resets opgenomen. In augustus 2013 is het artikel geüpdatet. Het valt op dat de eerste resets vrij globaal starten met een \* en een padding en margin van 0, tot aan specifiek benoemde HTML tags. Deze laatste levert dan ook een behoorlijk verhaal op. Op Sixrevisions is [de geschiedenis van de css reset](http://sixrevisions.com/css/the-history-of-css-resets/) beschreven. Hier staan verschillende resets benoemt. Interessant om eens door te nemen.
 
 # Normalize
 
 Een CSS reset is nogal rigoureus. Kritiek op de eerste generatie resets was bijvoorbeeld dat ze hulpzame features als :focus-styles weghaalden. Hierdoor zag je geen visuele feedback als je een link of form-element focus gaf. Dat zag er mooier uit, maar maakte de site slecht bruikbaar voor mensen die met keyboard navigeren of met hulpmiddelen surfen. Er kwam behoefte aan een opvolger die daar beter mee omging: een “normalizer”, bijvoorbeeld de [normalize van Nicolas Gallagher](http://nicolasgallagher.com/about-normalize-css/).
 
-> 
+>
 
-> 
+>
 
 Niet iedereen gebruikt Normalize. Er zijn ook ontwikkelaars die CSS resets gebruiken. Zoals Flurin Egger, hij gebruikt CSS resets. [Zijn reactie](https://twitter.com/flurin/status/516963529749172226) na een vraag op twitter wat ontwikkelaars gebruiken, een reset of normalize: “Resets: een 0-like baseline, ik heb mijn eigen minimale versie. Normalizers = opinionated resets :)”
 
@@ -40,15 +41,15 @@ Afhankelijk van het project waar je mee bezig bent bepaal je of je de CSS een re
 
 # Wat vinden andere front-enders van resets?
 
-> 
+>
 
-> 
+>
 
 # TL;DR
 
 Voor een front-end ontwikkelaar is het belangrijk om ervaring op te doen en te testen wat voor hem/haar handig is om te gebruiken. Elk project heeft andere uitdagingen en je kan klakkeloos een reset overnemen, maar zijn alle zaken in de reset echt nodig voor je project? Vaak niet. Voor front-end ontwikkelaars is belangrijk dat wij weten wat browsers doen, dat we weten wat HTML en CSS doet. We moeten leren hierop in te springen en mee te werken.
 
-In dit artikel heb ik geen CSS resets opgenomen, want ik kan niet overzien welke reset het nuttigst is voor jou. Mijn bedoeling was inzicht te geven in wat een CSS reset precies is. 
+In dit artikel heb ik geen CSS resets opgenomen, want ik kan niet overzien welke reset het nuttigst is voor jou. Mijn bedoeling was inzicht te geven in wat een CSS reset precies is.
 Leer hoe de browsers werken; hoe gaan ze om met de verschillende HTML-tags en welke verschillen worden veroorzaakt tussen de verschillende browsers? Hoe beïnvloedt dat een design dat je aan het bouwen bent?
 
 [Eric Meyer gaf in 2007 al aan](http://meyerweb.com/eric/thoughts/2007/04/18/reset-reasoning/): “Een CSS reset is om je aan het denken te zetten en niet om deze standaard te gebruiken”.
@@ -57,20 +58,21 @@ Gebruik jij een reset? Zo ja, welke en waarom? Zo nee, waarom niet?
 
 # Links:
 
-* [Whatwg: Rendering](https://html.spec.whatwg.org/multipage/rendering.html)
-* [Jeff Starr: Killer Collection of CSS Resets (2007 / 2013)](http://perishablepress.com/a-killer-collection-of-global-css-reset-styles/)
-* [* { CSS:resetr }](http://cssresetr.com/)
-* [IE CSS](http://www.iecss.com/)
-* [Michael Tuck: The History of CSS Resets (2010)](http://sixrevisions.com/css/the-history-of-css-resets/)
-* [Normalize van Nicolas Gallagher](http://nicolasgallagher.com/about-normalize-css/)
-* [Eric Meyer: Reset Reasoning (2007)](http://meyerweb.com/eric/thoughts/2007/04/18/reset-reasoning/)
+- [Whatwg: Rendering](https://html.spec.whatwg.org/multipage/rendering.html)
+- [Jeff Starr: Killer Collection of CSS Resets (2007 / 2013)](http://perishablepress.com/a-killer-collection-of-global-css-reset-styles/)
+- [\* { CSS:resetr }](http://cssresetr.com/)
+- [IE CSS](http://www.iecss.com/)
+- [Michael Tuck: The History of CSS Resets (2010)](http://sixrevisions.com/css/the-history-of-css-resets/)
+- [Normalize van Nicolas Gallagher](http://nicolasgallagher.com/about-normalize-css/)
+- [Eric Meyer: Reset Reasoning (2007)](http://meyerweb.com/eric/thoughts/2007/04/18/reset-reasoning/)
 
 # Interessante artikelen om te lezen die niet genoemd zijn in de tekst:
 
-* [Richard Clark: HTML5 Reset Stylesheet (2009)](http://html5doctor.com/html-5-reset-stylesheet/)
-* [Harry Roberts: Reset restarted (2011)](http://csswizardry.com/2011/10/reset-restarted/)
-* [Jens Oliver Meiert: Why “Reset” Style Sheets Are Bad (2008)](http://meiert.com/en/blog/20080419/reset-style-sheets-are-bad/)
+- [Richard Clark: HTML5 Reset Stylesheet (2009)](http://html5doctor.com/html-5-reset-stylesheet/)
+- [Harry Roberts: Reset restarted (2011)](http://csswizardry.com/2011/10/reset-restarted/)
+- [Jens Oliver Meiert: Why “Reset” Style Sheets Are Bad (2008)](http://meiert.com/en/blog/20080419/reset-style-sheets-are-bad/)
 
 ### Over Kaj Rietberg
+
 blog/2014/kajrietberg.png
 Kaj is Front-end ontwikkelaar bij Zorgweb in Zwolle. Zijn specialisaties zijn webforms, CSS, CSS-architectuur, Sass en hij verdiept zich momenteel in het responsive bouwen van webformulieren met grote tabellen.

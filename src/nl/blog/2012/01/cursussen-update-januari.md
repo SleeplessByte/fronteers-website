@@ -1,10 +1,11 @@
 ---
-title: "Workshops update januari"
+title: 'Workshops update januari'
 date: 2012-01-17
 author: Matijs Brinkhuis
-categories: 
+categories:
   - Workshops
 ---
+
 Na wat radiostilte tijdens de feestdagen hierbij de eerste workshops update voor 2012 met hopelijk goed nieuws voor iedereen die workshops wil gaan volgen in 2012!
 
 Op basis van de feedback die we in 2011 gekregen hebben kunnen we met een gerust hart stellen dat [workshops](/workshops) in 2011 een succes zijn geweest. In 2012 willen we ons best doen om workshops wat verder van tevoren aan te kondigen, maar verder lekker op deze voet doorgaan. Dit betekent dat we onze workshops blijven verzorgen bij Seats2Meet in Utrecht. Ook onze lage prijzen zullen hetzelfde blijven, €100 voor leden en €200 voor niet-leden. Het aanbod zal ook in grote lijnen hetzelfde blijven. We zijn hierin echter afhankelijk van de beschikbaarheid van trainers. Alle trainers die vorig jaar een workshop hebben gegeven wordt dit jaar, als dat niet al gebeurd is, gevraagd of ze hun training zouden willen herhalen.

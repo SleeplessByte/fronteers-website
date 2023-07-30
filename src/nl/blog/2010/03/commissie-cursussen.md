@@ -1,10 +1,11 @@
 ---
-title: "Oprichting commissie voor cursussen"
+title: 'Oprichting commissie voor cursussen'
 date: 2010-03-24
 author: Peter van der Zee
-categories: 
+categories:
   - Workshops
 ---
+
 Het is tijd om een commissie op te richten die de cursussen opzet, regelt en aan de man brengt. Er gaan al langere tijd stemmen op om trainingen aan te bieden. Daar lijkt veel interesse in te zijn, zowel voor aanbieders als afnemers.
 
 Mijn ervaring is echter dat het organiseren van trainingen veel meer werk is dan het op het eerste oog lijkt. Je moet trainers regelen, mensen die de trainingen willen volgen, ruimte om de trainingen te volgen, koffie/thee/etc, schema, rooster, financiën, de hele mikmak.

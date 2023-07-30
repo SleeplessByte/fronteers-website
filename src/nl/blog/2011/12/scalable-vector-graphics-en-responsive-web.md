@@ -1,10 +1,11 @@
 ---
-title: "Scalable Vector Graphics en responsive web"
+title: 'Scalable Vector Graphics en responsive web'
 date: 2011-12-22
 author: Jochen Vandendriessche
-categories: 
+categories:
   - Adventskalender
 ---
+
 Het blijft grappig om te zien hoe print en web verder van elkaar verwijderd zijn dan ooit tevoren. De evolutie van het web is op zijn minst spectaculair te noemen. Van fluid designs met animated gifs en flashy backgrounds langsheen de fixed dimension websites die langzamerhand aan het uitsterven zijn. Printdesign heeft altijd genoten van de vaste afmetingen die het gedrukte eindwerk met zich meebrengt en het gebrek aan interactieve elementen, terwijl webdesigners meegroeiden met de meest courante schermresolutie. Jarenlang was 960 pixels de vaste waarde, maar 1 apparaat zette deze wereld op zijn kop. De revolutie die de iPhone teweeg bracht in het mobiele weblandschap was nooit gezien en de kloof tussen web en print design werd voor de zoveelste keer groter. Toch hebben deze één gemeenschappelijk überformaat: _SVG_.
 
 Toen SVG het levenslicht zag en uiteindelijk een W3 recommendation werd in september 2001 bleef het in de schaduw staan van de gigant Macromedia Flash. Doorheen de tijd groeide Flash verder uit, niet echt verwonderlijk aangezien het naast vector graphics ook kon worden gebruikt voor video, audio, animaties, et cetera. Flash bleef jaren koning éénoog in het land der blinden, want terwijl de browsers bleven strijden over universele formaten, HTML- en CSS-implementaties en codecs kon hun SWF-formaat aan de hand van een plugin op ieder platform doen waarvoor het bedoeld was. Opnieuw was het de iPhone die een einde maakte aan de opmars van Flash. Prompt werden de schijnwerpers gericht op de open webstandaarden die video en audio mogelijk maakten, animaties met behulp van JavaScript of zelfs via CSS3!
@@ -42,6 +43,7 @@ Op de website van RaphaelJS kan je tal van voorbeelden vinden en een uitgebreide
 Hopelijk heb ik jullie een beetje kunnen overtuigen om in toekomstige projecten SVG te overwegen. Er zijn reeds enkele leuke sites die hier gebruik van maken zoals [sleepstreet.be](http://sleepstreet.be), [Asse Kloppend hart](http://www.assekloppendhart.be/wanneer/) en [Emacs for Mac OS X](http://emacsformacosx.com/), maar echte mannen gebruiken VI ;-)
 
 ### Over Jochen Vandendriessche
+
 <img src="/_img/2011/12/jochen-vandendriessche.jpg" alt="Foto van Jochen">
 Freelance front-end developer onder de naam builtbyrobot. Viel als kind in een vat Red Bull en bijgevolg gigantisch energiek. Overtuigde Apple fanboy, houdt van open webstandaarden en een goede portie JavaScript. Twittert als [@joggink](https://twitter.com/joggink). Blogt ook van tijd tot tijd eens op [joggink.com](http://joggink.com/) en dan voornamelijk over front-end gerelateerde zaken en slechte internet providers. Is momenteel bezig aan een web based SVG editor, genaamd [Willistrator](http://willistrator.com) die naast SVG RaphaelJS kan genereren. 
 Favoriete slogan: 'Develop for the best, optimize for the rest!'

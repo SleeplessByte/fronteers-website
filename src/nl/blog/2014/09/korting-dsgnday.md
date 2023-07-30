@@ -1,10 +1,11 @@
 ---
-title: "Met 25 euro korting naar dsgnday"
+title: 'Met 25 euro korting naar dsgnday'
 date: 2014-09-30
 author: Peter-Paul Koch
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Op 11 november wordt in Amsterdam het [dsgnday](http://dsgnday.nl/)-congres georganiseerd: een dag met acht sprekers over grafisch en UX design op het web. Bij alle presentaties ligt de focus op directe toepasbaarheid; een inspirerend verhaal is allemaal leuk en aardig, maar als je het niet kan toepassen in je dagelijkse werk, heeft het weinig praktisch nut.
 
 Mark Boulton, Leisa Reichelt, Mike Rohde, Val Head, Stephen Hay, Bonny Colville-Hyde, Peter Boersma en Laura Kalbag zullen hun praktische tips en truuks delen, variërend van het werken met grote opdrachtgevers zoals de overheid, via het praktische nut van animaties naar het zorgen dat je ontwerp ook toegankelijk is - zonder het lelijk te maken.

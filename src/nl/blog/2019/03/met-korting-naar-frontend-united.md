@@ -1,10 +1,11 @@
 ---
-title: "Met korting naar Frontend United"
+title: 'Met korting naar Frontend United'
 date: 2019-03-04
 author: Josee Wouters
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Op 17 en 18 mei vindt [Frontend United](https://www.frontendunited.org/) in Utrecht plaats. Onder de eerste sprekers bevinden zich helden als Jonathan Snook, Vitaly Friedman, Rachel Andrew, Jeremy Keith, Una Kravets, Lea Verou en Chris Lilley.
 
 Leden van Fronteers krijgen 20% korting op de toch al betaalbare tickets. Het aanbod is geldig voor mensen die op dit moment al lid zijn. Door een [e-mail naar het bestuur](mailto:bestuur@lists.fronteers.nl) te sturen, kun je hier gebruik van maken. Je ontvangt dan een speciale link waar je je congrestickets kunt kopen.

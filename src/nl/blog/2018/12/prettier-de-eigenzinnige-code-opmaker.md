@@ -1,10 +1,11 @@
 ---
-title: "Prettier, de eigenzinnige code-opmaker"
+title: 'Prettier, de eigenzinnige code-opmaker'
 date: 2018-12-09
 author: Edwin Martin
-categories: 
+categories:
   - Adventskalender
 ---
+
 Bij HTML, CSS en JavaScript en de meeste andere computertalen is niet voorgeschreven hoe je de code moet opmaken. Alles op één regel of juist niet, veel spaties, tabs of alles dicht op elkaar, voor de computer maakt het echt niet uit.
 
 Dit zorgt er ook voor dat iedereen een eigen stijl ontwikkelt. Dat is op zich niet erg, maar als meerdere ontwikkelaars met elk een eigen stijl aan dezelfde code gaan werken, dan wordt dat lastiger. Met verschillende stijlen wordt de code lastiger leesbaar en als code steeds anders wordt opgemaakt geeft dat vervuiling in het versiebeheersysteem.
@@ -21,12 +22,12 @@ Stijl van Sergey:
 function getHeaderClass ( height )
 {
 	headerClass = null;
-	
+
 	if ( height > 300 )
 	{
 		headerClass = `hoogte-${highHeaderClassname}`;
 	}
-	
+
 	return headerClass;
 }
 ```
@@ -109,6 +110,7 @@ In eerste instantie was Prettier bedoelt voor JavaScript, maar al gauw kwamen da
 Op 7 november 2018 is daar met [versie 1.15](https://prettier.io/blog/2018/11/07/1.15.0.html) ook HTML-, Vue-, Angular- and MDX-ondersteuning bijgekomen. Er is dus haast geen front-endcode meer die je niet door Prettier kan laten opmaken.
 
 ### Over Edwin Martin
+
 <img src="/_img/adventskalender/edwin.jpg" alt="Foto van Edwin Martin" class="floating-portrait" /> 
 Edwin loopt alweer een tijdje mee en kent het internet nog van toen er nog geen World Wide Web was. Toen dit kwam, was hij gelijk verkocht. Edwin is sinds 2000 freelancer en [blogt](https://bitstorm.org/) en [twittert](https://twitter.com/edwinm).
 Donatie

@@ -1,8 +1,9 @@
 ---
-title: Vacature commissie Congres 
+title: Vacature commissie Congres
 draft: true
-heroSlogan: ""
+heroSlogan: ''
 ---
+
 Voor de Fronteers Congrescommissie zijn we op zoek naar 3 nieuwe vrijwilligers!
 
 De congrescommissie is op zoek naar nieuwe leden die willen meehelpen met het organiseren van de eerstvolgende Fronteers Conference, en zich willen committeren aan de organisatie van het congres in 2024.

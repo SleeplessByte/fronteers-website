@@ -1,10 +1,11 @@
 ---
-title: "30% korting op Web Rebels in Oslo"
+title: '30% korting op Web Rebels in Oslo'
 date: 2012-02-10
 author: Sander Aarts
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Als de trend zich voortzet, wordt het een erg voordelig jaar voor Fronteersleden. Een maand geleden werd bekend dat leden korting krijgen op een ticket voor [Front-Trends](/blog/2012/01/korting-op-front-trends-in-warschau), eerder deze week was er een aanbieding voor de [CreativeJS workshop](/blog/2012/02/creativejs-amsterdam) van Seb Lee-Delisle en nu kunnen we alweer melden dat het ook gelukt is om voor Fronteersleden een korting te bedingen op tickets voor [Web Rebels](http://webrebels.org/) op 24 en 25 mei in Oslo.
 
 Web Rebels is een nieuw congres. De organisatie achter Web Rebels komt voort uit Framsia, een groep vrijwilligers die, onder andere geïnspireerd door Fronteers, maandelijks drukbezochte bijeenkomsten organiseert.

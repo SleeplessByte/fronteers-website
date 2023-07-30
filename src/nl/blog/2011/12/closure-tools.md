@@ -1,10 +1,11 @@
 ---
-title: "Closure Tools"
+title: 'Closure Tools'
 date: 2011-12-23
 author: Johan Schuyt
-categories: 
+categories:
   - Adventskalender
 ---
+
 Misschien heb je er van gehoord, misschien ook niet, maar Google zelf is er in ieder geval trots op. Het is de onderliggende (client-side) kracht van Gmail, Google Docs, Google Maps en het meest recente Google Plus! Closure Tools zijn een set tools bedoeld om client-side ontwikkeling wat te vergemakkelijken danwel te professionaliseren.
 
 Voordat we inhoudelijk beginnen, een kleine disclaimer: het gebruik van deze tools is voor kleine tot medium websites overkill. Verwacht niet een drop-in replacement voor je website thuis die in elkaar gezet is met jQuery en/of waarbij al je JavaScript source minified is met de YUI minifier. Aan deze toolset zit een noemenswaardige leercurve en tijd die benodigd is voor het opzetten van deze tools voor een project ligt wat hoger vergeleken met andere tools / libraries. Dat gezegd, je krijgt er ook wel wat voor terug ;)
@@ -13,10 +14,10 @@ Voordat we inhoudelijk beginnen, een kleine disclaimer: het gebruik van deze too
 
 Je zult je wellicht al afgevraagd hebben; waar bestaat deze toolset dan uit? Dat zijn de volgende tools:
 
-* *Closure Compiler*: Een JavaScript to JavaScript compiler (géén minifier!) waar een hoop optimizes in worden gedaan, zoals dead-code elimination, code inlining en chaining, maar waar ook een aantal handige features in zitten, zoals module-splitting en compile-time constants.
-* *Closure Library*: Geïnspireerd door Dojo, een volledige library met browser-abstraction en een heleboel widgets. Wat deze library eigenlijk nog wel het meest uniek maakt, is het geïmplementeerde event model wat zeker in JavaScript driven web applications zeer nuttig gebruikt kan worden.
-* *Closure Templates*: Templates die zowel server- als client-side kunnen worden gebruikt. De meest relevante keywords zijn: client-side performance, localisation, language-neutral en secure.
-* *Closure Stylesheets*: Deze zijn niet door Google zelf gereleased, maar door een ex-Google medewerker gemaakt als aanvulling op de bestaande toolset waarin o.a. CSS constanten en CSS-class renaming worden geïmplementeerd.
+- _Closure Compiler_: Een JavaScript to JavaScript compiler (géén minifier!) waar een hoop optimizes in worden gedaan, zoals dead-code elimination, code inlining en chaining, maar waar ook een aantal handige features in zitten, zoals module-splitting en compile-time constants.
+- _Closure Library_: Geïnspireerd door Dojo, een volledige library met browser-abstraction en een heleboel widgets. Wat deze library eigenlijk nog wel het meest uniek maakt, is het geïmplementeerde event model wat zeker in JavaScript driven web applications zeer nuttig gebruikt kan worden.
+- _Closure Templates_: Templates die zowel server- als client-side kunnen worden gebruikt. De meest relevante keywords zijn: client-side performance, localisation, language-neutral en secure.
+- _Closure Stylesheets_: Deze zijn niet door Google zelf gereleased, maar door een ex-Google medewerker gemaakt als aanvulling op de bestaande toolset waarin o.a. CSS constanten en CSS-class renaming worden geïmplementeerd.
 
 Elke tool is een op zichzelf staand project en ook zo te gebruiken, maar dat is eigenlijk niet aan te raden. De kracht zit hem juist in hoe deze tools samenwerken. De Library is bijvoorbeeld geweldig, maar gewoon veel te groot om op te nemen in je website als je de Compiler niet gebruikt. Andersom geldt ook, de Compiler is geweldig, maar je behaalt niet de volledige potentie als de code die je compiled niet volledig voor de compiler is gedocumenteerd. Zodoende raad ik je dan ook altijd aan op z’n minst de Library en de Compiler gecombineerd te gebruiken. De introductie tot de Closure Tools zal in deze post beperkt blijven tot de Compiler en de Library.
 
@@ -135,6 +136,7 @@ twitter.addEventListener(
 Het blijft lastig om zo’n uitgebreide toolset in een keer te introduceren, maar zoals je wellicht al hebt gemerkt, zijn de mogelijkheden eindeloos. Mocht je in de nabije toekomst een project hebben waarbij flink wat JavaScript nodig is, duik dan snel wat dieper in deze toolset. Het is een hele opluchting om er mee te mogen werken. Iedereen die hiermee aan de slag wil, kan ik dan ook van harte het boek ‘Closure: The Definitive Guide’ aanraden.
 
 ### Over Johan Schuyt
+
 <img src="/_img/2011/12/johan-schuyt.jpg" alt="Foto van johan schuyt uit 2011" class="floating-portrait" /> 
 Johan is werkzaam bij [TransIP](https://www.transip.nl/) waar hij zich voornamelijk bezighoudt met alle client-side ontwikkelingen. Ook zijn er veel blog posts van hem te vinden op op [blog.transip.nl](http://blog.transip.nl/). Van tijd tot tijd zal hij wat ventileren op zijn Twitter account [@johansglock](https://twitter.com/johansglock).
 

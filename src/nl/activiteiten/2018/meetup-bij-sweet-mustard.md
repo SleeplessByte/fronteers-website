@@ -1,21 +1,22 @@
 ---
-title: "Meetup bij Sweet Mustard"
+title: 'Meetup bij Sweet Mustard'
 date: 2018-05-17
 eventdate: 2018-05-17
 location:
 categories:
-    - meetup
+  - meetup
 ---
-Op *donderdag 17 mei 2018 * zijn we er terug met een nieuwe meetup. We zullen te gast zijn bij de sympathieke mensen van *Sweet Mustard* in *Kortrijk*. De bijeenkomst is gratis voor leden en niet-leden, en Sweet Mustard zorgt voor iets lekkers te eten en te drinken! *The talks will be given in English*.
+
+Op _donderdag 17 mei 2018 _ zijn we er terug met een nieuwe meetup. We zullen te gast zijn bij de sympathieke mensen van _Sweet Mustard_ in _Kortrijk_. De bijeenkomst is gratis voor leden en niet-leden, en Sweet Mustard zorgt voor iets lekkers te eten en te drinken! _The talks will be given in English_.
 
 # Programma
 
-* 18:00 · Inloop met een hapje en een drankje
-* 19:00 · Introductie en welkomstwoord
-* 19:10 · Talk 1: 'Demystifying the future of CSS with sparkles of JS' by Ibe Vanmeenen
-* 19:40 · Pauze
-* 20:45 · Talk 2: 'The web is my private playground' by Louis Hoebregts
-* 21:15 · Borrel
+- 18:00 · Inloop met een hapje en een drankje
+- 19:00 · Introductie en welkomstwoord
+- 19:10 · Talk 1: 'Demystifying the future of CSS with sparkles of JS' by Ibe Vanmeenen
+- 19:40 · Pauze
+- 20:45 · Talk 2: 'The web is my private playground' by Louis Hoebregts
+- 21:15 · Borrel
 
 # Talk 1: Demystifying the future of CSS with sparkles of JS
 
@@ -31,9 +32,9 @@ Maybe the web is something you only know from 9am to 6pm. But when the lights go
 
 # Locatie
 
-* _Sweet Mustard_
-* Nijverheidskaai 3
-* 8500 Kortrijk
+- _Sweet Mustard_
+- Nijverheidskaai 3
+- 8500 Kortrijk
 
 # Inschrijven
 

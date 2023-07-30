@@ -1,20 +1,21 @@
 ---
-title: "Bijeenkomst bij Lajos op 24 oktober 2012"
+title: 'Bijeenkomst bij Lajos op 24 oktober 2012'
 date: 2012-10-24
 eventdate: 2012-10-24
-location: 
-categories: 
-    - meetup
+location:
+categories:
+  - meetup
 ---
+
 Op woensdag 24 oktober is Fronteers te gast bij [Lajos](http://lajos.nl) in Hilversum. Edwin Martin spreekt over de jQuery's deferred en promises techniek, en Daniël Vermeer duikt in op wat belangrijk is voor de beveiliging van de back-end voor front-end ontwikkelaars.
 
 # Het programma is als volgt:
 
-* 18.30 Inloop
-* 19:30 Edwin Martin
-* 20.30 korte pauze
-* 20.45 Daniël Vermeer
-* 21.45 borrelen
+- 18.30 Inloop
+- 19:30 Edwin Martin
+- 20.30 korte pauze
+- 20.45 Daniël Vermeer
+- 21.45 borrelen
 
 # Edwin Martin - jQuery's deferred en promises
 
@@ -32,41 +33,39 @@ Als er gerichte vragen zijn (stuur ze in via het [contactformulier](/contact)), 
 
 # Aanwezigen
 
-* Sander Aarts
-* Isaac Andela
-* Victor Bastiaansen
-* Jasper Bogers
-* Jan Jaap van Deursen
-* Dries Driessen
-* Arjan Eising
-* Jules Ernst
-* Erwin Goossen
-* Tom Greuter
-* Koen Haarbosch
-* Anne van Kesteren
-* Anton Kouliavtsev
-* Jasper Kroon
-* Ilja Maas
-* Edwin Martin
-* Patrick Neeteson
-* Jos Pape
-* Peter Peerdeman
-* Hans van de Poel
-* Richard van der Pol
-* Friso Postuma
-* Jeroen Pulles
-* Kasper Reijnders
-* Robbert
-* Johan Smits
-* Lajos Tomeï
-* Vivienne van Velzen
-* Daniël Vermeer
-* Pascal Vree
+- Sander Aarts
+- Isaac Andela
+- Victor Bastiaansen
+- Jasper Bogers
+- Jan Jaap van Deursen
+- Dries Driessen
+- Arjan Eising
+- Jules Ernst
+- Erwin Goossen
+- Tom Greuter
+- Koen Haarbosch
+- Anne van Kesteren
+- Anton Kouliavtsev
+- Jasper Kroon
+- Ilja Maas
+- Edwin Martin
+- Patrick Neeteson
+- Jos Pape
+- Peter Peerdeman
+- Hans van de Poel
+- Richard van der Pol
+- Friso Postuma
+- Jeroen Pulles
+- Kasper Reijnders
+- Robbert
+- Johan Smits
+- Lajos Tomeï
+- Vivienne van Velzen
+- Daniël Vermeer
+- Pascal Vree
 
 # Bereikbaarheid en aanmelden
 
-Lajos is gevestigd aan Melkpad 25a5, 1217 KA Hilversum. Zoals gebruikelijk is deze bijeenkomst gratis bij te wonen door zowel leden als niet-leden. Wel is gewenst dat je via onderstaand formulier doorgeeft dat je aanwezig kunt zijn. *Er is ruimte voor circa 30 personen.*
+Lajos is gevestigd aan Melkpad 25a5, 1217 KA Hilversum. Zoals gebruikelijk is deze bijeenkomst gratis bij te wonen door zowel leden als niet-leden. Wel is gewenst dat je via onderstaand formulier doorgeeft dat je aanwezig kunt zijn. _Er is ruimte voor circa 30 personen._
 
-
-
-*De bijeenkomst zit inmiddels vol.*
+_De bijeenkomst zit inmiddels vol._

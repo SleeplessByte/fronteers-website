@@ -1,10 +1,11 @@
 ---
-title: "Twaalf geschenken van Fronteers"
+title: 'Twaalf geschenken van Fronteers'
 date: 2018-12-05
 author: Job van Achterberg
-categories: 
+categories:
   - Adventskalender
 ---
+
 (Vrij naar “[The Twelve Days of Christmas](https://nl.wikipedia.org/wiki/The_Twelve_Days_of_Christmas)”)
 
 Op de eerste dag van Kerstmis, schonk Fronteers aan mij:
@@ -88,6 +89,7 @@ Ik ben benieuwd wat Fronteers haar leden in 2019 zal schenken, en aan welke ding
 # Fijne feestdagen!
 
 ### Over Job van Achterberg
+
 <img src="/_img/adventskalender/job.jpg" alt="Foto van Job van Achterberg" class="floating-portrait" /> 
 Job werkt als toegankelijkheidsspecialist (mooi Scrabblewoord) en ontwikkelaar bij Tenon (https://www.tenon.io). Hij gooit met slangen en water bij de vrijwillige brandweer.
 

@@ -1,11 +1,12 @@
 ---
-title: "Meld je nu aan voor de ALV 2016"
+title: 'Meld je nu aan voor de ALV 2016'
 date: 2016-11-21
 author: Bestuur
-categories: 
+categories:
   - Leden
   - Vereniging
 ---
+
 Maandag 28 november houden we onze jaarlijkse algemene ledenvergadering (ALV). Alle leden zijn hiervoor van harte uitgenodigd. De locatie van de ALV is Zalencentrum Se7en (toegang via [Restaurant Se7en](http://www.sevenutrecht.nl/contact/route/)), Mariaplaats 7, ongeveer vijf minuten lopen vanaf Utrecht CS.
 
 Voor de mensen die van ver komen zullen er vanaf 18:00 broodjes klaar staan. De vergadering zelf zal stipt om 19:00 uur beginnen, en we gaan ons er voor inzetten om deze kort en doeltreffend te laten verlopen. We waarderen de inspraak van leden echter zeer, en hebben een aantal onderwerpen op het programma waarvan we verwachten dat deze discussie zullen oproepen, dus verwachten dat de totale vergadering eerder drie dan twee uur zal duren.
@@ -26,7 +27,7 @@ Het staat leden nog steeds vrij voorstellen voor de agenda in te dienen. Voorals
 
 Aan het eind van zijn bestuurstermijn treedt dit jaar Sander van Lambalgen af, en stelt zich - na 8 jaar in het bestuur - niet herkiesbaar. Tevens - na wel 9 jaar in het bestuur (sinds het allereerste begin!) - heeft ook Arjan Eising besloten dat het genoeg is geweest, en treedt tussentijds af. Het bestuur bedankt hen voor al hun inspanningen en bijdragen uit de afgelopen jaren.
 
-We hebben op het moment van schrijven nog *geen* nieuwe leden bereid gevonden zich kandidaat te stellen voor een bestuursfunctie. Het bestuur kan theoretisch fungeren met de overgebleven drie bestuursleden, maar zou graag versterking zien. We hopen op de ALV alsnog een of meerdere kandidaten aan de leden te mogen voorstellen.
+We hebben op het moment van schrijven nog _geen_ nieuwe leden bereid gevonden zich kandidaat te stellen voor een bestuursfunctie. Het bestuur kan theoretisch fungeren met de overgebleven drie bestuursleden, maar zou graag versterking zien. We hopen op de ALV alsnog een of meerdere kandidaten aan de leden te mogen voorstellen.
 
 # Toelichting op de begroting
 
@@ -59,4 +60,3 @@ Eerdere discussie over dit onderwerp valt ook [in de bestuursnotulen](/verenigin
 # Aanmelden
 
 Ben je van plan te komen, dan vragen we je vriendelijk je hieronder hiervoor in te schrijven, zodat we enigszins een idee hebben van de verwachte opkomst.
- 

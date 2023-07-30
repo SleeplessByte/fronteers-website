@@ -1,12 +1,13 @@
 ---
-title: "Plannen voor de onderwijscommissie"
+title: 'Plannen voor de onderwijscommissie'
 date: 2013-11-04
 author: Vasilis van Gemert
-categories: 
+categories:
   - Commissies
   - Onderwijs
   - Vereniging
 ---
+
 Het afgelopen jaar lijkt het weer stil te zijn geweest rondom de onderwijscommissie van Fronteers. Maar achter de schermen is er gelukkig wel het een en ander gebeurd. Er zijn een paar informele bijeenkomsten geweest tussen verschillende Fronteers-leden, docenten en meerdere onderwijsinstellingen. Uit deze bijeenkomsten zijn een aantal punten naar voren gekomen waar onderwijsinstellingen en docenten de hulp van Fronteers goed kunnen gebruiken. Er hebben zich inmiddels aardig wat vrijwilligers aangemeld die zich in willen zetten voor deze commissie. Deze post is bedoeld om iedereen te informeren over de mogelijke werkzaamheden.
 
 # Aanpak
@@ -31,7 +32,7 @@ Een groot probleem waar docenten mee worstelen zijn de curricula. Die maken ze v
 
 Leden van Fronteers kunnen meekijken naar deze curricula en ook actief een bijdrage leveren in de vorm van pull requests, bug reports etc. We hebben die kennis in huis, dit is een manier van bijdragen die gestructureerd is en relatief weinig tijd kost. Curricula blijven zo up-to-date. Er kunnen zo ook meerdere curricula ontwikkeld worden, docenten krijgen zo meer keus. Fronteers zou een repository met links kunnen bijhouden van de verschillende curricula die er online te vinden zijn. Ook hier is inmiddels een [forumpost aan gewijd](http://forum.fronteers.nl/topic/88/links-naar-online-curricula/), en we nodigen jullie van harte uit om hier aan bij te dragen.
 
-Een alternatief, of een aanvulling op zo'n repository zou ook een *leercentrum/kenniscentrum* kunnen zijn. Bramus van Damme formuleerde het zo: Collectie van hoofdstukken en/of lijst van relevante artikels (links, reeds geprefiltered door de curatoren) over bepaalde onderwerpen. Bij voorkeur gegroepeerd per hoofdonderwerp (html, css, javascript), alsook aangeboden in een traject/pakket (vb: om CSS te leren is er een traject van presentatie X, presentatie Y, filmpje Z, en link Q te doorlopen).
+Een alternatief, of een aanvulling op zo'n repository zou ook een _leercentrum/kenniscentrum_ kunnen zijn. Bramus van Damme formuleerde het zo: Collectie van hoofdstukken en/of lijst van relevante artikels (links, reeds geprefiltered door de curatoren) over bepaalde onderwerpen. Bij voorkeur gegroepeerd per hoofdonderwerp (html, css, javascript), alsook aangeboden in een traject/pakket (vb: om CSS te leren is er een traject van presentatie X, presentatie Y, filmpje Z, en link Q te doorlopen).
 
 # Kennis
 
@@ -43,9 +44,9 @@ Op dit gebied, van kennisdeling, is natuurlijk nog veel meer mogelijk. Mocht je 
 
 We willen een docentendag organiseren waarbij we mensen van het zakenleven en van opleidingen bij elkaar brengen. MBO docenten kunnen zo overleggen met HBO docenten over aansluiting, en docenten kunnen zo horen waar het bedrijfsleven nu eigenlijk op zit te wachten. Zulk soort dagen moeten inhoudelijk en praktisch georganiseerd worden.
 
-Naast dit soort wat grotere evenementen kunnen er ook kleinere bijeenkomsten georganiseerd worden met een wat specifieker karakter. Te denken valt er aan brainstormsessies tussen het bedrijfsleven en het onderwijs om te zien wat er *hot* is.
+Naast dit soort wat grotere evenementen kunnen er ook kleinere bijeenkomsten georganiseerd worden met een wat specifieker karakter. Te denken valt er aan brainstormsessies tussen het bedrijfsleven en het onderwijs om te zien wat er _hot_ is.
 
-Dit soort bijeenkomsten zouden idealiter ook leiden tot betere *horizontale samenwerkingsverbanden* tussen verschillende instellingen en het bedrijfsleven.
+Dit soort bijeenkomsten zouden idealiter ook leiden tot betere _horizontale samenwerkingsverbanden_ tussen verschillende instellingen en het bedrijfsleven.
 
 # Contacten met bestuurders/overheden
 

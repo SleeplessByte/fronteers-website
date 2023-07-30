@@ -1,12 +1,13 @@
 ---
-title: "Wijzigingen na ALV"
+title: 'Wijzigingen na ALV'
 date: 2016-11-30
 author: Bestuur
-categories: 
+categories:
   - Congres
   - Leden
   - Vereniging
 ---
+
 Tijdens een bewogen ALV op 29 november jongstleden namen we afscheid van Arjan Eising, Hidde de Vries, Sander van Lambalgen en Thomas van Zuijlen als bestuursleden van Fronteers. Verder werden zowel het voorstel om een leverancier in te schakelen voor de organisatie van het congres alsmede het opstarten van een onderzoek naar het financieel compenseren van vrijwilligers aangenomen.
 
 # Aangenomen voorstel: inschakelen leverancier voor organisatie congres
@@ -33,10 +34,10 @@ Naar aanleiding van dit voorstel zal het bestuur een onderzoek instellen naar de
 
 Bij deze ALV zijn de volgende bestuursleden afgetreden:
 
-* Arjan Eising
-* Sander van Lambalgen
-* Hidde de Vries
-* Thomas van Zuijlen
+- Arjan Eising
+- Sander van Lambalgen
+- Hidde de Vries
+- Thomas van Zuijlen
 
 Het bestuur bedankt hen voor de inzet in de afgelopen jaren.
 
@@ -44,9 +45,9 @@ Het bestuur bedankt hen voor de inzet in de afgelopen jaren.
 
 Tijdens deze ALV zijn de volgende leden toegetreden tot het bestuur:
 
-* Michael Hastrich
-* Roy Tomeij
-* Sander Vink
+- Michael Hastrich
+- Roy Tomeij
+- Sander Vink
 
 Bij de eerstvolgende bestuursvergadering zal de rolverdeling voor 2017 worden vastgesteld en aangepast op de website.
 

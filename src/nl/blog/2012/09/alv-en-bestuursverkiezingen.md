@@ -1,10 +1,11 @@
 ---
-title: "Algemene Ledenvergadering 2012 en bestuursverkiezingen"
+title: 'Algemene Ledenvergadering 2012 en bestuursverkiezingen'
 date: 2012-09-25
 author: Bestuur
-categories: 
+categories:
   - Vereniging
 ---
+
 Op donderdag 22 november zal de jaarlijkse Algemene Ledenvergadering (ALV) van Fronteers plaatsvinden. Op de ALV wordt het afgelopen jaar besproken, wordt de koers voor het nieuwe jaar uitgezet en worden bestuursverkiezingen gehouden. De plaats en tijd worden nader bekend gemaakt in een aparte blogpost, maar reserveer de avond van de 22e alvast in je agenda.
 
 Dit jaar zullen de bestuursleden Peter-Paul Koch, Arjan Eising, en Matijs Brinkhuis aftreden. Arjan en Matijs zijn herkiesbaar, Peter-Paul is dat niet. Hij zegt na vijf jaar het Fronteersbestuur vaarwel. Tevens willen wij duidelijk maken dat Matijs Brinkhuis zich in Brighton heeft gevestigd, en dus niet meer in Nederland woont. Het bestuur acht dit geen beletsel voor zijn bestuurstaken, temeer daar hij heeft aangeboden het penningmeesterschap van Krijn Hoetmer over te nemen, dat geheel online uitgeoefend kan worden. Zowel Matijs als Arjan zullen op een later moment hun kandidatuur nog nader toelichten.

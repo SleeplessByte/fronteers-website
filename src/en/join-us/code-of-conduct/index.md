@@ -2,6 +2,7 @@
 title: Code of conduct
 key: code-of-conduct
 ---
+
 All members of our Fronteers Slack channel are required to agree with the following code of conduct. The admins of the Slack channel will enforce this code throughout the entire Slack channel. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
 #### Need Help?
@@ -26,7 +27,7 @@ If you’d prefer to contact somebody more privately, send a direct message to a
 
 #### Process
 
-*Three strikes and you’re out:* if you have received three warnings your account will be deactivated for 30 days.
+_Three strikes and you’re out:_ if you have received three warnings your account will be deactivated for 30 days.
 
 After the 30 day suspension period you account will be reactivated but your behaviour will be monitored closely. If you break the Code of Conduct again after suspension, or if you make a new (second) account to gain access to the Slack your account will be deactivated indefinitely.
 

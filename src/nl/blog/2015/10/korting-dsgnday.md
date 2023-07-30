@@ -1,10 +1,11 @@
 ---
-title: "Met 25 euro korting naar dsgnday"
+title: 'Met 25 euro korting naar dsgnday'
 date: 2015-10-02
 author: Matijs Brinkhuis
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Op vrijdag 13 november wordt net als vorig jaar het [dsgnday](http://dsgnday.nl)-congres georganiseerd. Een dag met acht sprekers over grafisch en UX design op het web. De focus ligt net zoals vorig jaar op directe toepasbaarheid in plaats van inspirerende verhalen zonder direct praktisch nut.
 
 Dan Mall, Ida Aalen, Susan Robertson, Trine Falbe, Stephen Hay, Simon Collison, Bram Stein, en Geri Coady delen praktische truuks en tips onder leiding van Ruben Bos. Onderwerpen variëren van hands-on voorbeelden van verschillende projecten tot het (her)definiëren van de rol van de designer en van het ontwerpen van interfaces voor kinderen tot het maken van styleguides en typografische analyse vanuit een wiskundig en computer science perspectief.

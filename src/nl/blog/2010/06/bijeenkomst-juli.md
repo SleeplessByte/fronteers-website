@@ -1,20 +1,21 @@
 ---
-title: "Bijeenkomst op 7 juli, in Rotterdam"
+title: 'Bijeenkomst op 7 juli, in Rotterdam'
 date: 2010-06-14
 author: Arjan Eising
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op woensdag 7 juli is Fronteers te gast bij [Mangrove](http://mangrove.nl) in Rotterdam. Thema van deze avond is design. Bram van Rijen a.k.a. Nozzman zal spreken over inspiratie, en Hans Kemp zal dieper ingaan op het onderwerp interaction design.
 
 # Het programma is als volgt:
 
-* 19:00 inloop
-* 19:30 introductie Mangrove
-* 19:45 Bram van Rijen a.k.a. Nozzman (Mangrove)
-* 20:30 korte pauze
-* 20:45 Hans Kemp (Hogeschool Rotterdam)
-* 21:30 borrel
+- 19:00 inloop
+- 19:30 introductie Mangrove
+- 19:45 Bram van Rijen a.k.a. Nozzman (Mangrove)
+- 20:30 korte pauze
+- 20:45 Hans Kemp (Hogeschool Rotterdam)
+- 21:30 borrel
 
 # Inspiratie
 

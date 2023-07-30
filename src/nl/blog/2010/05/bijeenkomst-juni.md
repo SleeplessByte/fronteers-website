@@ -1,20 +1,21 @@
 ---
-title: "Bijeenkomst op 14 juni, in Utrecht"
+title: 'Bijeenkomst op 14 juni, in Utrecht'
 date: 2010-05-20
 author: Hidde de Vries
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op 14 juni is Fronteers te gast bij [SETUP](http://www.setuputrecht.nl/) in Utrecht. Het thema van deze bijeenkomst is 'het semantische web' en we hebben een spreker uit de praktijk en een onderzoeker bereid gevonden ons hier meer over te komen vertellen.
 
 # Het programma is als volgt:
 
-* 19:00 inloop
-* 19:30 introductie SETUP
-* 19:45 Thomas Markus (Universiteit Utrecht)
-* 20:30 korte pauze
-* 20:45 Andreas Creten (My Name is E)
-* 21:30 borrel
+- 19:00 inloop
+- 19:30 introductie SETUP
+- 19:45 Thomas Markus (Universiteit Utrecht)
+- 20:30 korte pauze
+- 20:45 Andreas Creten (My Name is E)
+- 21:30 borrel
 
 # Het semantische web
 

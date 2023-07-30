@@ -1,10 +1,11 @@
 ---
-title: "De financiën en reserves van Fronteers"
+title: 'De financiën en reserves van Fronteers'
 date: 2012-11-15
 author: Bestuur
-categories: 
+categories:
   - Vereniging
 ---
+
 [Vorig jaar tijdens de ALV](/vereniging/bestuur/notulen/07-12-11) merkte de ALV op dat het bestuur geen duidelijke en eenduidige visie op de financiën van de vereniging had, en dan specifiek op het gebied van de aan te houden reserve. We hebben toen de opdracht gekregen deze visie te ontwikkelen. Ter voorbereiding op de ALV van volgende week willen we in deze blogpost graag meer duidelijkheid verschaffen over de financiële situatie van de vereniging, en hoe het bestuur nu over dit onderwerp denkt.
 
 De vereniging heeft veel inkomsten. De grootste activiteit van de vereniging (het congres) wordt scherp gebudgetteerd (mogelijk gemaakt door een buffer aan overgedragen winst van vorige jaren), maar maakt toch ieder jaar winst (een klein percentage, maar een fors bedrag in absolute getallen). De een-na-grootste activiteit (cursussen) leidt licht verlies doordat voornamelijk leden deelnemen (voor wie de kosten deels gesponsord worden), maar blijft binnen budget. Verder maakt de vereniging kosten waar niet direct inkomsten tegenover staan (website, commissies, administratie, bijeenkomsten, sponsoring). Deze kosten zijn echter een relatief klein percentage van de inkomsten van de vereniging waar niet direct kosten tegenover staan (lidmaatschapsgeld, vacaturebank). Dit betekent dat de vereniging elk jaar winst maakt. (Over 2011: €8.500 euro voor het congres, en €8.900 voor de rest van de vereniging. Over 2012 verwachten we vergelijkbare getallen.)

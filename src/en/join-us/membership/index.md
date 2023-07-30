@@ -2,10 +2,10 @@
 title: Membership
 key: membership
 ---
+
 Membership of Fronteers is _personal_, and is therefore independent of any employer.
 
 ### Contribution
-
 
 For students, these amounts are halved, to {{ general-info.students_contribution }} and {{ general-info.students_discounted }}.
 

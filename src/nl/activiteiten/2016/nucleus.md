@@ -1,20 +1,21 @@
 ---
-title: "Bijeenkomst bij Nucleus op 25 februari 2016"
+title: 'Bijeenkomst bij Nucleus op 25 februari 2016'
 date: 2016-02-25
 eventdate: 2016-02-25
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Op donderdag 25 februari is Fronteers te gast bij [Nucleus](http://nucleus.be/) in Antwerpen. Er worden twee presentaties voorzien.
 
 # Het programma is als volgt:
 
-* 18:00 ontvangst met een hapje en een drankje
-* 19:00 Mattias Geniar ([@mattiasgeniar](https://github.com/mattiasgeniar)) - "HTTP/2: The Next Version of the Internet"
-* 19:45 korte pauze
-* 20:00 Koen Kivits ([@koenkivits](https://github.com/koenkivits)) - "Bowser in de browser"
-* 20:45 naborrelen
+- 18:00 ontvangst met een hapje en een drankje
+- 19:00 Mattias Geniar ([@mattiasgeniar](https://github.com/mattiasgeniar)) - "HTTP/2: The Next Version of the Internet"
+- 19:45 korte pauze
+- 20:00 Koen Kivits ([@koenkivits](https://github.com/koenkivits)) - "Bowser in de browser"
+- 20:45 naborrelen
 
 # Waar?
 
@@ -30,11 +31,9 @@ Iedereen is welkom. Er is echter beperkt plaats, voor circa 50 mannen en vrouwen
 
 Volg de discussie via Twitter op [#fronteersbe](https://twitter.com/search?q=%23fronteersbe).
 
-
 {%- comment -%}
 {%- form -%}
 {%- endcomment -%}
-
 
 # Aanmeldingen ({aanmeldingen} van de {max})
 

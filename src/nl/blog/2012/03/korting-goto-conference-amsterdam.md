@@ -1,10 +1,11 @@
 ---
-title: "€50 korting op de GOTO-conference in Amsterdam"
+title: '€50 korting op de GOTO-conference in Amsterdam'
 date: 2012-03-07
 author: Peter-Paul Koch
-categories: 
+categories:
   - Ledenkorting
 ---
+
 En opnieuw is het prijs: Fronteers heeft een korting van €50 in de wacht weten te slepen voor de [GOTO Conference Amsterdam](http://gotocon.com/amsterdam-2012/), 24 en 25 mei in de Beurs van Berlage.
 
 Dit is nu eens geen pure front-end, maar een algemeen softwarecongres waarop, gezien de stormachtige ontwikkelingen in web en mobiel, de organisatoren vonden dat front-end niet mocht ontbreken. Er zijn echter ook sessies over agile programming, back-end, en [meer](http://gotocon.com/amsterdam-2012/tracks/).

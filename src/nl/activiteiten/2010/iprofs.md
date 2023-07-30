@@ -1,22 +1,23 @@
 ---
-title: "Bijeenkomst bij IPROFS op 7 september 2010"
+title: 'Bijeenkomst bij IPROFS op 7 september 2010'
 date: 2010-09-07
 eventdate: 2010-09-07
-location: 
-categories: 
-    - meetup
+location:
+categories:
+  - meetup
 ---
+
 Op dinsdag 7 september is Fronteers te gast bij [IPROFS](http://iprofs.nl) in Haarlem. Er zullen twee presentaties gegeven worden: Wilfred Nas gaat een praatje houden over HTML5 best practices, en Raph de Rooij update ons over de laatste ontwikkelingen rond Webrichtlijnen versie 2.
 
 # Het programma is als volgt:
 
-* 18:30 inloop (drinken/borrelhapjes)
-* 19:20 welkomstwoord: Remco Nabuurs
-* 19:30 eesrte spreker: Wilfred Nas
-* 20:15 cq. 20:30 korte pauze (drinken/borrelhapjes)
-* 20:30 cq. 20:45 tweede spreker: Raph de Rooij
-* 21:15 cq. 21:30 ruimte voor vragen/discussie aan/met webrichtlijnen team
-* 21.30 Borrelen/netwerken
+- 18:30 inloop (drinken/borrelhapjes)
+- 19:20 welkomstwoord: Remco Nabuurs
+- 19:30 eesrte spreker: Wilfred Nas
+- 20:15 cq. 20:30 korte pauze (drinken/borrelhapjes)
+- 20:30 cq. 20:45 tweede spreker: Raph de Rooij
+- 21:15 cq. 21:30 ruimte voor vragen/discussie aan/met webrichtlijnen team
+- 21.30 Borrelen/netwerken
 
 # HTML5 en formulieren ( en andere niet sexy zaken )
 
@@ -30,29 +31,28 @@ Zoals altijd is deze bijeenkomst gratis toegankelijk voor zowel leden als niet-l
 
 # Aanmeldingen
 
-* Stephan Bakker (Alkmaar, auto)
-* Marco Beelen (Haarlem, op de fiets)
-* Kor Dwarshuis (Amsterdam, OV)
-* Arjan Eising (Groningen, OV)
-* Jules Ernst (Den Haag / Rotterdam, OV)
-* Tom Greuter (Amsterdam)
-* Tim Heesters (Tilburg, OV)
-* Rutger Jansen (Amsterdam, auto)
-* Bie Kho (Amsterdam, auto, meerijders welkom)
-* Peter-Paul Koch (Amsterdam, OV)
-* Sean Koole (Haarlemmermeer, OV)
-* Jeroen Kuijpers (Aalsmeer)
-* Rob Kuiper (Haarlem, op de fiets)
-* Linda Nieuwenhuijsen (Haarlem, op de fiets)
-* Igor Nikolovski (Amsterdam, auto)
-* Geert van der Ploeg (Haarlem, op de fiets)
-* Vijay Poetai (Noord-Holland, auto)
-* Jos Rutten (Almere, auto)
-* Jaap Swart (Amsterdam)
-* Frances de Waal (Haarlem, auto)
-* Thomas van Zuijlen (Amsterdam, auto)
-* Victor Zuydweg (Haarlem, auto)
-* En nog 4 personen
+- Stephan Bakker (Alkmaar, auto)
+- Marco Beelen (Haarlem, op de fiets)
+- Kor Dwarshuis (Amsterdam, OV)
+- Arjan Eising (Groningen, OV)
+- Jules Ernst (Den Haag / Rotterdam, OV)
+- Tom Greuter (Amsterdam)
+- Tim Heesters (Tilburg, OV)
+- Rutger Jansen (Amsterdam, auto)
+- Bie Kho (Amsterdam, auto, meerijders welkom)
+- Peter-Paul Koch (Amsterdam, OV)
+- Sean Koole (Haarlemmermeer, OV)
+- Jeroen Kuijpers (Aalsmeer)
+- Rob Kuiper (Haarlem, op de fiets)
+- Linda Nieuwenhuijsen (Haarlem, op de fiets)
+- Igor Nikolovski (Amsterdam, auto)
+- Geert van der Ploeg (Haarlem, op de fiets)
+- Vijay Poetai (Noord-Holland, auto)
+- Jos Rutten (Almere, auto)
+- Jaap Swart (Amsterdam)
+- Frances de Waal (Haarlem, auto)
+- Thomas van Zuijlen (Amsterdam, auto)
+- Victor Zuydweg (Haarlem, auto)
+- En nog 4 personen
 
 Samen reizen met iemand? Neem even [contact](/contact) op met de ledenadministratie en we koppelen jullie aan elkaar.
-

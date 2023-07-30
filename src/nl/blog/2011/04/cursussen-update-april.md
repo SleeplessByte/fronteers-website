@@ -1,11 +1,12 @@
 ---
-title: "Workshops update april"
+title: 'Workshops update april'
 date: 2011-04-13
 author: Matijs Brinkhuis
-categories: 
+categories:
   - Commissies
   - Workshops
 ---
+
 Op dinsdag 3 mei zal Vasilis van Gemert, die we natuurlijk allemaal kennen van onder andere de [Daily Nerd](http://dailynerd.nl/) nogmaals zijn cursus [Adaptief Ontwikkelen](/cursussen/adaptief-ontwikkelen-vasilis-van-gemert) gaan geven. [Update] inmiddels zit ook deze cursus vol.
 
 De vorige keer dat deze workshop gegeven werd zat de cursus binnen een dag vol. [Schrijf je dus snel](/workshops/adaptief-ontwikkelen-vasilis-van-gemert#formulier-1) in om een plekje te reserveren.

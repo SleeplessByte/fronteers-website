@@ -1,7 +1,8 @@
 ---
 title: Vacature commissie Website
-heroSlogan: ""
+heroSlogan: ''
 ---
+
 Na tien jaar wil Fronteers een nieuwe website. Wil jij als vrijwilliger meehelpen in een nieuw op te richten websitecommissie?
 
 Het gaat niet om het bouwen zelf, maar om het opstellen van eisen en wensen waaraan de website moet voldoen en vervolgens het uitzoeken van een of meer partijen die het ontwerp en de technische uitvoering op zich nemen. De uitvoering begeleid je tot de oplevering van de site. Je krijgt ondersteuning van het bestuur en de marketingcommissie.

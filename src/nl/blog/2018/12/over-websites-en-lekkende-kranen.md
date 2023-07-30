@@ -1,10 +1,11 @@
 ---
-title: "Over websites en lekkende kranen"
+title: 'Over websites en lekkende kranen'
 date: 2018-12-11
 author: Josee Wouters
-categories: 
+categories:
   - Adventskalender
 ---
+
 Bij de loodgieter thuis lekt de kraan. Het kind van de dokter is altijd ziek. De schoenmaker loopt op versleten schoenen. Wat heeft het Nederlands [veel spreekwoorden](https://twitter.com/onzetaal/status/1012230346912534528) die allemaal ongeveer op hetzelfde neerkomen. Het is dan ook geen wonder waarschijnlijk dat dit voor veel front-enders ook opgaat. Voor anderen de mooiste dingen bouwen, maar de eigen website is vaak een ondergeschoven kindje.
 
 Mijn eigen website is ook zo’n lekkende kraan. In de loop der jaren heb ik er heel wat versleten. Van ‘plain old HTML’ naar Wordpress (en verschillende flirts met andere CMS’en) en uiteindelijk kwam ik toch weer uit bij ‘plain old HTML’. Makkelijk, snel, geen concessies hoeven doen voor een CMS en precies zo te perfectioneren als ik zelf wil. Het enige nadeel: ‘even’ een blogpost maken of andere dingen aan de site updaten, zijn toch wat meer werk dan ik zou willen. Met als gevolg dat mijn website precies aan het rijtje spreekwoorden toegevoegd kan worden. Daar baalde ik eigenlijk een beetje van.
@@ -53,13 +54,13 @@ Een aantal dingen van mijn aanpak wil ik uitlichten.
 
 Ik gebruik graag de icons van FontAwesome, maar ik laad liever niet alles in. Daarom sla ik de icons die ik wil gebruiken op in components/icons. Hier heb ik bijvoorbeeld een file iconGithubSquare.vue. Binnen de `template` tags plaats ik de svg code.
 
-In components/app staan de files voor onder andere de header en footer.  Hierin kan ik nu eenvoudig mijn custom icons aanroepen. In AppHeader.vue importeer ik het icon als volgt:
+In components/app staan de files voor onder andere de header en footer. Hierin kan ik nu eenvoudig mijn custom icons aanroepen. In AppHeader.vue importeer ik het icon als volgt:
 
 ```
 <script>
 import iconGithubSquare from '@/components/icons/iconGithubSquare.vue'
 export default {
-    components: { 
+    components: {
             iconGithubSquare
     }
 }
@@ -146,12 +147,13 @@ Ik geef het niet graag toe, maar mijn website is eigenlijk nog steeds een lekken
 
 # Meer weten:
 
-* [https://nuxtjs.org/](https://nuxtjs.org/)
-* [https://www.netlify.com/](https://www.netlify.com/)
-* [https://github.com/JoseeWouters/Josee-Wouters](https://github.com/JoseeWouters/Josee-Wouters)
-* [https://fronteers.nl/workshops/workshop-netlify-static-site-generators](https://fronteers.nl/workshops/workshop-netlify-static-site-generators)
+- [https://nuxtjs.org/](https://nuxtjs.org/)
+- [https://www.netlify.com/](https://www.netlify.com/)
+- [https://github.com/JoseeWouters/Josee-Wouters](https://github.com/JoseeWouters/Josee-Wouters)
+- [https://fronteers.nl/workshops/workshop-netlify-static-site-generators](https://fronteers.nl/workshops/workshop-netlify-static-site-generators)
 
 ### Over Josee Wouters
+
 <img src="/_img/adventskalender/josee-square.jpg" alt="Foto van Josee" class="floating-portrait">
 Front-end developer en vrijwilliger bij Fronteers. Werkt naast haar reguliere werk ook freelance en heeft in haar vrije tijd een app genaamd What Dinner? gemaakt. Programmeert ook graag met Arduino.
 

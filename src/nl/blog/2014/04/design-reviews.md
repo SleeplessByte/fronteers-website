@@ -1,10 +1,11 @@
 ---
-title: "Design reviews: rechtstreeks in de browser!"
+title: 'Design reviews: rechtstreeks in de browser!'
 date: 2014-04-01
 author: Bestuur
-categories: 
+categories:
   - Website
 ---
+
 Vandaag presenteren we het redesign van de site. Gewoon, in de browser, omdat dat onze favoriete tool is.
 
 Veel van de pagina's zijn op dit moment alleen nog beschikbaar in Photoshop, maar er er zijn ook al wat pagina's uitgewerkt, zoals [de congres homepage](/congres). Ook hebben we natuurlijk gedacht aan ontwerpen voor mobiele apparaten (lees: de iPhone), waarvan de [contactpagina](/contact) een voorbeeld is.

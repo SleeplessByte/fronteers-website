@@ -2,8 +2,9 @@
 key: statutes
 title: Statuten oprichting vereniging
 # if there's a subtitle, put it in heroSlogan:
-heroSlogan: ""
+heroSlogan: ''
 ---
+
 Heden, verschenen voor mij, Mr. Maria Arina Janna Elizabeth Hazenberg, notaris te Amsterdam:
 
 1. de heer Peter-Paul Koch

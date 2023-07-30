@@ -2,14 +2,15 @@
 title: "'Fronteers 2010: kaartverkoop, sprekers en workshops'"
 date: 2010-04-27
 author: Congres Commissie
-categories: 
+categories:
   - Congres
 ---
+
 Na een radiostilte van bijna twee maanden is het weer tijd voor een update van onze kant, wat betreft [Fronteers 2010](/congres/2010) op 7 en 8 oktober. Vandaag zetten we de kaartverkoop online (Fronteers leden krijgen hierover nog een mailtje, dus hou je nog even in), kondigen we twee nieuwe sprekers aan en maken we wat meer bekend over onze plannen rondom workshops.
 
 # Sprekers
 
-Na Jeremy Keith en Jeff Croft zijn we verheugd te mogen melden dat *[Cameron Adams](http://www.themaninblue.com/)* en *[Nicholas Zakas](http://www.nczonline.net/)* hebben toegezegd ons congres te komen verrijken. Cameron is de man bij wie je moet zijn als het gaat om [interessante experimenten in de browser](http://www.themaninblue.com/experiment/) of [vergelijkende warenonderzoeken](http://www.themaninblue.com/writing/perspective/2010/03/22/) tussen SVG, `<canvas>` en Flash. Nicholas is een grootheid op het gebied van [JavaScript performance](http://www.nczonline.net/writing/) en zal ons hierover meer komen vertellen.
+Na Jeremy Keith en Jeff Croft zijn we verheugd te mogen melden dat _[Cameron Adams](http://www.themaninblue.com/)_ en _[Nicholas Zakas](http://www.nczonline.net/)_ hebben toegezegd ons congres te komen verrijken. Cameron is de man bij wie je moet zijn als het gaat om [interessante experimenten in de browser](http://www.themaninblue.com/experiment/) of [vergelijkende warenonderzoeken](http://www.themaninblue.com/writing/perspective/2010/03/22/) tussen SVG, `<canvas>` en Flash. Nicholas is een grootheid op het gebied van [JavaScript performance](http://www.nczonline.net/writing/) en zal ons hierover meer komen vertellen.
 
 In totaal kunnen jullie minimaal 14 _ongesponsorde_ sessies verwachten.
 
@@ -25,17 +26,16 @@ Zoals gezegd gaat vandaag ook de early-bird kaartverkoop online. Net als vorig j
 
 Hieronder de prijzen voor dit jaar (exclusief 19% btw):
 
-| Type ticket                                                  | Prijs    |
-| ------------------------------------------------------------ | -------- |
-| Early-bird ticket voor 2 dagen                               | € 275,00 |
-| Early-bird ticket voor 1 dag                                 | € 175,00 |
-| Early-bird ticket voor 2 dagen voor Fronteers leden          | € 200,00 |
+| Type ticket                                                            | Prijs    |
+| ---------------------------------------------------------------------- | -------- |
+| Early-bird ticket voor 2 dagen                                         | € 275,00 |
+| Early-bird ticket voor 1 dag                                           | € 175,00 |
+| Early-bird ticket voor 2 dagen voor Fronteers leden                    | € 200,00 |
 | Early-bird ticket voor 2 dagen voor nieuwe Fronteers leden (per 27-04) | € 225,00 |
-| Early-bird ticket voor 1 dag voor Fronteers leden            | € 125,00 |
-| Workshop Advanced CSS styling                                | € 350,00 |
-| Workshop Advanced CSS styling voor Fronteers lede            | € 275,00 |
-| Workshop Advanced CSS styling voor nieuwe Fronteers leden (per 27-04) | € 300,00 |
-
+| Early-bird ticket voor 1 dag voor Fronteers leden                      | € 125,00 |
+| Workshop Advanced CSS styling                                          | € 350,00 |
+| Workshop Advanced CSS styling voor Fronteers lede                      | € 275,00 |
+| Workshop Advanced CSS styling voor nieuwe Fronteers leden (per 27-04)  | € 300,00 |
 
 [Fronteers leden](/leden) krijgen via de mailinglist in de komende dagen hun kortingscode doorgemaild, dus hou de hand nog even op de knip. Mensen die vanaf vandaag lid worden krijgen ook korting, maar niet de volledige korting (aangezien deze hoger ligt dan de lidmaatschapskosten). Voor de niet-leden: [boek je tickets nu!](/congres/2010/tickets)
 
@@ -51,7 +51,7 @@ Via [@FronteersConf](https://twitter.com/FronteersConf) gaan we vanaf nu wat vak
 
 # That's it
 
-Voor nu is dit het; het woord is aan jullie. Help mee ons en jullie congres te promoten via je blog, Twitter of gewoon op de werkvloer en laten we er samen voor zorgen dat *Fronteers 2010* weer een indrukwekkend, memorabel, uniek, kick-ass congres wordt.
+Voor nu is dit het; het woord is aan jullie. Help mee ons en jullie congres te promoten via je blog, Twitter of gewoon op de werkvloer en laten we er samen voor zorgen dat _Fronteers 2010_ weer een indrukwekkend, memorabel, uniek, kick-ass congres wordt.
 
 Als je vragen of opmerkingen hebt, zoals over alles bij Fronteers; schroom niet om iets van je te laten horen!
 

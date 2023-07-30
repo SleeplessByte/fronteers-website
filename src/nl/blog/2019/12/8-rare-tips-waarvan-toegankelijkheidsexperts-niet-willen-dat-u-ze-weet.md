@@ -1,11 +1,12 @@
 ---
-title: "8 Rare Tips Waarvan Toegankelijkheidsexperts Niet Willen Dat U Ze Weet!"
+title: '8 Rare Tips Waarvan Toegankelijkheidsexperts Niet Willen Dat U Ze Weet!'
 date: 2019-12-04
 author: Erik Kroes
-categories: 
+categories:
   - Adventskalender
 ---
-*Nummer 4 Zal Je Een Epileptische Aanval Geven!*
+
+_Nummer 4 Zal Je Een Epileptische Aanval Geven!_
 
 Deze titel is geschreven als een zogenaamde [clickbait-titel](https://nl.wikipedia.org/wiki/Clickbait) en ironisch bedoeld. Clickbait-titels presenteren vaak misleidende tips als een vorm van krachtige geheime kennis. In dit geval willen toegankelijkheidsexperts niet dat je deze tips kent omdat ze een slecht advies zijn. Dit zijn tips die je niet moet volgen.
 
@@ -21,8 +22,6 @@ Een Flesch-Kincaid-score is een geweldige maatstaf om je te concentreren op lees
 
 ![Een heel smal bord met de tekst "geen alcohol voorbij dit punt". Er zijn gemiddeld 2 letters op elke regel. De tekst is vrijwel onleesbaar en ziet eruit als een lijst met afkortingen.](/_img/adventskalender/04-12-2019-1.png)
 
-
-
 # 2. Pagina's die WAI-ARIA gebruiken zijn minder toegankelijk
 
 In februari 2019 deed WebAIM een geautomatiseerde toegankelijkheidstest op 1.000.000 webpagina's. Zo'n enorme dataset geeft veel inzicht in de huidige status van het web. Er zijn veel [interessante conclusies](https://webaim.org/projects/million/) te trekken uit de resultaten. Eén daarvan was: "Startpagina's met ARIA hadden gemiddeld 26.7 meer detecteerbare fouten dan pagina's zonder ARIA". Dat is een behoorlijk demotiverende statistiek.
@@ -34,8 +33,6 @@ Moet je ARIA dan niet gebruiken? Nou [als je het niet nodig hebt, gebruik het da
 De echte tip is niet om ARIA op zichzelf te vermijden, maar om het gebruik van ARIA te vermijden in situaties waar dit niet nodig is.
 
 ![Een kleine papieren paraplu bedekt nauwelijks een open kroonsteen met electriciteitsdraden. Het vormt een hopeloos schild tegen regen.](/_img/adventskalender/04-12-2019-2.png)
-
-
 
 # 3. Geautomatiseerde tests dekken slechts 20% van WCAG
 
@@ -55,8 +52,6 @@ Voeg een handmatige toetsenbordtest toe aan je automatische test en je zal waars
 Gefeliciteerd, je kan nu moeiteloos veel problemen vinden!
 
 ![Een betegelde muur heeft een uitsparing in de vorm van een wastafel en zijn silhouette. De wasbak was er duidelijk eerder dan de muur.](/_img/adventskalender/04-12-2019-3.png)
-
-
 
 # 4. Je kan een toegankelijk alternatief aanbieden
 
@@ -82,8 +77,6 @@ De discussie mag echter nooit over het aantal mensen gaan. Praten over cijfers w
 
 ![Een parkeerplek die is gemarkeerd als toegankelijk is omgeven door een aaneengesloten stoeprand](/_img/adventskalender/04-12-2019-4.png)
 
-
-
 # 7. De standaard focusindicator is veilig
 
 Veilig is hier een gevaarlijk woord, maar technisch gezien is een standaard focusindicator [toegestaan](https://www.w3.org/WAI/WCAG21/Techniques/general/G165) door WCAG. Als je puur en alleen WCAG op de letter wil volgen, ben je hier klaar (hoewel sommige mensen dit succescriterium van WCAG zo interpreteren dat het wijzigen van de achtergrondkleur de standaardfocusindicator ongeldig kan maken).
@@ -93,8 +86,6 @@ De kans is groot dat de standaardfocusindicator heel moeilijk te zien is op dele
 Het is wel goed om te weten dat [standaard focusindicatoren steeds beter worden](https://blogs.windows.com/msedgedev/2019/10/15/form-controls-microsoft-edge-chromium/).
 
 ![Een stopcontact waar water uit giet](/_img/adventskalender/04-12-2019-5.png)
-
-
 
 # 8. Onderscheid elementen op je pagina met een mooi fontje
 
@@ -111,6 +102,7 @@ Creatieve oplossingen zijn vaak minder effectief dan conventies. Het wijzigen va
 Als je een toegankelijkheidstip ziet, bedenk dan of deze daadwerkelijk iets toevoegt voor je eindgebruiker . Als het niets verbetert aan hun ervaring, wees dan kritisch. De toegankelijkheidsgemeenschap is open en gastvrij. Voel je altijd vrij om de mening van anderen te vragen.
 
 ### Over Erik Kroes
+
 <img src="/_img/adventskalender/erik-kroes.png" alt="Foto van Erik" class="floating-portrait">
 Erik werkt bij ING aan de toegankelijkheid van het design system en is een toegankelijkheidsadviseur voor [Eleven Ways](https://twitter.com/elevenways_be). Hij is mede-organizator van [Idea11y](https://twitter.com/idea11y), de Inclusive Design & Accessibility meetup. Je kunt hem vinden op [Twitter,](https://twitter.com/erikkroes) waar hij ook af en toe serieus is.
 Eriks donatie gaat naar de Hersenstichting.

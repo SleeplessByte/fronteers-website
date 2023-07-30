@@ -1,19 +1,20 @@
 ---
-title: "Bijeenkomst op 1 november bij Netvlies"
+title: 'Bijeenkomst op 1 november bij Netvlies'
 date: 2012-09-06
 author: Paul Verbeek
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op donderdag 1 november is Fronteers te gast bij Netvlies Internetdiensten in Breda. Dit keer is het geen bijeenkomst met 2 presentaties, maar een Pecha Kucha met 10 presentaties door je mede-developers of jezelf.
 
 # Het programma is als volgt:
 
-* 18.30 Inloop
-* 19.30 Pecha Kucha 1 t/m 5
-* 20.30 korte pauze
-* 20.45 Pecha Kucha 6 t/m 10
-* 21.45 borrelen
+- 18.30 Inloop
+- 19.30 Pecha Kucha 1 t/m 5
+- 20.30 korte pauze
+- 20.45 Pecha Kucha 6 t/m 10
+- 21.45 borrelen
 
 # Pecha Kucha
 

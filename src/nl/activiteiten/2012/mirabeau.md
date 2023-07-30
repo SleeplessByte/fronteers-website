@@ -1,20 +1,21 @@
 ---
-title: "Bijeenkomst bij Mirabeau op 15 februari 2012"
+title: 'Bijeenkomst bij Mirabeau op 15 februari 2012'
 date: 2012-02-15
 eventdate: 2012-02-15
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Op woensdag 15 februari zijn we te gast bij [Mirabeau](http://mirabeau.nl) in Rotterdam. Johan Ronsse, die op zijn verjaardag speciaal voor ons uit België af komt reizen, geeft een presentatie over interface design. Paul Martens, front-end developer bij Mirabeau, vertelt over spriting en workflow.
 
 # Het programma is als volgt:
 
-* 18:30 inloop
-* 19:30 Johan Ronsse over interface design
-* 20:30 korte pauze
-* 20:45 Paul Martens over Spriting en workflow
-* 21:45 borrelen
+- 18:30 inloop
+- 19:30 Johan Ronsse over interface design
+- 20:30 korte pauze
+- 20:45 Paul Martens over Spriting en workflow
+- 21:45 borrelen
 
 # Interface design
 
@@ -38,57 +39,55 @@ Zoals gebruikelijk is deze bijeenkomst gratis bij te wonen door zowel leden als 
 
 # Aanwezigen
 
-* Nadim Basalamah(Amsterdam, openbaar vervoer)
-* Sebas Beckeringh (fiets)
-* Xander Bindt (Hooglanden, openbaar vervoer)
-* Jasper Bogers (Utrecht, openbaar vervoer)
-* Ruben Bos (kruipend)
-* Roelinde Brons (Ede, openbaar vervoer)
-* Robin van Diesen (kruipend)
-* Roel van Dijk (openbaar vervoer)
-* Arjan Eising (Hilversum, openbaar vervoer)
-* Peter Garama (kruipend)
-* Vasilis van Gemert (Amsterdam, openbaar vervoer)
-* Robbert Helling (Amersfoort, openbaar vervoer)
-* Bas Hintemann (Tilburg, openbaar vervoer)
-* Erik van Houdt (kruipend)
-* Jeroen Hulscher (auto)
-* Egor Kloos (kruipend)
-* Anton Kouliavtsev (Utrecht, openbaar vervoer)
-* Darius Kruythoff (kruipend)
-* Sander van Lambalgen (Leiden, openbaar vervoer)
-* Geert de Leeuw (fiets)
-* Joan Lindhout (kruipend)
-* Yoeran Luteijn (kruipend)
-* Mallory (Sliedrecht, openbaar vervoer)
-* Paul Martens (openbaar vervoer)
-* Bran van der Meer (openbaar vervoer)
-* Florian Mientjes (kruipend)
-* Olaf Muller (kruipend)
-* Michel Olivier (Rijswijk, openbaar vervoer)
-* Pim van Ooij (Alphen aan den Rijn, openbaar vervoer)
-* Joël Plas (auto)
-* Rowdy Rabouw (Gouda, openbaar vervoer)
-* Alex de Rijk (Roosendaal, openbaar vervoer)
-* Johan Ronsse (Antwerpen, openbaar vervoer, neemt taart mee)
-* Charis Rooda (Den Haag, openbaar vervoer)
-* Elwin Schmitz (Delft, fiets)
-* Evert Slagter (kruipend)
-* Vincent Smedinga (Den Haag, auto)
-* Lars Smit (Gouda, auto)
-* Christiaan Stegeman (Brabant, openbaar vervoer)
-* Pascal Strijbos (Amsterdam, openbaar vervoer)
-* Joris van Summeren (+3, Breda, auto)
-* Leendert Ullersma (Amsterdam, openbaar vervoer)
-* Kris van der Ven (Utrecht, openbaar vervoer)
-* Paul Verbeek (Breda, openbaar vervoer)
-* Mike Vierwind (Gelderland, openbaar vervoer)
-* Sybren Wartna (fiets)
-* Guido Wesdorp (kruipend)
-* Jaap-Hein Wester (fiets)
-* Thomas van Zuijlen (Amsterdam, auto)
-* En nog 1 persoon…
+- Nadim Basalamah(Amsterdam, openbaar vervoer)
+- Sebas Beckeringh (fiets)
+- Xander Bindt (Hooglanden, openbaar vervoer)
+- Jasper Bogers (Utrecht, openbaar vervoer)
+- Ruben Bos (kruipend)
+- Roelinde Brons (Ede, openbaar vervoer)
+- Robin van Diesen (kruipend)
+- Roel van Dijk (openbaar vervoer)
+- Arjan Eising (Hilversum, openbaar vervoer)
+- Peter Garama (kruipend)
+- Vasilis van Gemert (Amsterdam, openbaar vervoer)
+- Robbert Helling (Amersfoort, openbaar vervoer)
+- Bas Hintemann (Tilburg, openbaar vervoer)
+- Erik van Houdt (kruipend)
+- Jeroen Hulscher (auto)
+- Egor Kloos (kruipend)
+- Anton Kouliavtsev (Utrecht, openbaar vervoer)
+- Darius Kruythoff (kruipend)
+- Sander van Lambalgen (Leiden, openbaar vervoer)
+- Geert de Leeuw (fiets)
+- Joan Lindhout (kruipend)
+- Yoeran Luteijn (kruipend)
+- Mallory (Sliedrecht, openbaar vervoer)
+- Paul Martens (openbaar vervoer)
+- Bran van der Meer (openbaar vervoer)
+- Florian Mientjes (kruipend)
+- Olaf Muller (kruipend)
+- Michel Olivier (Rijswijk, openbaar vervoer)
+- Pim van Ooij (Alphen aan den Rijn, openbaar vervoer)
+- Joël Plas (auto)
+- Rowdy Rabouw (Gouda, openbaar vervoer)
+- Alex de Rijk (Roosendaal, openbaar vervoer)
+- Johan Ronsse (Antwerpen, openbaar vervoer, neemt taart mee)
+- Charis Rooda (Den Haag, openbaar vervoer)
+- Elwin Schmitz (Delft, fiets)
+- Evert Slagter (kruipend)
+- Vincent Smedinga (Den Haag, auto)
+- Lars Smit (Gouda, auto)
+- Christiaan Stegeman (Brabant, openbaar vervoer)
+- Pascal Strijbos (Amsterdam, openbaar vervoer)
+- Joris van Summeren (+3, Breda, auto)
+- Leendert Ullersma (Amsterdam, openbaar vervoer)
+- Kris van der Ven (Utrecht, openbaar vervoer)
+- Paul Verbeek (Breda, openbaar vervoer)
+- Mike Vierwind (Gelderland, openbaar vervoer)
+- Sybren Wartna (fiets)
+- Guido Wesdorp (kruipend)
+- Jaap-Hein Wester (fiets)
+- Thomas van Zuijlen (Amsterdam, auto)
+- En nog 1 persoon…
 
-
-
-*De bijeenkomst zit helaas vol. Stuur een e-mail naar <arjan@fronteers.nl> om op de wachtlijst gezet te worden.*
+_De bijeenkomst zit helaas vol. Stuur een e-mail naar <arjan@fronteers.nl> om op de wachtlijst gezet te worden._

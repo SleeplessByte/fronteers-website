@@ -1,10 +1,11 @@
 ---
-title: "Schrijf mee aan de Adventskalender 2019!"
+title: 'Schrijf mee aan de Adventskalender 2019!'
 date: 2019-10-18
 author: Josee Wouters
-categories: 
+categories:
   - Adventskalender
 ---
+
 De Fronteers Adventskalender is terug! 24 blogs van 24 schrijvers over uiteenlopende front-end onderwerpen. Wil jij graag een blog schrijven voor Fronteers, meld je nu dan aan. Tot 31 oktober kan iedereen een voorstel indienen voor een blog. Schrijvers mogen een donatie van 75 euro uit de verenigingskas doen aan een goed doel.
 
 - English below -

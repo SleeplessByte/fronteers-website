@@ -1,12 +1,13 @@
 ---
-title: "Not another JS framework - zelf een JavaScript framework schrijven"
+title: 'Not another JS framework - zelf een JavaScript framework schrijven'
 date: 2021-01-02
 author: Josee Wouters
-categories: 
+categories:
   - Adventskalender
 graphic:
   src: pankaj-patel-1IW4HQuauSU-unsplash.jpeg
 ---
+
 React beter leren. Het staat al een hele tijd op mijn to do list, omdat we op mijn werk met React werken. Ik leer het beste door dingen te doen, maar ik hou niet van korte "Hello World" tutorials van een uurtje waarna je eigenlijk nog niets hebt geleerd. Daarom kreeg ik een studieopdracht op het werk: bouw React na. Mijn eigen JavaScript framework maken... Ik moest even slikken. Dat kan ik toch nooit?! Maar ik liet het even bezinken, kreeg wat eerste instructies en ging toen toch aan de slag. Omdat ik ook goed leer door op te schrijven wat ik heb gedaan, doe ik dat hier. Wellicht inspireert het jou om ook zoiets te proberen.
 
 # Research
@@ -28,7 +29,7 @@ function render() {
     const element = document.createElement("div");
     const content = document.createTextNode("Hello Clippy");
     const clippy = document.getElementById("clippy");
-    
+
     element.appendChild(content);
     clippy.appendChild(element);
 }
@@ -60,7 +61,7 @@ Dat valt op zich wel mee. Zo zou ik er al zijn:
 function render( clippy, container ) {
     let element = document.createElement( clippy.type );
     let content = document.createTextNode( clippy.children )
-	
+
     element.appendChild(content);
     clippy.appendChild(container);
 }
@@ -96,7 +97,7 @@ De `render` functie moet nu ook iets aangepast worden om de `createChildElements
 function render( clippy, container ) {
     let element = document.createElement( clippy.type );
 	if( clippy.children.length > 0 ) {
-		element = createChildElements( element, clippy.children );	
+		element = createChildElements( element, clippy.children );
 	}
 	container.appendChild( element );
 };

@@ -1,12 +1,13 @@
 ---
-title: "Nu online: de Fronteers webshop"
+title: 'Nu online: de Fronteers webshop'
 date: 2011-08-22
 author: Hidde de Vries
-categories: 
+categories:
   - Commissies
   - Vereniging
   - Website
 ---
+
 De [webshop](http://fronteers.spreadshirt.nl) van Fronteers is vorige week online gegaan, met onder andere Fronteers-branded t-shirts, laptophoezen en—must-have voor de echte webstandaardenliefhebbers—een [Blue Beanie](http://www.zeldman.com/2010/11/28/dont-forget-blue-beanie-day/).
 
 De shop wordt gehost en gerund door Spreadshirt: zij drukken en distribueren de producten. Voor vragen over producten en levering kun je dus terecht bij hun klantenservice.

@@ -1,20 +1,21 @@
 ---
-title: "Bijeenkomst bij eBuddy op 30 mei 2013"
+title: 'Bijeenkomst bij eBuddy op 30 mei 2013'
 date: 2013-05-30
 eventdate: 2013-05-30
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Donderdag 30 mei is Fronteers te gast bij [eBuddy](http://ebuddy.com) in Amsterdam. Twee presentaties staan op het programma. Jan van Hellemond vertelt over SVG voor het responsive web, en Andrei Rusu spreekt over client-side architectuur van server sent events.
 
 # Programma
 
-* 18:30 inloop
-* 19:30 Jan van Hellemond – SVG voor het responsive web
-* 20:30 korte pauze
-* 20:45 Andrei Rusu – Real time client-server architecture using Server-Sent Events
-* 21:45 borrel
+- 18:30 inloop
+- 19:30 Jan van Hellemond – SVG voor het responsive web
+- 20:30 korte pauze
+- 20:45 Andrei Rusu – Real time client-server architecture using Server-Sent Events
+- 21:45 borrel
 
 # SVG voor het responsive web
 
@@ -36,50 +37,49 @@ eBuddy is gevestigd aan Keizersgracht 585, 1017 DR Amsterdam. Zoals gebruikelijk
 
 # Aanmeldingen
 
-* Evert Albers (Amersfoort)
-* Marc Bakker
-* Rogier Barendregt
-* Rick van den Bergh
-* Hayo Bethlehem (Den Haag)
-* Bas Blankestijn
-* Jasper Bogers
-* Anne Jan Brouwer
-* Timo Brundel (Amersfoort)
-* Arjan Eising (Hilversum)
-* Robert van der Elst (Amstersfoort)
-* Jules Ernst
-* GP Gooiker (Rotterdam)
-* Wouter van der Graaf
-* Tom Greuter
-* Hans Grimm (Amersfoort)
-* Jan van Hellemond
-* Maikel de Hoog
-* Stefan Jonker
-* Robert Joosen
-* Mathijs Kadijk (Zwolle)
-* Renate Kikkert
-* Ruben Knol
-* David Knowles (Delft)
-* Ted de Koning (Den Haag)
-* Anton Kouliavtsev
-* Jörgen van der Kroon
-* Stef Laarman
-* Sander van Lambalgen
-* Marco
-* Edwin Martin (Hilversum)
-* Bram van Mensvoort
-* Kamiel Naaktgeboren (Rotterdam)
-* Joël Plas
-* Thijs Reijgersberg
-* Michiel Reyers
-* Marije Rooze
-* Verena Ruf
-* Andrei Rusu
-* Michael Scheufler
-* Bob Snellenburg
-* Robbert van Staveren
-* Jeroen Visser (Delft)
-* Hetty de Vries
-* Frank de Wit (Den haag)
-* Thomas van Zuijlen
-
+- Evert Albers (Amersfoort)
+- Marc Bakker
+- Rogier Barendregt
+- Rick van den Bergh
+- Hayo Bethlehem (Den Haag)
+- Bas Blankestijn
+- Jasper Bogers
+- Anne Jan Brouwer
+- Timo Brundel (Amersfoort)
+- Arjan Eising (Hilversum)
+- Robert van der Elst (Amstersfoort)
+- Jules Ernst
+- GP Gooiker (Rotterdam)
+- Wouter van der Graaf
+- Tom Greuter
+- Hans Grimm (Amersfoort)
+- Jan van Hellemond
+- Maikel de Hoog
+- Stefan Jonker
+- Robert Joosen
+- Mathijs Kadijk (Zwolle)
+- Renate Kikkert
+- Ruben Knol
+- David Knowles (Delft)
+- Ted de Koning (Den Haag)
+- Anton Kouliavtsev
+- Jörgen van der Kroon
+- Stef Laarman
+- Sander van Lambalgen
+- Marco
+- Edwin Martin (Hilversum)
+- Bram van Mensvoort
+- Kamiel Naaktgeboren (Rotterdam)
+- Joël Plas
+- Thijs Reijgersberg
+- Michiel Reyers
+- Marije Rooze
+- Verena Ruf
+- Andrei Rusu
+- Michael Scheufler
+- Bob Snellenburg
+- Robbert van Staveren
+- Jeroen Visser (Delft)
+- Hetty de Vries
+- Frank de Wit (Den haag)
+- Thomas van Zuijlen

@@ -1,11 +1,12 @@
 ---
-title: "Meld je nu aan voor de ALV 2015"
+title: 'Meld je nu aan voor de ALV 2015'
 date: 2015-11-25
 author: bestuur
-categories: 
+categories:
   - Leden
   - Vereniging
 ---
+
 Op donderdagavond 3 december houden we onze jaarlijkse algemene ledenvergadering (ALV). Alle leden zijn hiervoor van harte uitgenodigd. De locatie van de ALV is Zalencentrum Se7en (toegang via [Restaurant Se7en](http://www.sevenutrecht.nl/)), ongeveer vijf minuten lopen vanaf Utrecht CS (Mariaplaats 7).
 
 We beginnen om 19:00 uur en verwachten met een strakke planning ruim binnen de drie uur af te ronden en gezellig te gaan napraten. Voor de mensen die van ver komen regelen we een broodmaaltijd, welke vanaf 18:30 beschikbaar zal zijn. Geef bij je aanmelding even aan als je hier gebruik van wilt maken.
@@ -28,4 +29,3 @@ Dit jaar treden Matijs Brinkhuis en Roy Tomeij af, en stellen zich niet opnieuw 
 > Dag Fronteers, ik heet Thomas en ik ben sinds 2009 lid van de vereniging. Af en toe doe ik een inleiding bij spreekavonden, en sinds 2013 ben ik actief in de organisatie van het congres. Vandaag stel ik me kandidaat als bestuurslid.
 
 Ben je van plan te komen, dan vragen we je vriendelijk je hieronder hiervoor in te schrijven, zodat we een idee hebben van de te verwachten opkomst.
- 

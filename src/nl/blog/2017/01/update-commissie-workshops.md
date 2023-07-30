@@ -1,10 +1,11 @@
 ---
-title: "Workshop Datavisualisatie met Nadieh Bremer en nieuwe commissieleden gezocht"
+title: 'Workshop Datavisualisatie met Nadieh Bremer en nieuwe commissieleden gezocht'
 date: 2017-01-24
 author: Hidde de Vries
-categories: 
+categories:
   - Workshops
 ---
+
 In april presenteert de workshopcommissie met trots een [nieuwe workshop over datavisualisatie](/workshops/creatieve-data-visualisatie-nadieh-bremer), met niemand minder dan Nadieh Bremer (die je onder andere kunt kennen van haar talk op Fronteers 2016). Ook zoeken we nieuwe leden voor onze commissie.
 
 # Workshop “Datavisualisatie” met Nadieh Bremer

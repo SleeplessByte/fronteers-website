@@ -1,22 +1,23 @@
 ---
-title: "Bijeenkomst op 14 juni met internationale sprekers bij LBi Netherlands"
+title: 'Bijeenkomst op 14 juni met internationale sprekers bij LBi Netherlands'
 date: 2012-04-18
 author: Arjan Eising & Mike Vierwind
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Fronteers bestaat 5 jaar. Ter ere van dit eerste lustrumjaar, organiseren we een grote bijeenkomst met twee internationale sprekers. Deze bijeenkomst wordt gehouden op 14 juni 2012 vanaf 15:00 uur bij [LBi Netherlands](http://www.lbi.nl/) in Amsterdam. De bijeenkomst is voor iedereen, dus ook niet leden, en is gratis!
 
 De middag start met een presentatie door Bruce Lawson. Om 17:00 uur zal er een hapje gegeten worden en 's avonds zal Rachel Andrew een inspirerende presentatie geven. Daarna is er tijd voor een borrel.
 
 # Programma
 
-* 15:00 Inloop
-* 15:30 Welkomswoordje
-* 15:35 Presentatie Bruce Lawson
-* 17:00 Dinner
-* 18:00 Presentatie Rachel Andrew
-* 19:30 Borrelen
+- 15:00 Inloop
+- 15:30 Welkomswoordje
+- 15:35 Presentatie Bruce Lawson
+- 17:00 Dinner
+- 18:00 Presentatie Rachel Andrew
+- 19:30 Borrelen
 
 # Bruce Lawson
 
@@ -32,11 +33,11 @@ LBi Netherlands is goed bereikbaar met de auto en het openbaar vervoer. We raden
 
 ## Met het openbaar vervoer:
 
-* Neem de trein naar station Duivendrecht, Amsterdam Amstel of Bijlmer Arena.
-* Neem dan de metro naar Spaklerweg.
-* Neem de uitgang Wenckebachweg en loop rechtdoor langs het fietspad.
-* Ga aan het eind van het pad rechts, de Wenckebachweg op.
-* Na ongeveer 10 minuten lopen zie je LBi recht voor je.
+- Neem de trein naar station Duivendrecht, Amsterdam Amstel of Bijlmer Arena.
+- Neem dan de metro naar Spaklerweg.
+- Neem de uitgang Wenckebachweg en loop rechtdoor langs het fietspad.
+- Ga aan het eind van het pad rechts, de Wenckebachweg op.
+- Na ongeveer 10 minuten lopen zie je LBi recht voor je.
 
 # Aanmelden
 

@@ -1,10 +1,11 @@
 ---
-title: "Workshops! Wees er snel bij!"
+title: 'Workshops! Wees er snel bij!'
 date: 2017-07-19
 author: Tim Severien
-categories: 
+categories:
   - Workshops
 ---
+
 Tijd voor iets nieuws? Meld je aan voor de workshop Progressive Enhancement of Service Workers.
 
 In augustus en september hebben we weer toffe workshops in Utrecht die je niet wilt missen!

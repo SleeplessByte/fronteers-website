@@ -1,19 +1,20 @@
 ---
-title: "Bijeenkomst bij Digiti op 12 maart 2015"
+title: 'Bijeenkomst bij Digiti op 12 maart 2015'
 date: 2015-03-12
 eventdate: 2015-03-12
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Op donderdag 12 maart 2015 is Fronteers te gast bij [Digiti](http://digiti.be/) in Zoersel. Er worden twee presentaties voorzien.
 
 # Het programma is als volgt:
 
-* 18:00 ontvangst met een hapje en een drankje
-* 19:00 Saskia Videler - Dances with words
-* 20:00 Bert Timmermans - Your own Minecraft, thanks to three.js!
-* 21:00 naborrelen
+- 18:00 ontvangst met een hapje en een drankje
+- 19:00 Saskia Videler - Dances with words
+- 20:00 Bert Timmermans - Your own Minecraft, thanks to three.js!
+- 21:00 naborrelen
 
 # Saskia Videler - Dances with words
 
@@ -42,8 +43,6 @@ Aan het kantoor zelf is er niet voldoende parking, maar er bevindt zich een Park
 Iedereen is welkom. Er is echter beperkt plaats, voor circa 50 mannen en vrouwen. Geef je daarom op via onderstaand aanmeldformulier. Vol is vol!
 
 Volg de discussie via Twitter op [#fronteersbe](https://twitter.com/search?q=%23fronteersbe).
-
-
 
 # Aanmeldingen
 
@@ -235,5 +234,4 @@ Volg de discussie via Twitter op [#fronteersbe](https://twitter.com/search?q=%23
 </tr>
 </table>
 
-
-Naast bovenstaande officiële lijst kunnen aangemelde deelnemers ook [via Lanyrd aangeven dat ze aanwezig zullen zijn](http://lanyrd.com/2015/fronteersbe-digiti/). *Inschrijven via het onderstaande formulier is echter verplicht!*
+Naast bovenstaande officiële lijst kunnen aangemelde deelnemers ook [via Lanyrd aangeven dat ze aanwezig zullen zijn](http://lanyrd.com/2015/fronteersbe-digiti/). _Inschrijven via het onderstaande formulier is echter verplicht!_

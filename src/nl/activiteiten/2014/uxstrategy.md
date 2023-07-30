@@ -1,6 +1,7 @@
 ---
 title: Bijeenkomst met Jared Spool, “UX Strategy Means Business”, 7 februari in Amsterdam
 ---
+
 Jared Spool [tweette dat hij in Nederland is](https://twitter.com/jmspool/status/428460022646181888) en de activiteitencommissie van Fronteers wist hem te strikken voor een presentatie. Deze bijeenkomst wordt georganiseerd in samenwerking met [Amsterdam UX](http://www.meetup.com/AmsterdamUX/).
 
 ### Wie is Jared Spool?

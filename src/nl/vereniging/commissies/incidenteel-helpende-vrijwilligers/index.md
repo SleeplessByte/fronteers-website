@@ -2,6 +2,7 @@
 key: committees
 title: Incidenteel helpende vrijwilligers
 ---
+
 Naast de commissies zijn er ook een aantal personen die incidenteel en uit eigen initiatief gewaardeerde bijdrages leveren aan de vereniging.
 
 # Jam Session

@@ -1,10 +1,11 @@
 ---
-title: "Met 50% korting naar BlackBerry DevCon"
+title: 'Met 50% korting naar BlackBerry DevCon'
 date: 2011-12-13
 author: Peter-Paul Koch
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Op 7 en 8 februari wordt in de RAI te Amsterdam [BlackBerry DevCon Europe](http://www.blackberrydevcon.com/europe) gehouden, dat zich op het BlackBerry platform richt. Voor een congres van een mobiele speler wordt er ongebruikelijk veel aandacht aan het web besteed, en bovendien krijgt elke bezoeker een gratis BlackBerry PlayBook.
 
 Fronteers biedt hierbij aan zijn leden 50% korting op de toegangsprijs aan. De early bird loopt op 23 december af. Registreer je je voor die tijd, dan betaal je niet 250 maar slechts 125 euro.

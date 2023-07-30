@@ -1,13 +1,14 @@
 ---
-title: "Fronteers 2013 kaartverkoop start op 25 april"
+title: 'Fronteers 2013 kaartverkoop start op 25 april'
 date: 2013-04-22
 author: Commissie congres
-categories: 
+categories:
   - Congres
 ---
+
 Op 10 en 11 oktober 2013 gaat het Fronteers-congres weer plaatsvinden, wederom in Pathé Tuschinski in Amsterdam. Op donderdag 25 april om 12:00 uur Nederlandse tijd gaat de kaartverkoop van start.
 
-Net als in voorgaande jaren is er een beperkt aantal early bird kaarten dat verkocht wordt voor de reguliere kaartverkoop van start gaat. De kaartprijzen zijn niet veranderd ten opzichte van vorig jaar. *Voor de early bird kaarten geldt dit jaar wel: op=op, wees er dus snel bij.*
+Net als in voorgaande jaren is er een beperkt aantal early bird kaarten dat verkocht wordt voor de reguliere kaartverkoop van start gaat. De kaartprijzen zijn niet veranderd ten opzichte van vorig jaar. _Voor de early bird kaarten geldt dit jaar wel: op=op, wees er dus snel bij._
 
 Fronteers 2013 early bird kaartje (exclusief 21% btw)
 Fronteersleden €200

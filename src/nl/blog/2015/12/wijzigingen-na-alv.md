@@ -1,11 +1,12 @@
 ---
-title: "Wijzigingen na ALV"
+title: 'Wijzigingen na ALV'
 date: 2015-12-08
 author: Hidde de Vries
-categories: 
+categories:
   - Leden
   - Vereniging
 ---
+
 Tijdens de ALV op 3 december jongstleden namen we afscheid van Roy Tomeij en Matijs Brinkhuis als bestuursleden van Fronteers. In de bestuursverkiezing verkoos de ALV daarnaast Thomas van Zuijlen tot bestuurslid en herkoos Arjan Eising. Ook werd Krijn Hoetmer benoemd tot erelid.
 
 Om nog even kort stil te staan bij de verdiensten van Matijs en Roy, maakten we een overzicht van hun bijdragen aan het bestuur in de afgelopen jaren.

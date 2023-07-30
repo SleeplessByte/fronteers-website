@@ -1,22 +1,23 @@
 ---
-title: "Bijeenkomst bij CLEVER°FRANKE"
+title: 'Bijeenkomst bij CLEVER°FRANKE'
 date: 2016-05-05
 eventdate: 2016-05-05
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 _Please note: this meetup will be held in English. / Let op: de voertaal van deze bijeenkomst zal Engels zijn._
 
-*Op donderdag 2 juni is Fronteers te gast  bij ‘data-driven design agency’ CLEVER°FRANKE  voor een avond over het oplossen van complexe problemen met front-end development en datavisualisatie. Zij zorgen voor bier, eten en snacks, en hebben ruimte voor zo'n 40 geïnteresseerden.*
+_Op donderdag 2 juni is Fronteers te gast bij ‘data-driven design agency’ CLEVER°FRANKE voor een avond over het oplossen van complexe problemen met front-end development en datavisualisatie. Zij zorgen voor bier, eten en snacks, en hebben ruimte voor zo'n 40 geïnteresseerden._
 
 # Programma
 
-* 18:00 Ontvangst met drankjes en hapjes
-* 18:30 Gert Franke - Lessons learned in building a datavisualization agency
-* 19:15 Pauze
-* 19:30 Jan Hoogeveen: Overcoming complexity and what that means for development
-* 20:15 borrel
+- 18:00 Ontvangst met drankjes en hapjes
+- 18:30 Gert Franke - Lessons learned in building a datavisualization agency
+- 19:15 Pauze
+- 19:30 Jan Hoogeveen: Overcoming complexity and what that means for development
+- 20:15 borrel
 
 ## Gert Franke - Lessons learned in building a datavisualization agency
 
@@ -36,18 +37,16 @@ CLEVER°FRANKE is gevestigd in het centrum van Utrecht. Je kunt de bus nemen van
 
 {%- googlemaps "Boothstraat 2, 3512BW, Utrecht" -%}
 
-Het adres:  Boothstraat 2, 3512BW, Utrecht
-
+Het adres: Boothstraat 2, 3512BW, Utrecht
 
 {%- comment -%}
 {%- form -%}
 {%- endcomment -%}
 
-
 # Vragen?
 
 Deze bijeenkomst is volgeboekt. Wil je op de wachtlijst? [Neem contact op met de Activiteitencommissie.](/vereniging/commissies/activiteiten)
-Sta je op  de deelnemerslijst, maar kun je toch niet komen? Afmelden kan door een mail te sturen aan de activiteitencommissie.
+Sta je op de deelnemerslijst, maar kun je toch niet komen? Afmelden kan door een mail te sturen aan de activiteitencommissie.
 
 # Wie komen er nog meer? ({aanmeldingen}/{max})
 

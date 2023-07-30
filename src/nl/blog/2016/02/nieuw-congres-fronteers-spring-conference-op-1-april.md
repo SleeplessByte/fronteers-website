@@ -1,18 +1,17 @@
 ---
-title: "Nieuw congres: Fronteers Spring Conference op 1 april"
+title: 'Nieuw congres: Fronteers Spring Conference op 1 april'
 date: 2016-02-12
 author: Thomas van Zuijlen
-categories: 
+categories:
   - Congres
   - Leden
 ---
+
 Op vrijdag 1 april organiseert Fronteers een nieuw themacongres in EYE in Amsterdam. We gaan ons een dag lang met 10 interessante sprekers verdiepen in Web Performance onder leiding van Phil Hawksworth. Leden van Fronteers kunnen voordelig deelnemen - én krijgen voorrang.
-
-
 
 Dit congres heet [Fronteers Spring Conference](https://fronteers.nl/congres/2016-spring); het is speciaal opgezet als een 'leden-first' aanvulling op ons congresaanbod in oktober. Iedereen is welkom, maar leden van Fronteers krijgen fikse korting én voorrang.
 
-Vandaag start meteen de kaartverkoop op [https://tickets.fronteers.nl](https://tickets.fronteers.nl) en alleen Fronteersleden (die op 3 februari al lid waren) kunnen de eerste kaarten kopen, voor *€99 plus BTW*. Pas over twee weken kan iedereen een ticket bemachtigen; kaartjes voor niet-leden kosten €199 plus BTW.
+Vandaag start meteen de kaartverkoop op [https://tickets.fronteers.nl](https://tickets.fronteers.nl) en alleen Fronteersleden (die op 3 februari al lid waren) kunnen de eerste kaarten kopen, voor _€99 plus BTW_. Pas over twee weken kan iedereen een ticket bemachtigen; kaartjes voor niet-leden kosten €199 plus BTW.
 
 # Opzet van de dag
 
@@ -30,14 +29,14 @@ Die MC is niemand minder dan Phil Hawksworth, die al twee keer uitstekend op het
 
 We hebben een prachtige verzameling van experts bereid gevonden naar Nederland (terug) te komen. We zijn trots op de lijst tot nog toe:
 
-* Tobias Baldauf
-*     Marcy Sutton
-*     Karl Groves
-*     Tobias Ahlin
-*     Paul Bakaus
-*     Bram Stein
-*     Yan Zhu
-*     Estelle Weyl
+- Tobias Baldauf
+-     Marcy Sutton
+-     Karl Groves
+-     Tobias Ahlin
+-     Paul Bakaus
+-     Bram Stein
+-     Yan Zhu
+-     Estelle Weyl
 
 Meer over de sprekers en hun presentaties vind je op de congrespagina's, [https://fronteers.nl/congres/2016-spring](https://fronteers.nl/congres/2016-spring).
 

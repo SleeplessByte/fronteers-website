@@ -1,10 +1,11 @@
 ---
-title: "Verslag actieve ledenuitje 2010"
+title: 'Verslag actieve ledenuitje 2010'
 date: 2010-09-21
 author: Arjan Eising
-categories: 
+categories:
   - Leden
 ---
+
 Zaterdag 11 september hebben de actieve leden van Fronteers gezeild over het Markermeer. Actieve leden zijn leden die in een of meer commissies zitten. We hebben met z'n vijftienen een gezellige dag gehad, met als afsluiting een lekkere barbecue.
 
 Na rond 13 uur af te hebben gesproken met elkaar bij Café de Pont, aan de overkant van het IJ bij Amsterdam Centraal, gingen we met drie auto's naar Muiden. Daar wachtten enkele leden die met het OV kwamen op de boot. Na kennis gemaakt te hebben met de schipper en zijn hulpen, voeren we af richting het Noorden van het Markermeer.

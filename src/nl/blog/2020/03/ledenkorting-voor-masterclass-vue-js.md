@@ -1,10 +1,11 @@
 ---
-title: "Ledenkorting voor masterclass Vue.js"
+title: 'Ledenkorting voor masterclass Vue.js'
 date: 2020-03-06
 author: Anneke Sinnema
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Op donderdag 14 en vrijdag 15 mei organiseert De Voorhoede een [Vue.js Masterclass](https://www.voorhoede.nl/nl/events/vue-masterclass-3/) in Amsterdam. Leden van Fronteers ontvangen 10% korting op deze Masterclass. In een tweedaagse workshop leer je alles wat je moet weten om een snelle en volwaardige web app te bouwen met Vue.
 
 Vue.js (vuejs.org) is één van de populairste JavaScript frameworks om web apps mee te bouwen. En dat is logisch. Vue is toegankelijk omdat het dichtbij de webstandaarden blijft. Het is een compleet framework, met een groot ecosysteem dat je ondersteunt bij het bouwen van complete web apps.

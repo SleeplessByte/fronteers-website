@@ -2,10 +2,11 @@
 key: history-names
 title: Mogelijke namen voor de vereniging
 # if there's a subtitle, put it in heroSlogan:
-heroSlogan: ""
+heroSlogan: ''
 ---
+
 On this page you will find the names for the "Guild" that have been proposed by members in the run-up to its establishment, as well as board advice on this.
-All provisional members were allowed to vote, and the result was *Fronteers*.
+All provisional members were allowed to vote, and the result was _Fronteers_.
 
 ### Board advice
 

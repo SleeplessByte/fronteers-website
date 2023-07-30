@@ -1,10 +1,11 @@
 ---
-title: "Waarom een slicer een front-end developer is geworden"
+title: 'Waarom een slicer een front-end developer is geworden'
 date: 2011-12-01
 author: Stijn Janssen
-categories: 
+categories:
   - Adventskalender
 ---
+
 Het internet gebruikte je vroeger enkel voor het weergeven van simpele, gestructureerde gegevens. Met de stijgende populariteit van het internet wilde iedereen zijn eigen website onderscheiden van de andere. Naast de interessante content die je op je website toonde, wilde je ook een visueel onderscheid maken ten opzichte van de rest van de wereld. Je wilde je eigen stempel drukken op het groeiende internet. Ik ben op zoek gegaan naar het verhaal achter het woord 'slicer' en hoe dit geëvolueerd is naar een volwaardig beroep als front-end developer.
 
 # De slicer
@@ -36,6 +37,7 @@ Met de verdere groei van de sector wordt de rol van front-end developers nog bel
 Het is tijd dat we de woorden slicer, slice en slicing vergeten en schrappen uit ons woordenboek. Laten we een front-end developer nooit meer een slicer noemen. De titel 'front-end developer' is ondertussen eentje waar je trots op mag zijn. Organisaties zoals Fronteers benadrukken dan ook dat deze titel niet zomaar voor iedereen is weggelegd. Iets wat mede door de komende 23 artikelen duidelijk zal worden.
 
 ### Over Stijn Janssen
+
 <img src="/_img/2011/12/stijn-janssen.jpg" alt="Foto van stijn janssen uit 2011" class="floating-portrait" /> 
 Door de dag vermomd als webdeveloper bij [Inventis](http://www.inventis.be/), 's avonds als freelance front-end developer bij [Recode](http://www.recode.be/). [Stijn](http://www.stijnjanssen.be/) is dag en nacht bezig met front-end development.
 

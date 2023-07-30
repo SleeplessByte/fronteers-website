@@ -2,6 +2,7 @@
 title: Post a job opening
 excludeFromCollection: true
 ---
+
 #### Acceptance criteria
 
 - The vacancy to be posted concerns (front-end) web development.
@@ -23,10 +24,10 @@ excludeFromCollection: true
 - After approval by e-mail, you can e-mail the vacancy text and any images.
 - The text can contain headings, paragraphs, lists, tables, links and (contact) forms; these are presented in the Fronteers house style.
 - After approval of the text, the vacancy will be prominently placed on the website for 30 days.
-   - All available vacancies are shown on the Vacaturebank homepage in the order they were added.
-   - All available vacancies are shown in the right menu under all vacancies in the order they were added.
-   - All available vacancies are shown on the Fronteers homepage in the order they were added.
-   - All vacancies are tweeted via our Twitter account, with a link back to the site.
+  - All available vacancies are shown on the Vacaturebank homepage in the order they were added.
+  - All available vacancies are shown in the right menu under all vacancies in the order they were added.
+  - All available vacancies are shown on the Fronteers homepage in the order they were added.
+  - All vacancies are tweeted via our Twitter account, with a link back to the site.
 - After 30 days, the vacancy remains online in our archive, if desired with a message that this concerns an old or already filled vacancy.
 
 #### Lead time

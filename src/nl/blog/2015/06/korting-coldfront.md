@@ -1,11 +1,12 @@
 ---
-title: "Win een gratis kaartje voor ColdFront, 3 september 2015 in Kopenhagen"
+title: 'Win een gratis kaartje voor ColdFront, 3 september 2015 in Kopenhagen'
 date: 2015-06-13
 author: Hidde de Vries
-categories: 
+categories:
   - Ledenkorting
 ---
-De organisatie van het [ColdFront-congres](http://coldfrontconf.com) in Copenhagen heeft ons  twee (!) kaartjes gegeven om te verloten onder Fronteers-leden. Dit congres houdt dit jaar zijn tweede editie, met sprekers als Jeremy Keith, Lea Verou en Vitaly Friedman.
+
+De organisatie van het [ColdFront-congres](http://coldfrontconf.com) in Copenhagen heeft ons twee (!) kaartjes gegeven om te verloten onder Fronteers-leden. Dit congres houdt dit jaar zijn tweede editie, met sprekers als Jeremy Keith, Lea Verou en Vitaly Friedman.
 
 Kaartjes kosten 2000 DKK + btw, en zijn inclusief licht ontbijt, lunch en wat te drinken op de congresdag. Op de dag voor het congres is er ook een workshop van Vitaly Friedman (Smashing Magazine), waarvoor los kaartjes worden verkocht.
 

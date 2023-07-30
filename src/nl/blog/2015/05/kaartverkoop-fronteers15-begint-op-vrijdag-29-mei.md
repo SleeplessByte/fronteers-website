@@ -1,10 +1,11 @@
 ---
-title: "Kaartverkoop #fronteers15 begint op vrijdag 29 mei"
+title: 'Kaartverkoop #fronteers15 begint op vrijdag 29 mei'
 date: 2015-05-15
 author: Thomas van Zuijlen
-categories: 
+categories:
   - Congres
 ---
+
 De kaartverkoop voor het Fronteerscongres 2015 begint op 29 mei. Geen early-bird-korting maar goedkopere kaartjes, en natuurlijk krijgen leden fikse korting.
 
 ![Kaartverkoop Fronteers 2015 op 29 mei 2015](/_img/congres/2015/fronteers15-ticket-sales-announcement-image-nl-2.jpg)
@@ -13,11 +14,11 @@ Omcirkel de datum in je agenda, zet een wekker en typ vast tickets.fronteers.nl 
 
 # TL;DR
 
-* Start kaartverkoop: 29 mei 2015
-* Verkoop in batches
-* Geen early-bird-korting
-* Lagere kaartprijzen voor iedereen
-* Korting voor Fronteersleden
+- Start kaartverkoop: 29 mei 2015
+- Verkoop in batches
+- Geen early-bird-korting
+- Lagere kaartprijzen voor iedereen
+- Korting voor Fronteersleden
 
 # Kaartprijzen
 

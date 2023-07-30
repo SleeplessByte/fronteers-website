@@ -1,11 +1,12 @@
 ---
-title: "Fronteers and W3C - first quarterly report"
+title: 'Fronteers and W3C - first quarterly report'
 date: 2019-02-12
 author: Peter-Paul Koch
-categories: 
+categories:
   - Vereniging
   - W3C
 ---
+
 Last week our W3C representative, Rachel Andrew, came to Amsterdam to talk about her W3C work and give an interesting workshop; essentially giving her first quarterly report. This post gives a quick overview based on the notes I took during the discussion.
 
 On Thursday we [met up](https://meetup.com/Fronteers-NL/events/258152423/) at [Werkspot](https://www.werkspot.nl/). With 43 reservations and an actual turnout of 31, we had a no-show of only 25%, which is not bad for a free event.

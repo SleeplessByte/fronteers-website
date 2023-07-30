@@ -1,10 +1,11 @@
 ---
-title: "Begroting 2017: een nieuwe website?"
+title: 'Begroting 2017: een nieuwe website?'
 date: 2016-11-19
 author: Hidde de Vries (penningmeester)
-categories: 
+categories:
   - Vereniging
 ---
+
 Wie de Fronteers-begroting voor 2017 bestudeert, zal het vast opvallen: er is een stelpost geïntroduceerd genaamd ‘Eenmalige kosten nieuwe website’. Graag licht het bestuur toe waar deze reservering voor is bedoeld.
 
 We nodigen leden van harte uit hun mening over deze toelichting te geven op de ALV, 28 november in Utrecht ([Aanmelden](/blog/2016/11/aanmelden-alv-2016)).
@@ -17,7 +18,7 @@ In de discussie die erop volgde werd uitgebreid gesproken over allerlei aspecten
 
 Ook werd nogmaals duidelijk dat de beheerder van de site zeer open staat voor wijzigingen. In de afgelopen jaren zijn er enkele keren _realigns_ in het ontwerp doorgevoerd en regelmatig nieuwe features en paginasoorten toegevoegd. De voorstellen voor een nieuwe website gaan expliciet om vernieuwing die verder gaat dan dat.
 
-De conclusie uit de discussie op Slack was dat een nieuw ontwerp (en mogelijk daarnaast ook een nieuw CMS) wenselijk was. Het doel? Al onze *informatie veel gestructureerder aanbieden*, beter *laten zien wat we doen* (aan leden en niet-leden) en *onszelf aantrekkelijker presenteren* richting mensen die overwegen lid te worden.
+De conclusie uit de discussie op Slack was dat een nieuw ontwerp (en mogelijk daarnaast ook een nieuw CMS) wenselijk was. Het doel? Al onze _informatie veel gestructureerder aanbieden_, beter _laten zien wat we doen_ (aan leden en niet-leden) en _onszelf aantrekkelijker presenteren_ richting mensen die overwegen lid te worden.
 
 # Uitdagingen
 

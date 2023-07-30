@@ -1,6 +1,7 @@
 ---
 title: W3C Advisory Board meetup
 ---
+
 On the 18th of June the W3C Advisory Board is in Amsterdam for a meeting. They would like to take the opportunity to meet with the local community of front-end enthusiasts!
 
 The W3C Advisory Board is a group of elected professionals (elected by the W3C Advisory Committee), responsible for discussing strategy, finances, governance and various other important matters. The W3C Advisory Board provides advice on all these topics.

@@ -1,8 +1,9 @@
 ---
 key: become-a-volunteer
 title: Vrijwilliger worden?
-heroSlogan: ""
+heroSlogan: ''
 ---
+
 Fronteers is op zoek naar nieuwe vrijwilligers om te helpen bij het behalen van de ambitieuze plannen die we hebben als vereniging. Help je mee?
 
 Hieronder vind je een aantal commissies waarvoor we momenteel nog mensen zoeken. Aanmelden voor of informatie opvragen over een bepaalde vacature kan via een e-mail naar [bestuur@fronteers.nl](mailto:bestuur@fronteers.nl)!

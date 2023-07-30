@@ -1,24 +1,23 @@
 ---
-title: "Bijeenkomst bij Netvlies op 10 december 2015"
+title: 'Bijeenkomst bij Netvlies op 10 december 2015'
 date: 2015-12-10
 eventdate: 2015-12-10
 location:
 categories:
-    - meetup
+  - meetup
 ---
-
 
 Op donderdag 10 december 2015 is Fronteers te gast bij [Netvlies](http://www.netvlies.nl/) in Breda. Er staan drie sprekers op het programma.
 
 # Het programma
 
-* 18:00 - inloop met versnaperingen
-* 19:00 - Gebruikerstesten door Fréderic Luksemburg
-* 19:45 - korte pauze
-* 20:00 - A test-imonial door Erwin Heitzman
-* 20:45 - korte pauze
-* 21:00 - Modern testing door Maarten Groeneweg
-* We sluiten af met een borrel
+- 18:00 - inloop met versnaperingen
+- 19:00 - Gebruikerstesten door Fréderic Luksemburg
+- 19:45 - korte pauze
+- 20:00 - A test-imonial door Erwin Heitzman
+- 20:45 - korte pauze
+- 21:00 - Modern testing door Maarten Groeneweg
+- We sluiten af met een borrel
 
 # Gebruikerstesten ([slides](http://www.slideshare.net/FredericLuksemburg/fronteers-gebruikerstesten-netvlies))
 
@@ -71,8 +70,6 @@ Prinsenkade 8
 Iedereen is welkom, je hoeft geen lid te zijn van Fronteers. Er is echter beperkt plaats, voor maximaal 60 mannen en vrouwen. Geef je daarom snel op via onderstaand aanmeldformulier want vol is vol!
 
 Volg de discussie op [Twitter](https://twitter.com/fronteers).
-
-
 
 # Aanmeldingen
 

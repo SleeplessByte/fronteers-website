@@ -1,10 +1,11 @@
 ---
-title: "Lettertypes op het web, wat kan ik ermee?"
+title: 'Lettertypes op het web, wat kan ik ermee?'
 date: 2018-12-18
 author: Amy Davis
-categories: 
+categories:
   - Adventskalender
 ---
+
 In het begin van het web was dat niet zo veel: de browser deed alles voor je. Het enige waar je controle over had was je HTML. Met semantische [HTML-tags](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/MarkUp/Tags.html) gaf je betekenis aan stukjes van je pagina, zoals `<h1>` tot `<h6>` voor kopjes. Je browser besloot dan hoe dat er uit zag. Zo werden kopjes in hoofdletters weergegeven op monochrome tekst-terminals, of groter en dikgedrukt in grafische browsers.
 
 ![Screenshot van Mosaic 1.0 met het Choose Font menu opengeklapt: Gebruikers konden voor elk soort tag instellen hoe het er uit zag.](/_img/adventskalender/lettertypes/blog-1.png)
@@ -51,10 +52,10 @@ Als een pagina met webfonts laadt, gaat de tekst op de pagina door twee fases he
 
 Door `font-display` toe te voegen aan je @font-face kan je browsers een hint geven over wat ze moeten doen als een lettertype nog aan het downloaden is:
 
-* `block` Een korte blokkeerperiode en een oneindige wisselperiode, voor als je koste wat kost je webfont wil gebruiken.
-* `swap` Een extreem korte blokkeerperiode en een oneindige wisselperiode. Voor als het het belangrijkste is dat tekst snel leesbaar is, maar je eigenlijk niet zonder je webfont wil.
-* `fallback` Een extreem korte blokkeerperiode en een korte wisselperiode. Voor als je graag je webfont wil gebruiken, maar als een bezoeker al tekst aan het lezen is, wil je hem niet afleiden door van lettertype te wisselen.
-* `optional` Een extreem korte blokkeerperiode en geen wisselperiode. Voor als een webfont een leuk extraatje is.
+- `block` Een korte blokkeerperiode en een oneindige wisselperiode, voor als je koste wat kost je webfont wil gebruiken.
+- `swap` Een extreem korte blokkeerperiode en een oneindige wisselperiode. Voor als het het belangrijkste is dat tekst snel leesbaar is, maar je eigenlijk niet zonder je webfont wil.
+- `fallback` Een extreem korte blokkeerperiode en een korte wisselperiode. Voor als je graag je webfont wil gebruiken, maar als een bezoeker al tekst aan het lezen is, wil je hem niet afleiden door van lettertype te wisselen.
+- `optional` Een extreem korte blokkeerperiode en geen wisselperiode. Voor als een webfont een leuk extraatje is.
 
 # Bold, bolder, boldst
 
@@ -114,9 +115,9 @@ Ligaturen worden in verschillende categorieën onderverdeeld die individueel aan
 
 Verder zijn er de:
 
-* Discrete ligaturen (`discretionary-ligatures`); deze zijn puur voor de mooi, leuk voor kopjes of logo’s maar vaak niet fijn in lopende tekst.
-* Historische ligaturen (`historical-ligatures`); ligaturen die vroeger gebruikt werden maar nu verwarrend zouden zijn.
-* Contextuele ligaturen (`contextual`); vooral gebruikt door handschriftlettertypes, om letters mooi aan elkaar te laten sluiten.
+- Discrete ligaturen (`discretionary-ligatures`); deze zijn puur voor de mooi, leuk voor kopjes of logo’s maar vaak niet fijn in lopende tekst.
+- Historische ligaturen (`historical-ligatures`); ligaturen die vroeger gebruikt werden maar nu verwarrend zouden zijn.
+- Contextuele ligaturen (`contextual`); vooral gebruikt door handschriftlettertypes, om letters mooi aan elkaar te laten sluiten.
 
 Een lettertype bepaalt zelf welke standaard aan of uit staan en met `font-variant-ligatures` kan je dit aanpassen:
 
@@ -146,11 +147,11 @@ Lettertypes kunnen variaties van gliefen bevatten. Denk aan extra sierlijke vari
 
 Variaties vallen in de volgende categorieën:
 
-* Historische gliefen (`hist`). Gliefen die nu niet meer gebruikt worden, denk aan de [lange S](https://nl.wikipedia.org/wiki/Lange_s).
-* Sets van alternatieve gliefen (`ss01` .. `ss20`). Denk aan de verschillende vormen van letters zoals de a en g.
-* Krullen en tierlantijntjes (`swsh`, `cswh`). Denk aan extra krullen aan hoofdletters.
-* Ornamenten (`ornm`). Denk aan bloempjes, [blaadjes](https://en.wikipedia.org/wiki/Fleuron_(typography)) en andere losstaande symbolen.
-* Annotaties (`nalt`). Denk aan omcirkelde of negatieve tekens.
+- Historische gliefen (`hist`). Gliefen die nu niet meer gebruikt worden, denk aan de [lange S](https://nl.wikipedia.org/wiki/Lange_s).
+- Sets van alternatieve gliefen (`ss01` .. `ss20`). Denk aan de verschillende vormen van letters zoals de a en g.
+- Krullen en tierlantijntjes (`swsh`, `cswh`). Denk aan extra krullen aan hoofdletters.
+- Ornamenten (`ornm`). Denk aan bloempjes, [blaadjes](<https://en.wikipedia.org/wiki/Fleuron_(typography)>) en andere losstaande symbolen.
+- Annotaties (`nalt`). Denk aan omcirkelde of negatieve tekens.
 
 Ondersteuning door browsers van `font-variant-alternates` is nog [vrij matig](https://caniuse.com/#feat=font-variant-alternates), dus voorlopig raad ik aan om `font-feature-settings` te gebruiken. De syntax hier voor is niet echt vriendelijk:
 
@@ -166,7 +167,7 @@ Als je alle 9 diktes gebruikt op een site, heb je 9 verschillende bestanden nodi
 
 Daar komt gelukkig langzamerhand verandering in: Variabele lettertypes zijn een relatief nieuwe ontwikkeling waarbij je maar één bestand hoeft te downloaden. Makers van variabele lettertypes bouwen als het ware knoppen in waar je met CSS aan kan draaien. Deze knoppen kunnen de meest uiteenlopende dingen aanpassen aan het uiterlijk van het lettertype. Met variabele lettertypes zijn zelfs meer dan de 9 diktes beschikbaar, en kan je alles tussen `font-weight: 1;` en `font-weight: 1000` gebruiken. Browser ondersteuning [wordt steeds beter](https://caniuse.com/#feat=variable-fonts).
 
-{%- inlineVideo "480" "270" "archief/_downloads/2018/adventskalender/2019-vf" "mp4" -%} 
+{%- inlineVideo "480" "270" "archief/_downloads/2018/adventskalender/2019-vf" "mp4" -%}
 
 Je kan variabele lettertypen gebruiken met fallback naar niet-variabele lettertypen:
 
@@ -237,6 +238,7 @@ Probeer het uit! Met een snel inelkaargeflanst pagina’tje kan je leuk experime
 ```
 
 ### Over Amy Davis
+
 <img src="/_img/adventskalender/amy.jpg" alt="Foto van Amy Davis" class="floating-portrait" /> 
 Ik ben opgegroeid met computers, en altijd gefascineerd geweest door het web, HTML, CSS en JS. In het dagelijkse leven ben ik Senior Front-end developer bij [B-ware Business Software](https://www.b-ware.com). Sinds 2016 ben ik lid van Fronteers en de meeste dagen te vinden op de [Fronteers Slack](https://fronteers-slack.herokuapp.com/). Mijn favoriete kleur is #6c48a4.
 

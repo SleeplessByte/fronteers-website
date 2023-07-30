@@ -1,11 +1,12 @@
 ---
-title: "Prijsverhoging Fronteers workshops"
+title: 'Prijsverhoging Fronteers workshops'
 date: 2015-11-25
 author: Michael Hastrich
-categories: 
+categories:
   - Vereniging
   - Workshops
 ---
+
 De workshopcommissie heeft, in overleg met het bestuur, besloten de prijzen voor de workshops voor zowel leden als niet-leden te verhogen.
 
 De prijs van een workshop gaat voor leden van €100 naar €150 exclusief btw en voor niet-leden van €200 naar €250 exclusief btw. Ook de prijs van een combi (workshop en gelijk lid worden) wordt €250 exclusief btw. De vergoeding voor de trainer gaat van €500 (exclusief btw) naar €1000 per gegeven training.

@@ -1,20 +1,21 @@
 ---
-title: "Bijeenkomst op 6 mei, in Groningen"
+title: 'Bijeenkomst op 6 mei, in Groningen'
 date: 2010-04-23
 author: Arjan Eising
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op donderdag 6 mei zal Fronteers te gast zijn bij [theFactor.e](http://tfe.nl/) in Groningen. Twee bijeenkomsten in mei dus. De avond zal in het teken staan van het oplossen van de problemen die je tegenkomt als je met een CMS aan de webrichtlijnen wilt voldoen.
 
 # Het programma is als volgt
 
-* 19.00 uur: Inloop
-* 19.30 uur: Introductie theFacor.e door Thijs Helfrich
-* 19.45 uur: Daniel Doesburg en Gerard Wijngaarden over TYPO3 en de webrichtlijnen
-* 20.45 uur: korte pauze
-* 21.00 uur: Koen Willems
-* 22.00 uur: Borrelen
+- 19.00 uur: Inloop
+- 19.30 uur: Introductie theFacor.e door Thijs Helfrich
+- 19.45 uur: Daniel Doesburg en Gerard Wijngaarden over TYPO3 en de webrichtlijnen
+- 20.45 uur: korte pauze
+- 21.00 uur: Koen Willems
+- 22.00 uur: Borrelen
 
 # Koen Willems over zijn WYSIWYM-editor
 

@@ -1,10 +1,11 @@
 ---
-title: "Bijeenkomst over Progressive Web Apps bij Mirabeau in Rotterdam"
+title: 'Bijeenkomst over Progressive Web Apps bij Mirabeau in Rotterdam'
 date: 2016-07-19
 author: Hidde de Vries
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op 18 augustus organiseert Fronteers een bijeenkomst in Rotterdam over Progressive Web Apps, met Daniel Appelquist en Niels Leenheer.
 
 Service Workers, push notifications, background sync, “Add to homescreen”, fijne UX en toegankelijkheid: allemaal zaken die een web app een stuk beter kunnen maken. Onder de naam “Progressive Web Apps” wordt deze verzameling van open standaarden en best practices nu gepromoot door een aantal grote webbedrijven. Onder andere Google, Microsoft, Opera, Samsung en Mozilla zijn enthousiast over PWAs. Het doel? Zorgen dat web apps minstens zo goed worden als native apps.

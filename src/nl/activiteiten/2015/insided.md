@@ -1,22 +1,23 @@
 ---
-title: "Bijeenkomst bij inSided op 24 februari 2015"
+title: 'Bijeenkomst bij inSided op 24 februari 2015'
 date: 2015-02-24
 eventdate: 2015-02-24
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Op dinsdag 24 februari 2015 is Fronteers te gast bij [inSided](http://www.insided.com) in Amsterdam. Er worden drie presentaties gehouden.
 
 # Het programma is als volgt:
 
-* 18:00 uur Ontvangst met hapje & drankje
-* 19:00 uur Anne Ties van Vliet - How we use modular Sass at inSided
-* 19:30 uur Korte pauze
-* 19:45 uur Mauro Mandracchia - A new custom font rendering tool and workflow
-* 20:15 uur Korte pauze
-* 20:30 uur Flurin Egger - Skynet.js
-* 21:00 uur Borrel
+- 18:00 uur Ontvangst met hapje & drankje
+- 19:00 uur Anne Ties van Vliet - How we use modular Sass at inSided
+- 19:30 uur Korte pauze
+- 19:45 uur Mauro Mandracchia - A new custom font rendering tool and workflow
+- 20:15 uur Korte pauze
+- 20:30 uur Flurin Egger - Skynet.js
+- 21:00 uur Borrel
 
 # Anne Ties van Vliet - How we use modular Sass at inSided (English) ([slides](http://anneties.github.io/ins-presentation/))
 
@@ -41,8 +42,6 @@ We’ve been able to use JavaScript in the browser for quite some time now and e
 inSided is gevestigd aan de Singel 118A, 1015 AE Amsterdam, op ongeveer 5 minuten loopafstand van het station. Parkeren voor de deur is erg lastig.
 
 {%- googlemaps "Singel 118A, 1015 AE Amsterdam" -%}
-
-
 
 # Aanmeldingen
 

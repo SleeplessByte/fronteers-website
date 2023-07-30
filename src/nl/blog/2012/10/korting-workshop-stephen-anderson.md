@@ -1,10 +1,11 @@
 ---
-title: "25% korting op workshop met Stephen Anderson"
+title: '25% korting op workshop met Stephen Anderson'
 date: 2012-10-13
 author: Rahul Choudhury
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Op vrijdag 9 november organiseren Q42 en Fabrique samen met Stephen Anderson [een workshop over informatie visualisatie](http://qfee.nl/).
 
 Het werk van een front-end ontwikkelaar bestaat uit informatie op een scherm visualiseren, dus ook als je voornamelijk de hele dag naar code kijkt is het belangrijk om te begrijpen wat goede technieken voor dergelijke visualisatie zijn en waar je wel en niet naar moet kijken.

@@ -1,10 +1,11 @@
 ---
-title: "A write up of the W3C TPAC 2019"
+title: 'A write up of the W3C TPAC 2019'
 date: 2019-10-28
 author: Rachel Andrew
-categories: 
+categories:
   - W3C
 ---
+
 This year the W3C Technical Plenary and Advisory Committee Meeting (TPAC) was held in Fukuoka, Japan. As part of my work representing Fronteers in the W3C I attended the two Advisory Committee (AC) meetings held at TPAC, along with the CSS Working Group meeting days. In this post I will highlight some of the things that might be of interest to Fronteers members. I hope this gives a good overview of the breadth of things discussed.
 
 This year TPAC was held in Fukuoka, Japan. As part of my work representing Fronteers in the W3C I attended the two Advisory Committee (AC) meetings held at TPAC, along with the CSS Working Group meeting days. In this post I will highlight some of the things that might be of interest to Fronteers members. I hope this goves a good overview of the breadth of things discussed.
@@ -67,10 +68,10 @@ As anyone who has seen one of my talks knows, I am very keen to encourage web de
 
 The session finished with the following lightning talks, designed to highlight different areas of work across the W3C:
 
-* SVG - Amelia Bellamy-Rhoyds, Invited Expert
-* VR and AR on the Web - Ada Rose Cannon, Samsung
-* Web beyond the browser - Hyojin Song, LG
-* Second Screen on the Web - Mark Foltz, Google
+- SVG - Amelia Bellamy-Rhoyds, Invited Expert
+- VR and AR on the Web - Ada Rose Cannon, Samsung
+- Web beyond the browser - Hyojin Song, LG
+- Second Screen on the Web - Mark Foltz, Google
 
 # Continuous Standards Development
 
@@ -88,7 +89,7 @@ The aim of Project Fugu is:
 
 > "Enable web apps to do anything native apps can, by exposing the capabilities of native platforms to the web platform, while maintaining user security, privacy, trust, and other core tenets of the web."
 
-There are various APIs being developed to meet this aim, their progress can be tracked on the [Capabilities Landing Page](https://developers.google.com/web/updates/capabilities) or the [Fugu API Tracker](bit.ly/fugu-api-tracker ).
+There are various APIs being developed to meet this aim, their progress can be tracked on the [Capabilities Landing Page](https://developers.google.com/web/updates/capabilities) or the [Fugu API Tracker](bit.ly/fugu-api-tracker).
 
 How the world pays online - an update on the Web Payments Community Group
 

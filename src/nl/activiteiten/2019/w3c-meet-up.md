@@ -1,20 +1,21 @@
 ---
-title: "Our first W3C Fronteers meet-up"
+title: 'Our first W3C Fronteers meet-up'
 date: 2019-02-07
 eventdate: 2019-02-07
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Mark your calendars! The very first W3C Fronteers meet-up with Rachel Andrew will be held on February 7th, 2019 at the offices of [Werkspot](https://www.werkspot.nl/over-ons) in Amsterdam.
 
 # Program
 
-* 18:30 · Opening with food and drinks
-* 19:20 · Introduction
-* 19:30 · *Rachel Andrew* - What's New In CSS
-* 20:00 · General discussion about *Fronteers* and *W3C*
-* 20:30 · Drinks
+- 18:30 · Opening with food and drinks
+- 19:20 · Introduction
+- 19:30 · _Rachel Andrew_ - What's New In CSS
+- 20:00 · General discussion about _Fronteers_ and _W3C_
+- 20:30 · Drinks
 
 ## What's New In CSS | Rachel Andrew
 
@@ -22,7 +23,7 @@ Mark your calendars! The very first W3C Fronteers meet-up with Rachel Andrew wil
 
 # Location
 
-*Werkspot*
+_Werkspot_
 Herengracht 469-4
 1017BS Amsterdam
 
@@ -32,11 +33,9 @@ Herengracht 469-4
 
 We hope to see a lot of you on February 7th! [Register now on meetup.com](https://www.meetup.com/Fronteers-NL/events/258152423/) so that we know how many snacks and drinks we have to prepare. If you're hesitant to sign up for meetup.com, feel free to use the form at the bottom of this page instead.
 
-
 {%- comment -%}
 {%- form -%}
 {%- endcomment -%}
-
 
 <table>
 <tr>

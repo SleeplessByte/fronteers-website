@@ -1,14 +1,15 @@
 ---
-title: "Vier de Dag van Front-end Development virtueel mee"
+title: 'Vier de Dag van Front-end Development virtueel mee'
 date: 2020-04-03
 author: Josee Wouters
-categories: 
+categories:
   - Bijeenkomsten
   - Vereniging
 ---
+
 Zaterdag 4 april vieren we weer Dag van Front-end Development. We doen dit keer digitaal, onder andere met een front-end pubquiz. Vier jij als front-end developer deze dag met ons mee?
 
-Om 20:00 uur openen de deuren van onze virtuele zaal en kan iedereen die dat wil [joinen via Google Meet](https://meet.google.com/uwo-jfot-cuz). Vervolgens zullen we om 20:20 uur met z'n allen proosten op ons mooie werk. Let op: het is wel 'BYOD': bring your own drink. Aansluitend begint de front-end pubquiz, die we zullen spelen via de app Kahoot. Natuurlijk zijn er ook prijzen te winnen! 
+Om 20:00 uur openen de deuren van onze virtuele zaal en kan iedereen die dat wil [joinen via Google Meet](https://meet.google.com/uwo-jfot-cuz). Vervolgens zullen we om 20:20 uur met z'n allen proosten op ons mooie werk. Let op: het is wel 'BYOD': bring your own drink. Aansluitend begint de front-end pubquiz, die we zullen spelen via de app Kahoot. Natuurlijk zijn er ook prijzen te winnen!
 
 Let op: voor de beste ervaring is het handig om twee devices te gebruiken. Een waarop je Google Meet hebt en de vragen van de pubquiz kunt zien en een met Kahoot. Kahoot toont namelijk de vragen niet, alleen antwoord-opties.
 

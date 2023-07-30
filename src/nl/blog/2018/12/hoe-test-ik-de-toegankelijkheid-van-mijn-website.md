@@ -1,10 +1,11 @@
 ---
-title: "Hoe test ik de toegankelijkheid van mijn website?"
+title: 'Hoe test ik de toegankelijkheid van mijn website?'
 date: 2018-12-10
 author: Erik Kroes
-categories: 
+categories:
   - Adventskalender
 ---
+
 Top! Je wil testen of je website toegankelijk is voor iedereen. Daarmee help je niet alleen de mensen met een beperking, waarvan er steeds meer zijn in onze vergrijzende maatschappij. Een toegankelijke website is voor iedereen fijner in gebruik, en er zijn nog veel meer [goede redenen](https://www.w3.org/WAI/bcase/Overview) om met toegankelijkheid aan de slag te gaan.
 
 ![Twee drempels met opgangen voor rolstoelen, maar in het midden een bord “”Keep clear for wheelchair users” dat de toegang verspert](/_img/adventskalender/toegankelijkheid-testen/keep-clear-accessibility-fail.jpg)
@@ -94,6 +95,7 @@ En om af te sluiten nog een aantal praktische bronnen voor als je nog meer wil w
 ![](/_img/adventskalender/toegankelijkheid-testen/title-describes-topic-or-purpose.jpeg)
 
 ### Over Erik Kroes
+
 <img src="/_img/adventskalender/erik.jpg" alt="Foto van Erik Kroes" class="floating-portrait" /> 
 Erik is onderdeel van het accessibility team van ING. Elke dag probeert hij weer zijn steentje bij te dragen aan de digitale toegankelijkheid van de apps en websites. Daarnaast is hij creatief actief en maakt hij onder andere illustraties voor de Volkskrant.
 

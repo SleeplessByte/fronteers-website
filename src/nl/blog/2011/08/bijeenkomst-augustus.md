@@ -1,19 +1,20 @@
 ---
-title: "Bijeenkomst op 25 augustus, in Amsterdam"
+title: 'Bijeenkomst op 25 augustus, in Amsterdam'
 date: 2011-08-04
 author: Arjan Eising
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op donderdag 25 augustus is Fronteers welkom bij [Travelgroep](http://travelgroep.nl) in Amsterdam. Reinier Linthorst Homan vertelt over zoekmachineoptimalisatie, en Ruslan Matveev zal een Engelstalig praatje houden over het door hem gebouwde jPath.
 
 # Het programma is als volgt:
 
-* 18.30 inloop
-* 19.30 Reinier over zoekmachine optimalisatie
-* 20.30 korte pauze
-* 20.45 Ruslan over jPath
-* 21.45 borrelen
+- 18.30 inloop
+- 19.30 Reinier over zoekmachine optimalisatie
+- 20.30 korte pauze
+- 20.45 Ruslan over jPath
+- 21.45 borrelen
 
 # Zoekmachineoptimalisatie
 

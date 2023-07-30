@@ -1,10 +1,11 @@
 ---
-title: "Kaartverkoop Fronteers 2012 van start"
+title: 'Kaartverkoop Fronteers 2012 van start'
 date: 2012-04-06
 author: Edwin Martin
-categories: 
+categories:
   - Congres
 ---
+
 De kaartverkoop van Fronteers 2012 op 4 en 5 oktober 2012 is begonnen.
 
 Het wachten is voorbij: de kaartverkoop is begonnen. Vanaf vandaag kunnen kaartjes worden gekocht voor [Fronteers 2012](/congres/2012) op 4 en 5 oktober 2012.
@@ -13,7 +14,7 @@ Zoals gewoonlijk krijgen leden een mooie korting en bespaar je nog meer als je g
 
 Fronteers 2012 Early Bird prijzen (exclusief 19% BTW)
 Fronteersleden: €200
---Niet leden-- *Uitverkocht!*: €275)
+--Niet leden-- _Uitverkocht!_: €275)
 
 Fronteers 2012 normale prijzen (exclusief 19% BTW)
 Fronteersleden: €275

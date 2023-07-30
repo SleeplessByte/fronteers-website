@@ -1,11 +1,12 @@
 ---
-title: "Fronteers vote for the W3C Advisory Board elections"
+title: 'Fronteers vote for the W3C Advisory Board elections'
 date: 2019-05-17
 author: Peter-Paul Koch
-categories: 
+categories:
   - Vereniging
   - W3C
 ---
+
 In May, W3C members are voting for seven seats on the Advisory Board. Since Fronteers is a W3C member, we also have a vote, which our representative Rachel Andrew will cast on behalf of us.
 
 Still, we should provide Rachel with the vote she's going to cast. In order to do that we call all Fronteers members to cast their vote. The result of the internal Fronteers vote will be transmitted to Rachel.
@@ -24,20 +25,20 @@ More details, as well as the current make-up of the Board can be found at [the A
 
 The twelve candidates for the seven seats are:
 
-* Tantek Çelik (Mozilla)
-* Heejin Chung (Samsung)
-* Elika J Etemad aka fantasai (W3C Invited Expert)
-* Aaron Gustafson (Microsoft)
-* Nigel Megitt (BBC)
-* Charles McCathie Nevile (ConsenSys) *
-* Avneesh Singh (DAISY Consortium)
-* Eric Siow (Intel)
-* Alan Stearns (Adobe)
-* Léonie Watson (TetraLogical) *
-* Chris Wilson (Google)
-* Judy (Hongru) Zhu (Alibaba) *
+- Tantek Çelik (Mozilla)
+- Heejin Chung (Samsung)
+- Elika J Etemad aka fantasai (W3C Invited Expert)
+- Aaron Gustafson (Microsoft)
+- Nigel Megitt (BBC)
+- Charles McCathie Nevile (ConsenSys) \*
+- Avneesh Singh (DAISY Consortium)
+- Eric Siow (Intel)
+- Alan Stearns (Adobe)
+- Léonie Watson (TetraLogical) \*
+- Chris Wilson (Google)
+- Judy (Hongru) Zhu (Alibaba) \*
 
-An asterisk * denotes a current Advisory Board member who is up for reelection.
+An asterisk \* denotes a current Advisory Board member who is up for reelection.
 
 All candidates provided [statements](https://www.w3.org/2019/05/02-ab-nominations) on what they hope to achieve.
 
@@ -56,28 +57,28 @@ Rachel will cast the Fronteers vote later that week, before the W3C deadline of 
 11 members voted, and the resulting Fronteers vote was the following, in this order:
 
 1. Elika J Etemad aka fantasai (W3C Invited Expert)
-2. Léonie Watson (TetraLogical) *
+2. Léonie Watson (TetraLogical) \*
 3. Tantek Çelik (Mozilla)
-4. Judy (Hongru) Zhu (Alibaba) *
+4. Judy (Hongru) Zhu (Alibaba) \*
 5. Alan Stearns (Adobe)
 6. Aaron Gustafson (Microsoft)
 7. Chris Wilson (Google)
 8. Avneesh Singh (DAISY Consortium)
 9. Nigel Megitt (BBC)
 10. Heejin Chung (Samsung)
-11. Charles McCathie Nevile (ConsenSys) *
+11. Charles McCathie Nevile (ConsenSys) \*
 12. Eric Siow (Intel)
 
 # Results
 
 The [result](https://www.w3.org/blog/news/archives/7762) of the full W3C vote was:
 
-* Elika J Etemad aka fantasai (W3C Invited Expert)
-*   Charles McCathie Nevile (ConsenSys) *
-*   Avneesh Singh (DAISY Consortium)
-*   Eric Siow (Intel)
-*   Léonie Watson (TetraLogical)*
-*   Chris Wilson (Google)
-*   Judy (Hongru) Zhu (Alibaba)*
+- Elika J Etemad aka fantasai (W3C Invited Expert)
+- Charles McCathie Nevile (ConsenSys) \*
+- Avneesh Singh (DAISY Consortium)
+- Eric Siow (Intel)
+- Léonie Watson (TetraLogical)\*
+- Chris Wilson (Google)
+- Judy (Hongru) Zhu (Alibaba)\*
 
 Congratulations to all newly elected or re-elected AB members.

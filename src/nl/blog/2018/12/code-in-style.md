@@ -1,10 +1,11 @@
 ---
-title: "Code in style!"
+title: 'Code in style!'
 date: 2018-12-02
 author: Lody Borgers
-categories: 
+categories:
   - Adventskalender
 ---
+
 In een perfecte wereld schrijven we allemaal code zonder bugs, onduidelijkheden of stijlfouten. Discussies over spaties, tabs, haakje-op-dezelfde-regel-of-juist-op-die-eronder bestaan alleen in de fantasieboeken die we aan onze kinderen voorlezen. In een perfecte wereld bestaat alleen perfecte code.
 
 Maar ja, wij leven in de realiteit. In de realiteit schrijven we onze code niet allemaal op dezelfde manier en is onze code zeker niet foutloos!
@@ -21,9 +22,9 @@ Dit brengt mij naar het onderwerp van deze post: hoe zet je een coding styleguid
 
 Het maken van een coding styleguide bestaat grofweg uit de volgende stappen:
 
-* Stel de lint regels op.
-* Configureer deze regels in een lint tool.
-* Configureer Babel (meestal op basis van je `browserslist`).
+- Stel de lint regels op.
+- Configureer deze regels in een lint tool.
+- Configureer Babel (meestal op basis van je `browserslist`).
 
 We gaan door ieder punt heen lopen. Op het einde volgt er natuurlijk een codevoorbeeld. De code in dit artikel is terug te vinden op [GitHub](https://github.com/lodybo/code-in-style-examples).
 
@@ -72,9 +73,9 @@ Om dit practicum te volgen heb je het volgende nodig:
 
 Om te beginnen maken we drie mappen:
 
-* `eslint-config-custom-team-rules/`: in dit project definiëren we onze shareable config
-* `babel-preset-custom-team-preset/`: in dit project schrijven we onze eigen Babel preset.
-* `test-project/`: in dit project gebruiken we bovenstaande “styleguide” op de source code.
+- `eslint-config-custom-team-rules/`: in dit project definiëren we onze shareable config
+- `babel-preset-custom-team-preset/`: in dit project schrijven we onze eigen Babel preset.
+- `test-project/`: in dit project gebruiken we bovenstaande “styleguide” op de source code.
 
 Ja, de namen van de mappen zijn niet erg spannend. Deal with it.
 
@@ -281,8 +282,8 @@ En dat is het. We hebben nu een eigen project gemaakt dat onze eigen ESLint en B
 Het proces zoals hierboven beschreven is natuurlijk niet de enige manier om een coding styleguide te maken met je team. En zoals voor veel dingen geldt in de wereld van development: your mileage may vary. Het belangrijkste is dat er een set richtlijnen vastligt waardoor het hele team zich kan richten op het schrijven van goede code!
 
 ### Over Lody Borgers
+
 <img src="/_img/adventskalender/lody.png" alt="Foto van lody" class="floating-portrait">
 Lody Borgers is front-end developer bij TAF Verzekeringen in Eindhoven. Naast zijn kennis op het gebied van front-end is hij mede geroemd om zijn scherp inzicht, zijn enthousiasme voor JavaScript, en zijn ongelooflijke bescheidenheid. Hij kijkt altijd meer uit naar een meeting dan de mensen die deze meeting met hem hebben. Studeerde naast ICT ook Communicatie, maar zegt zelf nooit teveel. [@lodybo](https://www.twitter.com/lodybo)
-
 
 Donatie: Nederlandse Hartstichting

@@ -1,11 +1,12 @@
 ---
-title: "Bijeenkomst bij SETUP op 14 juni 2010"
+title: 'Bijeenkomst bij SETUP op 14 juni 2010'
 date: 2010-06-14
 eventdate: 2010-06-14
-location: 
-categories: 
-    - meetup
+location:
+categories:
+  - meetup
 ---
+
 Op 14 juni was Fronteers te gast bij [SETUP](http://www.setuputrecht.nl/) in Utrecht. Het thema van deze bijeenkomst was 'het semantische web'.
 
 # Het semantische web door Thomas Markus van Universiteit Utrecht
@@ -44,71 +45,48 @@ Dit leidde tot een discussie over de verhoogde kans op een phising aanval, omdat
 [Slides van de presentatie van Thomas](http://www.phil.uu.nl/~tmarkus/presentations/fronteers-2010-06-14.pdf)
 [Slides van de presentatie van Andreas](http://www.slideshare.net/andreascreten/data-portability-fronteers-meetup)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Aanwezigen
 
-* Matijs Brinkhuis
-* Peter Beverloo
-* Arjan Eising
-* Michel Klomp
-* Luc De Brouwer
-* Luuk Wilms
-* Jan van Hellemond
-* Martijn Jongkind
-* Hidde de Vries
-* Corné Verbruggen
-* George van Veen
-* Joko Ruwhof
-* Monique Martens
-* Bjorn Boonen
-* Niels Claessens
-* Jules Ernst
-* Marc Bruisten
-* Siemen van Dijk
-* Tom Greuter
-* Sander Aarts
-* Chris Dijkshoorn
-* Victor Bastiaansen
-* Jurgen van der Vlist
-* Hans Overbeek
-* Edwin Martin
-* Robin Gruyters
-* Wilfred Nas
-* Krijn
-* Bas Olthoff
-* Peter Westendorp
-* W.H. Fris
-* Nico Druif
-* Vincent Smedinga
-* Mallory van Achterberg
-* Sander van Lambalgen
-* Jan Velthuizen
-* Martijn La Feber
-* Leonard Eshuis
-* Peter van der Zee
-* David Hund
-* Marc van Zee
-* Peter
-* +9
-
-
-
+- Matijs Brinkhuis
+- Peter Beverloo
+- Arjan Eising
+- Michel Klomp
+- Luc De Brouwer
+- Luuk Wilms
+- Jan van Hellemond
+- Martijn Jongkind
+- Hidde de Vries
+- Corné Verbruggen
+- George van Veen
+- Joko Ruwhof
+- Monique Martens
+- Bjorn Boonen
+- Niels Claessens
+- Jules Ernst
+- Marc Bruisten
+- Siemen van Dijk
+- Tom Greuter
+- Sander Aarts
+- Chris Dijkshoorn
+- Victor Bastiaansen
+- Jurgen van der Vlist
+- Hans Overbeek
+- Edwin Martin
+- Robin Gruyters
+- Wilfred Nas
+- Krijn
+- Bas Olthoff
+- Peter Westendorp
+- W.H. Fris
+- Nico Druif
+- Vincent Smedinga
+- Mallory van Achterberg
+- Sander van Lambalgen
+- Jan Velthuizen
+- Martijn La Feber
+- Leonard Eshuis
+- Peter van der Zee
+- David Hund
+- Marc van Zee
+- Peter
+- +9

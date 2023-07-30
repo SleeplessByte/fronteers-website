@@ -1,20 +1,21 @@
 ---
-title: "Bijeenkomst op 10 februari, in Leeuwarden"
+title: 'Bijeenkomst op 10 februari, in Leeuwarden'
 date: 2011-01-10
 author: Hidde de Vries
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op 10 februari organiseert Fronteers in samenwerking met Lable een bijeenkomst over mobiele toepassingen van het web, met Jurriaan Mous over de webapplicatie voor de zorg die Lable met behulp van Google Web Toolkit ontwikkelt en Jacco de Boer, over ontwerpuitdagingen bij een mobiele nieuwsapplicatie.
 
 # Het programma is als volgt:
 
-* 19:00 inloop
-* 19:30 welkomswoord van Fronteers
-* 19:35 Jurriaan Mous over het bouwen van een zorgdossier in HTML5/CSS3/GWT
-* 20:30 pauze
-* 20:45 Jacco de Boer over de iPad app van de Leeuwarder Courant
-* 21:45 borrel
+- 19:00 inloop
+- 19:30 welkomswoord van Fronteers
+- 19:35 Jurriaan Mous over het bouwen van een zorgdossier in HTML5/CSS3/GWT
+- 20:30 pauze
+- 20:45 Jacco de Boer over de iPad app van de Leeuwarder Courant
+- 21:45 borrel
 
 # Een zorgdossier in HTML5/CSS3/GWT
 

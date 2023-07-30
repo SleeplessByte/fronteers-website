@@ -1,16 +1,17 @@
 ---
-title: "Fronteers 2011: 6 en 7 oktober"
+title: 'Fronteers 2011: 6 en 7 oktober'
 date: 2011-02-23
 author: Congres Commissie
-categories: 
+categories:
   - Congres
 ---
-Na de successen van de afgelopen jaren organiseert Fronteers dit jaar uiteraard weer een congres. [Fronteers 2011](/congres/2011) zal gehouden worden op *donderdag 6 en vrijdag 7 oktober 2011 in Pathé Tuschinski* te Amsterdam. Deze data kan je alvast in je agenda noteren. Iedereen die vorig jaar is geweest, snapt waarom we dit jaar weer voor Tuschinski hebben gekozen: een prachtig gebouw met een centrale ligging en niet te vergeten fantastische stoelen.
+
+Na de successen van de afgelopen jaren organiseert Fronteers dit jaar uiteraard weer een congres. [Fronteers 2011](/congres/2011) zal gehouden worden op _donderdag 6 en vrijdag 7 oktober 2011 in Pathé Tuschinski_ te Amsterdam. Deze data kan je alvast in je agenda noteren. Iedereen die vorig jaar is geweest, snapt waarom we dit jaar weer voor Tuschinski hebben gekozen: een prachtig gebouw met een centrale ligging en niet te vergeten fantastische stoelen.
 
 ![](/_img/congres/2010/venue/fronteers-2010-andreasdantz.jpg)
 
-De kaartverkoop zal in *maart* starten. Precieze kaartprijzen zijn nog niet bekend. Ze zullen in ieder geval, omdat we geen winstoogmerk hebben, ook dit jaar weer zeer betaalbaar zijn. 
-*Let op*: de regels met betrekking tot de ledenkorting zijn veranderd. Dit jaar geldt de ledenkorting *alleen* indien je al lid bent op het moment dat de kaartverkoop start. Wil je naar het congres en denk je erover om lid te worden en gebruik te maken van de ledenkorting? Neem dan snel je beslissing.
+De kaartverkoop zal in _maart_ starten. Precieze kaartprijzen zijn nog niet bekend. Ze zullen in ieder geval, omdat we geen winstoogmerk hebben, ook dit jaar weer zeer betaalbaar zijn.
+_Let op_: de regels met betrekking tot de ledenkorting zijn veranderd. Dit jaar geldt de ledenkorting _alleen_ indien je al lid bent op het moment dat de kaartverkoop start. Wil je naar het congres en denk je erover om lid te worden en gebruik te maken van de ledenkorting? Neem dan snel je beslissing.
 
 Het is de bedoeling om, net als vorig jaar, voorafgaand aan het congres specialistische workshops/masterclasses te laten geven door internationale experts. De exacte invulling hiervan is nog niet bekend, we laten het weten zodra er meer bekend is.
 

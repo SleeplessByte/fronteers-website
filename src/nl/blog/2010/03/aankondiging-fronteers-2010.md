@@ -1,13 +1,14 @@
 ---
-title: "Aankondiging Fronteers 2010"
+title: 'Aankondiging Fronteers 2010'
 date: 2010-03-05
 author: Congres Commissie
-categories: 
+categories:
   - Congres
 ---
+
 De afgelopen maanden is de [congres commissie](/vereniging/commissies/congres) druk bezig geweest met de voorbereidingen van [Fronteers 2010](/congres/2010). Vandaag is het moment aangebroken dat we onze voortgang even onder de aandacht willen brengen. Hieronder dus enkele wapenfeiten.
 
-Het congres zal dit jaar plaatsvinden op *donderdag 7 en vrijdag 8 oktober 2010* in [Pathé Tuschinski](http://nl.wikipedia.org/wiki/Tuschinski_Theater) in Amsterdam. We verwachten daar in totaal 14 (ongesponsorde) sessies te houden, dus de kwaliteit zal dit jaar weer van een hoog niveau zijn. En voor iedereen die er in 2009 ook bij was; de stoelen zijn in Tuschinski iets beter ;).
+Het congres zal dit jaar plaatsvinden op _donderdag 7 en vrijdag 8 oktober 2010_ in [Pathé Tuschinski](http://nl.wikipedia.org/wiki/Tuschinski_Theater) in Amsterdam. We verwachten daar in totaal 14 (ongesponsorde) sessies te houden, dus de kwaliteit zal dit jaar weer van een hoog niveau zijn. En voor iedereen die er in 2009 ook bij was; de stoelen zijn in Tuschinski iets beter ;).
 
 ![[Pathé Tuschinski is een ronde, ruime bioscoopzaal met meerdere verdiepingen.](http://www.flickr.com/search/?q=tuschinski)](/_img/congres/2010/venue/tuschinski.jpg)
 

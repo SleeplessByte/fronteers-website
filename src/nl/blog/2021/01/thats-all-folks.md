@@ -2,9 +2,10 @@
 title: "Een &quot;that's all folks&quot; animatie in CSS met slechts één div"
 date: 2021-01-05
 author: Kilian Valkhof
-categories: 
+categories:
   - Adventskalender
 ---
+
 CSS is opgebouwd uit allemaal rechthoeken. Rechthoeken kunnen boven of onder andere rechthoeken liggen. Rechthoeken kunnen ook weer andere rechthoeken in zich hebben, en dan kan je er voor kiezen dat de binnenste rechthoeken ook buiten hun omringende rechthoek zichtbaar zijn (dat ze _overflowen_) of dat ze afgekapt worden door de omringende rechthoek (met overflow:hidden).
 
 Maar als je wilt dat een rechthoek aan één zijde wel buiten de omringende rechthoek zichtbaar is, maar niet aan de andere kant, dan kan dat niet. Toch?
@@ -19,8 +20,8 @@ Een tijdje terug was ik een lijst aan het verzamelen van websites die [interessa
 
 Er zijn twee CSS properties die je moet inzetten om elementen in 3D te kunnen positioneren:
 
-* `perspective` met een waarde in pixels, om te bepalen hoe sterk het 3d effect moet zijn.
-* `transform-style: preserve-3d`, om de browser te vertellen dat je de 3D-transformaties wilt behouden
+- `perspective` met een waarde in pixels, om te bepalen hoe sterk het 3d effect moet zijn.
+- `transform-style: preserve-3d`, om de browser te vertellen dat je de 3D-transformaties wilt behouden
 
 Toch zie je het niet veel gebruikt worden, en ook ik had er nog niet heel veel mee geprobeerd. Websites blijven toch een "2d" iets, een scrollende, platte pagina.
 
@@ -91,9 +92,9 @@ Het klassieke einde van de looney tunes cartoons, waarbij porky pig uit een cirk
 
 Om het effect te bouwen delen we het plaatje op in drie onderdelen:
 
-* De blauwe achtergrond, dat is de div zelf
-* De rode cirkels, dit wordt de `::before`
-* Porky Pig, die gebruiken we als `background` voor de `::after`.
+- De blauwe achtergrond, dat is de div zelf
+- De rode cirkels, dit wordt de `::before`
+- Porky Pig, die gebruiken we als `background` voor de `::after`.
 
 We beginnen met de div, dit wordt de achtergrond en ook de basis voor de rest van de onderdelen. Op deze div zetten we het eerder genoemde `perspective` en `transform-style`, samen met de achtergrondkleur en wat afmetingen:
 
@@ -155,9 +156,9 @@ Dan nu de truuk: Porky's benen moeten achter de rode cirkels, maar zijn hoofd en
 
 Als we Porky willen roteren, dan moeten we op een aantal dingen letten:
 
-* Hij mag niet door de achtergrond clippen
-* We kunnen niet zo ver roteren dat de afbeelding vervormt
-* Hij moet met zijn benen achter en met zijn hoofd voor de cirkels zetten
+- Hij mag niet door de achtergrond clippen
+- We kunnen niet zo ver roteren dat de afbeelding vervormt
+- Hij moet met zijn benen achter en met zijn hoofd voor de cirkels zetten
 
 Om er voor te zorgen dat Porky niet door de achtergrond clipt doen we een aantal dingen. Eerst verplaatsen we de cirkels in de Z-as zodat ze dichter naar ons toe komen. Omdat `preserve-3d` aan staat betekent dat ook dat ze inzoomen, maar als we ze slechts een klein beetje naar voren verschuiven hebben we genoeg ruimte tussen de achtergrond en de cirkels:
 
@@ -217,11 +218,11 @@ Voor de beste prestaties gebruiken we ook voor de animatie `transform`, en omdat
 }
 ```
 
-Met `scale()` zoomen we in en uit, en omdat we al eerder de `transform-origin` hebben gezet,  schaalt het vanuit midden onder, precies het effect wat we willen.
+Met `scale()` zoomen we in en uit, en omdat we al eerder de `transform-origin` hebben gezet, schaalt het vanuit midden onder, precies het effect wat we willen.
 
 Door tussen 40% en 60% even te pauzeren hebben we dat moment rust als hij boven de rode cirkels zit.
 
-Die animatie voegen we dan toe aan de `::after`.  Om de animatie wat natuurlijker te laten verlopen gebruiken we een timing functie, "ease-in-out", waardoor de animatie aan het begin en eind iets slomer gaat.
+Die animatie voegen we dan toe aan de `::after`. Om de animatie wat natuurlijker te laten verlopen gebruiken we een timing functie, "ease-in-out", waardoor de animatie aan het begin en eind iets slomer gaat.
 
 ```
 div::after {
@@ -235,8 +236,8 @@ div::after {
 
 [Klik door naar de codepen](https://codepen.io/Kilian/pen/abmddja) om te zien hoe het er nu uit ziet, maar we kunnen nog twee dingen aanpassen om het er nog nét iets leuker uit te laten zien:
 
-* We kunnen meer diepte creeëren door een schaduw achter Porky te laten groeien, zodat het lijkt alsof Porky dichterbij komt
-* We kunnen Porky een beetje draaien tijdens de animatie waardoor het effect verstrekt wordt
+- We kunnen meer diepte creeëren door een schaduw achter Porky te laten groeien, zodat het lijkt alsof Porky dichterbij komt
+- We kunnen Porky een beetje draaien tijdens de animatie waardoor het effect verstrekt wordt
 
 Die tweede kunnen we oplossen met `rotateZ`, maar voor die eerste moeten we nog een truukje uithalen. Omdat we een plaatje gebruiken kunnen we niet `box-shadow` gebruiken, die maakt namelijk een vierkant schaduwtje om het `::after` element.
 

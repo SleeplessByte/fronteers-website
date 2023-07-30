@@ -1,10 +1,11 @@
 ---
-title: "3D-graphics"
+title: '3D-graphics'
 date: 2011-12-06
 author: Arjan Westerdiep
-categories: 
+categories:
   - Adventskalender
 ---
+
 De volgende theorie heeft betrekking op de wijze waarop 3D-graphics berekend worden. Welke processen spelen zich buiten het zicht van de gebruiker af in de computer?
 
 Voor het genereren van computer graphics zijn veel en vaak complexe berekeningen nodig. Een gemiddeld boek over computer graphics staat stijf van de moeilijke formules, die voor de gemiddelde mens niet of nauwelijks te lezen zijn en niet echt uitnodigen om er mee aan de slag te gaan. In deze beknopte handleiding wordt de basis uitgelegd; hoe weet je computer welke kleur een bepaalde pixel heeft, welke delen van een voorwerp zichtbaar zijn, welke niet, et cetera. Met een minimum aan wiskunde.
@@ -123,8 +124,8 @@ Zelfs als websitebouwer kun je wat aan 3D-graphicskennis hebben. Probeer je webs
 
 # Links
 
-* [Paul Debevec](http://ict.debevec.org/~debevec/)
-* [Paul Bourke](http://paulbourke.net/)
+- [Paul Debevec](http://ict.debevec.org/~debevec/)
+- [Paul Bourke](http://paulbourke.net/)
 
 # Boeken
 
@@ -138,6 +139,7 @@ Fundamentals of three-dimensional computer graphics
 Alan Watt, ADDISON-WESLEY, ISBN 0-201-15442-0
 
 ### Over Arjan Westerdiep
+
 <img src="/_img/2011/12/arjan-westerdiep.jpg" alt="Foto van arjan westerdiep uit 2011" class="floating-portrait" /> 
 Arjan Westerdiep is gediplomeerd kunstenaar, woordblind en probeert met wisselend succes zowel zijn linker als rechter hersenhelft te gebruiken en te combineren, was weer welkom op de lagere school zodra hij het telefoonnummer van zijn ouderlijk huis wist te onthouden, vindt iets mooi of lelijk en is de maker van [drububu.com](http://www.drububu.com).
 

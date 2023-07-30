@@ -1,18 +1,19 @@
 ---
-title: "Bijeenkomst bij The Creativity Gym op 12 november 2015"
+title: 'Bijeenkomst bij The Creativity Gym op 12 november 2015'
 date: 2015-11-12
 eventdate: 2015-11-12
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Op donderdag 12 november 2015 is Fronteers te gast bij [The Creativity Gym](http://www.thecreativitygym.be/) in Mechelen. Er wordt één presentatie voorzien.
 
 # Het programma is als volgt:
 
-* 18:00 ontvangst met een drankje
-* 19:00 [Jeff Burtoft](https://twitter.com/boyofgreen) - Microsoft Edge is not just another new browser
-* 20:00 naborrelen
+- 18:00 ontvangst met een drankje
+- 19:00 [Jeff Burtoft](https://twitter.com/boyofgreen) - Microsoft Edge is not just another new browser
+- 20:00 naborrelen
 
 # Microsoft Edge is not just another new browser
 
@@ -341,8 +342,7 @@ Volg de discussie via Twitter op [#fronteersbe](https://twitter.com/search?q=%23
 </tr>
 </table>
 
-
-Naast bovenstaande officiële lijst kunnen aangemelde deelnemers ook [via Lanyrd aangeven dat ze aanwezig zullen zijn](http://lanyrd.com/2015/fronteersbe/). *Inschrijven via het onderstaande formulier is echter verplicht!*
+Naast bovenstaande officiële lijst kunnen aangemelde deelnemers ook [via Lanyrd aangeven dat ze aanwezig zullen zijn](http://lanyrd.com/2015/fronteersbe/). _Inschrijven via het onderstaande formulier is echter verplicht!_
 
 {%- comment -%}
 {%- form -%}

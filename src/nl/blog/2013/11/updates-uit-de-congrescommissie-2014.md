@@ -1,10 +1,11 @@
 ---
-title: "Updates uit de congrescommissie"
+title: 'Updates uit de congrescommissie'
 date: 2013-11-24
 author: Charis Rooda
-categories: 
+categories:
   - Congres
 ---
+
 Buiten is het guur en koud, binnen zit de congrescommissie van 2014 al weer hard te tikken achter hun lichtgevende schermpjes. Een mooie datum in oktober, veel interessante sprekers en misschien wel een nieuwe website.
 
 Voor [de congrescommissie](/vereniging/commissies/congres) is na een succesvol congres in oktober [hekje fronteers14](https://twitter.com/search?q=%23fronteers14) begonnen. [De lange blogpost van Vasilis](/blog/2013/09/de-congrescommissie-zoekt-actieve-leden) bleek gelukkig niet iedereen weggejaagd te hebben. We hebben voor 2014 twee geschikte nieuwe kandidaten weten te strikken voor de congrescommissie. Hidde en Matijs hebben de commissie verlaten. We willen hen bedanken voor het vele en goede werk. Hun kernwaarden zullen eeuwig in tact worden gehouden. Oké, nog een week of twee... :)

@@ -1,10 +1,11 @@
 ---
-title: "Kandidaat bestuur Fronteers: Anneke Sinnema"
+title: 'Kandidaat bestuur Fronteers: Anneke Sinnema'
 date: 2017-11-28
 author: Anneke Sinnema
-categories: 
+categories:
   - Vereniging
 ---
+
 Aanstaande donderdag vindt de jaarlijkse algemene ledenvergadering (ALV) van Fronteers plaats. Een van de onderdelen tijdens de ALV is de bestuursverkiezing. Kandidaat bestuurslid Anneke Sinnema stelt zich voor!
 
 Na vijf jaar als lid van Fronteers en drie jaar als lid van de congrescommissie heb ik besloten om me kandidaat te stellen voor een positie in het bestuur van onze vakvereniging!
@@ -18,9 +19,9 @@ Ik wil daarnaast graag onderzoeken wat we nog meer kunnen doen door middel van d
 
 ## Wat zijn verder de bijdrages die ik graag aan Fronteers wil leveren?
 
-* Het transparanter maken van het bestuur en het koesteren van onze bestaande vrijwilligers <3
-* Het organiseren van events blijven ondersteunen, liefst ook buiten de randstad. Wellicht het vinden van partners in de regio voor kwalitatief sterke meetups (zonder recruitmentverhalen) voor iederéén
-* Toegankelijkheid is geen feature maar een kwaliteitskenmerk. Daarom vind ik dat Fronteers als vakvereniging zich sterk moet blijven maken voor het verhogen van het kennisniveau rond dit onderwerp.
+- Het transparanter maken van het bestuur en het koesteren van onze bestaande vrijwilligers <3
+- Het organiseren van events blijven ondersteunen, liefst ook buiten de randstad. Wellicht het vinden van partners in de regio voor kwalitatief sterke meetups (zonder recruitmentverhalen) voor iederéén
+- Toegankelijkheid is geen feature maar een kwaliteitskenmerk. Daarom vind ik dat Fronteers als vakvereniging zich sterk moet blijven maken voor het verhogen van het kennisniveau rond dit onderwerp.
 
 Wil je (als lid van Fronteers) op me stemmen, dan kan dat op de ALV op 30 november of door iemand anders die aanwezig is te machtigen.
 Wil je me op een andere manier willen ondersteunen dan is alle input welkom via een DM op de Slack!

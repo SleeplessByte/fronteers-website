@@ -1,22 +1,23 @@
 ---
-title: "Bijeenkomst bij Kabisa op 14 april 2016"
+title: 'Bijeenkomst bij Kabisa op 14 april 2016'
 date: 2016-04-14
 eventdate: 2016-04-14
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Op donderdag 14 april zijn front-enders en andere ambachtslieden van het wereldwijde web welkom bij Kabisa in Weert. Onder het genot van een hapje en drankje worden twee presentaties gegeven. Kabisa's Matthijs Groen vertelt over het ontwikkelen van zijn in-browser game en Roy Tomeij spreekt over de rol van preprocessors in moderne CSS.
 
 Geen tijd om na je werk nog ergens een hapje te gaan eten? Geen nood: er staat vanaf 18:00 uur een lekker buffet voor je klaar. Geef even door of je aanschuift en of je nog speciale dieetwensen hebt. De entree, inclusief buffet, is gratis.
 
 # Het programma
 
-* 18:00 inloop met dinerbuffet en een drankje
-* 19:00 Matthijs Groen - "JavaScript games bouwen tijdens je lunchpauze"
-* 19:45 korte pauze
-* 20:00 Roy Tomeij - "De toekomst van preprocessors"
-* 20:45 borrel
+- 18:00 inloop met dinerbuffet en een drankje
+- 19:00 Matthijs Groen - "JavaScript games bouwen tijdens je lunchpauze"
+- 19:45 korte pauze
+- 20:00 Roy Tomeij - "De toekomst van preprocessors"
+- 20:45 borrel
 
 # [Matthijs Groen](https://twitter.com/matthijsgroen) - "JavaScript games bouwen tijdens je lunchpauze"
 
@@ -38,11 +39,9 @@ Zullen preprocessors overbodig worden nu CSS steeds krachtiger wordt? Of kunnen 
 
 [Neem contact op met de Activiteitencommissie.](/vereniging/commissies/activiteiten)
 
-
 {%- comment -%}
 {%- form -%}
 {%- endcomment -%}
-
 
 # Aanmeldingen ({aanmeldingen} van de {max})
 

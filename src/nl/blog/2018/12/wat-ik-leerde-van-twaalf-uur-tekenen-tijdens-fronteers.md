@@ -1,10 +1,11 @@
 ---
-title: "Wat ik leerde van twaalf uur tekenen tijdens Fronteers"
+title: 'Wat ik leerde van twaalf uur tekenen tijdens Fronteers'
 date: 2018-12-22
 author: Anke Willems
-categories: 
+categories:
   - Adventskalender
 ---
+
 Naast de vele technische blogposts in de adventskalender, gaat deze post over tekenen. Of eigenlijk ‘Sketchnotes’. Je ziet ze steeds meer op Twitter en andere sociale media, en het tekenen van die oh zo mooie notities wordt vaak gezien als het grootste goed in de Instagram- en YouTube-wereld. En jazeker, het helpt je vast ook nog om beter te concentreren, de stof te snappen en wellicht ook nog meteen de wereldvrede te starten! Superfijn natuurlijk, maar daar ga ik het niet over hebben. Alhoewel, een beetje wereldvrede is al een mooi streven.
 
 # Tekenen? Analoog bedoel je?
@@ -35,7 +36,7 @@ Je weet vaak juist niet hoe lang de talk duurt, je kent de inhoud niet en je kan
 
 # Gelijke dingen? Gelijke vormen!
 
-Blijken er ineens hoofdpunten in te zitten? Wordt de lijn na de halve talk pas duidelijk? Zet er een lijntje omheen, maak het *bold* of onderstreep het. Met andere woorden: zet de termen die bij elkaar horen visueel bij elkaar. Dan kan het vervolgens overal op je vel papier staan, je oog plakt het wel aan elkaar.
+Blijken er ineens hoofdpunten in te zitten? Wordt de lijn na de halve talk pas duidelijk? Zet er een lijntje omheen, maak het _bold_ of onderstreep het. Met andere woorden: zet de termen die bij elkaar horen visueel bij elkaar. Dan kan het vervolgens overal op je vel papier staan, je oog plakt het wel aan elkaar.
 
 # Verdeel en heers
 
@@ -68,6 +69,7 @@ Meta alert: Natuurlijk heb ik deze blogpost ook uitgetekend, hieronder de sketch
 ![De sketchnote van de sketchnotes](/_img/adventskalender/blogpost-sketchnotes-anke-small.jpeg)
 
 ### Over Anke Willems
+
 <img src="/_img/adventskalender/anke.jpeg" alt="Foto van anke" class="floating-portrait">
 Anke is webdesigner en frontend developer bij Two Kings in Den Haag. Ze houdt zich bezig met alles vanaf het eerste gesprek met de klant, via het inventariseren van alle wensen en daarvoor de UX uitwerken tot het bouwen van de templates. In een eerder leven was ze grafisch ontwerper (met drukwerk en papier en zo), maar digitaal vind ze toch echt leuker. Heeft een grote liefde voor het maken van kleine gebruiksaanwijzingen die op een post-it moeten passen. Motorrijder, breimuts en poezenvrouwtje.
 Donatie

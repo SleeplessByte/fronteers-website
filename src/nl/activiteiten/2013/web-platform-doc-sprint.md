@@ -1,11 +1,12 @@
 ---
-title: "Web Platform Doc Sprint in Amsterdam"
+title: 'Web Platform Doc Sprint in Amsterdam'
 date: 2013-10-12
 eventdate: 2013-10-12
-location: 
-categories: 
-    - meetup
+location:
+categories:
+  - meetup
 ---
+
 ![](/_img/logo-with-text.png)
 
 Op 12 oktober, de dag na het Fronteerscongres, organiseert Fronteers samen met Google een Web Platform Doc Sprint in Amsterdam. Kom samen met mede-developers de [Web Platform Docs](http://docs.webplatform.org/) verbeteren en uitbreiden!
@@ -26,11 +27,11 @@ At the Doc Sprint we will make the [Web Platform Docs](http://docs.webplatform.o
 
 # Saturday, Okt 12, 2013
 
-* 09:00 Introduction to WebPlatform.org
-* 10:00 Doc Sprint, guided by Web Platform Stewards Experts
-* 13:00 Lunch
-* 14:00 Doc Sprint, guided by Web Platform Stewards Experts (Snacks served)
-* 18:00 Review Results + Cool PRIZES!
+- 09:00 Introduction to WebPlatform.org
+- 10:00 Doc Sprint, guided by Web Platform Stewards Experts
+- 13:00 Lunch
+- 14:00 Doc Sprint, guided by Web Platform Stewards Experts (Snacks served)
+- 18:00 Review Results + Cool PRIZES!
 
 ## Celebrate with us!
 

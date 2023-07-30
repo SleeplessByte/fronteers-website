@@ -1,10 +1,11 @@
 ---
-title: "Een tik op de neus"
+title: 'Een tik op de neus'
 date: 2011-12-11
 author: Vasilis van Gemert
-categories: 
+categories:
   - Adventskalender
 ---
+
 Een website bouwen op een _responsive-design_-manier is te vergelijken met aangevallen worden door een haai. Je weet dat je de haai _gewoon_ een tik op zijn neus moet geven maar hoe doe je dat precies? Zo'n haai is ook best imponerend. Dit artikel legt uit hoe je een responsieve site bouwt, hoe je hem opzet. En in onze voorbeeldsite gaan we dieper in op het geven van een tik op de neus van een haai.
 
 # De basis
@@ -65,7 +66,7 @@ Dingen in een `noscript` tag worden genegeerd door browsers die JavaScript onder
 <figure data-src-groot="img/haai-groot.jpg" data-src-medium="img/haai-med.jpg" data-src-klein="img/haai-klein.jpg" data-alt="Een haai die uit het water springt">
   <noscript>
     <img src="img/haai-klein.jpg" alt="Een haai die uit het water springt">
-  </noscript>	
+  </noscript>
 </figure>
 ```
 
@@ -104,6 +105,7 @@ Natuurlijk bestaan niet alle sites uit alleen maar navigatie, tekstjes en fotoot
 Een haai een tik op zijn neus geven lijkt eenvoudig, is toch redelijk complex maar is ook goed te overzien, zeker als je het een paar keer hebt gedaan. Ik hoop dat dit artikel je op weg heeft geholpen, niet in het geven van tikken maar wel in het maken van fantastische responsieve designs. Bouw vanuit de content, vanuit de basis, en pas de boel aan aan de mogelijkheden van het apparaat waarmee men toevallig kijkt. [Het voorbeeld wat ik heb gemaakt](/_downloads/2011/haaien/stap-11/) is natuurlijk erg eenvoudig, dat kan je zelf vast veel beter.
 
 ### Over Vasilis van Gemert
+
 <img src="/_img/2011/12/vasilis-van-gemert.jpg" alt="Foto van vasilis van gemert" class="floating-portrait">
 Vasilis van Gemert wil graag dat iedereen een betere front-end developer is dan hijzelf (hetgeen niet zo heel moeilijk is). Zolang dat nog niet zo is, zal hij zijn best doen om er voor te zorgen dat dat wel gebeurt. Dat doet hij onder andere door zich in te zetten voor Fronteers, door (ongeveer) dagelijks de [Daily Nerd](http://dailynerd.nl/) te schrijven en door principal front-end developer te zijn bij [Mirabeau](http://mirabeau.nl). In die functie probeert hij er ook voor te zorgen dat (grote) bedrijven (_én_ concurrenten) betere websites gaan maken. Want ook dat vindt hij belangrijk.
 

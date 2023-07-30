@@ -1,11 +1,12 @@
 ---
-title: "25% Fronteers-korting op nieuwe browser Polypane"
+title: '25% Fronteers-korting op nieuwe browser Polypane'
 date: 2019-05-14
 author: Anneke Sinnema
-categories: 
+categories:
   - Browsers
   - Ledenkorting
 ---
+
 Fronteers-lid Kilian Valkhof heeft een browser gemaakt voor front-end ontwikkelaars: [Polypane](https://polypane.rocks). In deze browser kan je als ontwikkelaar je site tegelijkertijd op verschillende devices en viewports zien, waardoor het ontwikkelen van responsive websites en apps gemakkelijker en beter gaat.
 
 Leden krijgen 25% korting op een abonnement op de browser. De korting aanvragen kan door een mailtje te sturen naar [het bestuur](mailto:bestuur@fronteers.nl) onder vermelding van "korting Polypane". De korting blijft gedurende de looptijd van het abonnement actief!

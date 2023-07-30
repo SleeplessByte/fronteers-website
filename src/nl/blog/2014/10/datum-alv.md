@@ -1,10 +1,11 @@
 ---
-title: "Algemene Ledenvergadering 2014: 2 december"
+title: 'Algemene Ledenvergadering 2014: 2 december'
 date: 2014-10-29
 author: Bestuur
-categories: 
+categories:
   - Vereniging
 ---
+
 De datum voor onze jaarlijkse ledenvergadering is bekend: op dinsdagavond 2 december 2014 zullen we alweer voor de achtste keer bij elkaar komen om het reilen en zeilen van de vereniging te bespreken. Reserveer deze avond dus alvast in je agenda.
 
 De locatie is dezelfde als vorig jaar: [se7en](http://www.sevenutrecht.nl/), Mariaplaats 7, 3511 LH, in Utrecht. We beginnen hier rond 19 uur en proberen de laatste hamer om 22 uur op tafel te laten landen.

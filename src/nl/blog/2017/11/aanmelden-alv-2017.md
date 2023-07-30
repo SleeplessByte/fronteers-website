@@ -1,11 +1,12 @@
 ---
-title: "Meld je nu aan voor de ALV 2017"
+title: 'Meld je nu aan voor de ALV 2017'
 date: 2017-11-22
 author: Bestuur
-categories: 
+categories:
   - Leden
   - Vereniging
 ---
+
 Donderdag 30 november houden we onze jaarlijkse algemene ledenvergadering (ALV). Alle leden zijn hiervoor van harte uitgenodigd. De locatie van de ALV is La Vie Meeting Center, Sint Jacobsstraat 61, ongeveer vijf minuten lopen vanaf Utrecht CS (let op: dit is niet de locatie waar de ALV de afgelopen jaren plaatsvond).
 
 Voor de mensen die van ver komen (of gewoon geen zin hebben om te koken) zullen er vanaf 18:30 broodjes klaar staan. De vergadering zelf zal stipt om 19:00 uur beginnen. We verwachten dat de totale vergadering twee uur zal duren, maar de ervaring leert dat het nog weleens wil uitlopen. De voorzitter doet zijn best dat zoveel mogelijk te beperken. En mocht je geen flauw idee hebben waar de ALV precies voor dient, dan [vertellen we je graag meer over de ALV](https://fronteers.nl/vereniging/alv).
@@ -30,4 +31,3 @@ Aan het eind van zijn bestuurstermijn treedt dit jaar Jaco Koster af, en hij ste
 # Aanmelden
 
 Ben je van plan te komen, dan vragen we je vriendelijk je hieronder hiervoor in te schrijven, zodat we enigszins een idee hebben van de verwachte opkomst.
- 

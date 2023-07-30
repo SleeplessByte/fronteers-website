@@ -1,10 +1,11 @@
 ---
-title: "Workshops jQuery Inception en Screw CSS! op herhaling"
+title: 'Workshops jQuery Inception en Screw CSS! op herhaling'
 date: 2012-10-09
 author: Arjan Eising
-categories: 
+categories:
   - Workshops
 ---
+
 Op vrijdag 30 november wordt een vernieuwde [workshop jQuery Inception](/workshops/jquery-inception-arjan-eising) gegeven. Enkele weken later, op 18 januari zal Roy Tomeij zijn [workshop Screw CSS!](/workshops/screw-css-roy-tomeij) opnieuw geven.
 
 Tijdens de beginnerscursus jQuery Inception leer je de basis van programmeren in JavaScript, interacties met de bezoeker van een webpagina, en hoe je HTML en CSS manipuleert met jQuery. Het concept en het niveau van de cursus is iets toegankelijker voor niet-programmeurs dan voorheen.

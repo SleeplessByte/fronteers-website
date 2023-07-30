@@ -1,10 +1,11 @@
 ---
-title: "Min of meer toegankelijk"
+title: 'Min of meer toegankelijk'
 date: 2018-12-20
 author: Jules Ernst
-categories: 
+categories:
   - Adventskalender
 ---
+
 Ik werk al jaren aan een toegankelijk web. Toegankelijk voor iedereen. Rekening houdend met verschillende manieren van waarnemen, bedienen en begrijpen van content. En het web moet beschikbaar zijn op elk platform waar je een website mee kan bezoeken. Zo heeft Sir Tim Berners-Lee het world wide web ooit neergezet.
 
 Niet eerder is er zo hard gewerkt aan toegankelijkheid als het afgelopen jaar. Jarenlang is de Nederlandse overheid hierin koploper. Maar andere branches zoals onderwijs, banken en zorg zijn met een inhaalslag bezig. Sommige gedreven door wetgeving en dreiging van rechtszaken, zoals je in Amerika veel ziet. Meer nog omdat er binnen organisaties mensen rondlopen die de noodzaak en de winst zien van een toegankelijke dienstverlening.
@@ -43,13 +44,14 @@ Zorg dat je voldoende kennis hebt van HTML, CSS en WAI-ARIA als je een website o
 
 # Quick wins
 
-* Gebruik Google: zoek naar "accessibility" of "wcag" in combinatie met de tool waarmee je wilt werken. De zoekresultaten kunnen een indicatie zijn of er aan toegankelijkheid is gedacht.
-* Vraag experts of ze goede bronnen kennen van een specifieke tool.
-* Vraag bij leveranciers door tot ze kunnen aantonen dat ze een tool hebben waarmee je een toegankelijke website mee kan bouwen.
-* Volg een training. Er zijn meerdere goede trainers in binnen- en buitenland.
-* Heb je zelf net niet de expertise huur dan iemand parttime in in je project. Met weinig, maar wel de juiste middelen kan je een boel bereiken.
+- Gebruik Google: zoek naar "accessibility" of "wcag" in combinatie met de tool waarmee je wilt werken. De zoekresultaten kunnen een indicatie zijn of er aan toegankelijkheid is gedacht.
+- Vraag experts of ze goede bronnen kennen van een specifieke tool.
+- Vraag bij leveranciers door tot ze kunnen aantonen dat ze een tool hebben waarmee je een toegankelijke website mee kan bouwen.
+- Volg een training. Er zijn meerdere goede trainers in binnen- en buitenland.
+- Heb je zelf net niet de expertise huur dan iemand parttime in in je project. Met weinig, maar wel de juiste middelen kan je een boel bereiken.
 
 ### Over Jules Ernst
+
 <img src="/_img/adventskalender/jules.jpg" alt="Foto van Jules Ernst" class="floating-portrait" /> 
 [Jules Ernst](https://www.200ok.nl/) weet heel veel van digitale toegankelijkheid. Hij helpt organisaties om digitale toegankelijkheid te realiseren en te borgen. Dit doet hij door mee te werken in projecten, trainingen en workshops te geven en websites en webapplicaties te onderzoeken op toegankelijkheid.
 

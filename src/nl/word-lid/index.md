@@ -1,8 +1,9 @@
 ---
-title: Word lid  
+title: Word lid
 key: join-us
-heroSlogan: ""
---- 
+heroSlogan: ''
+---
+
 Allereerst ondersteun je door lid te worden natuurlijk front-end web development zelf als discipline. Het voornaamste doel van Fronteers is de professionalisering van onze beroepsgroep. Door lid te worden en je stem te laten horen zet je de front-end op de kaart. Met name onze vacaturebank laat zien dat dit werkt.
 
 Fronteers organiseert, steeds in samenwerking met een bedrijf of onderwijsinstelling, maandelijkse bijeenkomsten. Deze bijeenkomsten vinden plaats door het hele land. 's Avonds spreken dan twee of drie sprekers over onderwerpen waar de spreker veel kennis van of ervaring mee heeft. Niet alleen heel leerzaam, maar ook een mooie gelegenheid om in contact te komen met mede-Fronteers. Onderdeel zijn van het netwerk van professionele front-enders is een belangrijk aspect van de vereniging. Dit komt ook naar voren in de aanwezigheid op Slack.

@@ -1,18 +1,19 @@
 ---
-title: "Een lunchcollege bij W.I.S.V. Christiaan Huygens"
+title: 'Een lunchcollege bij W.I.S.V. Christiaan Huygens'
 date: 2013-11-12
 author: Vasilis van Gemert
-categories: 
+categories:
   - Bijeenkomsten
   - Leden
   - Onderwijs
   - Vereniging
 ---
+
 Een tijdje geleden nam een bestuurslid van de studentenvereniging Christiaan Huygens van de TU in Delft contact op met Fronteers met de vraag of een van ons een verhaaltje wilde vertellen op een van hun vele lunchbijeenkomsten. Bijna elke week organiseren ze zo'n bijeenkomst voor hun leden, waarbij ze luisteren naar iemand uit de praktijk. Wat een prachtige aanvulling op een sowieso al prachtig instituut! Ik vond het dan ook een grote eer om hiervoor uitgenodigd te zijn. Ik heb vandaag een verhaal verteld over hoe ontzettend tof het is om dingen te maken voor het web.
 
 # Echt?
 
-Tenminste, als je er van houdt om dingen te maken voor een bizar, onbetrouwbaar medium. Ik heb de bezoekers laten zien dat het heel lastig is om iets wat je op een muur hebt geschilderd kleiner te maken, terwijl het echt supersimpel is om iets op het web kleiner te maken. Ik heb ze verteld wat we kunnen leren van de ballondrukkunst, van *tattoo-artists*, van modeontwerpers, van muziek-producers, van grafisch ontwerpers, van mobiele apps (ffs) en van onszelf. En ik sloot af met de wens om veel te gaan leren van kunstenaars, zodra die zich eens zouden gaan interesseren in het web. Het was erg tof om dit verhaal eens te vertellen aan een collegezaal vol met jonge, briljante informatici en wiskundigen. Dit is een vergelijkbaar verhaal wat ik al eens eerder heb gehouden, dus als je er niet bij was, niet getreurd, [er is eerder eens een video van gemaakt](https://vimeo.com/78652974).
+Tenminste, als je er van houdt om dingen te maken voor een bizar, onbetrouwbaar medium. Ik heb de bezoekers laten zien dat het heel lastig is om iets wat je op een muur hebt geschilderd kleiner te maken, terwijl het echt supersimpel is om iets op het web kleiner te maken. Ik heb ze verteld wat we kunnen leren van de ballondrukkunst, van _tattoo-artists_, van modeontwerpers, van muziek-producers, van grafisch ontwerpers, van mobiele apps (ffs) en van onszelf. En ik sloot af met de wens om veel te gaan leren van kunstenaars, zodra die zich eens zouden gaan interesseren in het web. Het was erg tof om dit verhaal eens te vertellen aan een collegezaal vol met jonge, briljante informatici en wiskundigen. Dit is een vergelijkbaar verhaal wat ik al eens eerder heb gehouden, dus als je er niet bij was, niet getreurd, [er is eerder eens een video van gemaakt](https://vimeo.com/78652974).
 
 # Verenigingen
 

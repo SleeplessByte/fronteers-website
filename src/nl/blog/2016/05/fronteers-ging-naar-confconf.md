@@ -1,11 +1,12 @@
 ---
-title: "Fronteers ging naar ConfConf"
+title: 'Fronteers ging naar ConfConf'
 date: 2016-05-26
 author: Hidde de Vries, Thijs Reijgersberg (foto's)
-categories: 
+categories:
   - Congres
   - Vereniging
 ---
+
 Als je kennis wilt opdoen en beter wilt worden in je vak, kun je als front-ender naar front-end-congressen gaan. Maar waar ga je heen als je front-end-congressen organiseert en dáár beter in wilt worden? Naar een congressencongres natuurlijk.
 
 Cat Hunter en Ben MacGowan organiseerden in Bristol op 20 mei voor de tweede keer zo'n congressencongres, met de toepasselijke naam [ConfConf](http://conf-conf.com).
@@ -40,5 +41,5 @@ We hebben veel geleerd van de anderen, en er werd driftig meegeschreven. Ook kon
 
 ![Een deel van de Fronteers-delegatie, lopend op straat](/_img/blog/2016/joelhidde.jpg)
 
-_Discussie over BEM, onderweg naar de congreslocatie. 
+_Discussie over BEM, onderweg naar de congreslocatie.
 V.l.n.r.: Anneke, Joël, Thomas, Hidde_

@@ -1,12 +1,13 @@
 ---
-title: "Fronteers als W3C-lid"
+title: 'Fronteers als W3C-lid'
 date: 2018-09-27
 author: Anneke Sinnema
-categories: 
+categories:
   - Browsers
   - Vereniging
   - W3C
 ---
+
 Het bestuur stelt voor om Fronteers W3C-lid te maken en Rachel Andrew als onze vertegenwoordiger aan te stellen om ons, en ook front-end ontwikkelaars in het algemeen, een stem te geven in de webstandaarden. Dit zal circa 30.000 euro per jaar kosten. Het bestuur zal op de ALV van 19 oktober hierover een motie indienen.
 
 # Overweging
@@ -23,18 +24,16 @@ Op [A List Apart](https://alistapart.com/article/web-developer-representation-in
 
 Het bestuur stelt het volgende voor.
 
-* Fronteers wordt W3C-lid, in eerste instantie voor twee jaar.
-* Het bestuur zal een vertegenwoordiger aanwijzen.
-* Het bestuur reserveert hiervoor 30.000 euro per jaar voor 2019 en 2020.
-* Op de ALV van 2020 zal het W3C-lidmaatschap geëvalueerd worden.
-* Op lange termijn is het de bedoeling dat er een internationale samenwerking van organisaties van front-end ontwikkelaars ontstaat die uiteindelijk het lidmaatschap en de vertegenwoordigers samen zullen betalen. Het bestuur hoopt dat zo'n structuur in 2020 aanwezig is, en zal stappen zetten om dit voor elkaar te krijgen.
+- Fronteers wordt W3C-lid, in eerste instantie voor twee jaar.
+- Het bestuur zal een vertegenwoordiger aanwijzen.
+- Het bestuur reserveert hiervoor 30.000 euro per jaar voor 2019 en 2020.
+- Op de ALV van 2020 zal het W3C-lidmaatschap geëvalueerd worden.
+- Op lange termijn is het de bedoeling dat er een internationale samenwerking van organisaties van front-end ontwikkelaars ontstaat die uiteindelijk het lidmaatschap en de vertegenwoordigers samen zullen betalen. Het bestuur hoopt dat zo'n structuur in 2020 aanwezig is, en zal stappen zetten om dit voor elkaar te krijgen.
 
 # Financiële onderbouwing
 
-Lidmaatschap W3C: 1.950 euro per jaar. 
+Lidmaatschap W3C: 1.950 euro per jaar.
 (Noot: na twee jaar gaat [dit bedrag](https://www.w3.org/Consortium/fees?countryCode=NL&quarter=07-01&year=2018#results) omhoog naar 7.800 euro. Dit is de voornaamste reden om in 2020 het lidmaatschap te evalueren.)
-
-
 
 Vertegenwoordigersfee: 25.000 euro per jaar. Dit is inclusief eventuele reiskosten naar W3C-meetings. Rachel Andrew is akkoord gegaan met dit bedrag.
 

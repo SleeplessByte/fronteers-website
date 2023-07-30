@@ -3,9 +3,10 @@ title: Meld je aan voor de ALV 2022!
 date: 2022-09-29
 author: Anneke Sinnema
 summary: Op vrijdagavond 4 november vanaf 19:30 houden we onze jaarlijkse algemene ledenvergadering (ALV)! Alle leden zijn hiervoor van harte uitgenodigd, en we hopen nieuwe bestuursleden te verwelkomen!
-categories: 
+categories:
   - Vereniging
 ---
+
 Op vrijdagavond 4 november vanaf 19:30 houden we onze jaarlijkse algemene ledenvergadering (ALV)! Alle leden zijn hiervoor van harte uitgenodigd, en we hopen nieuwe bestuursleden te verwelkomen!
 
 [English version](#english-version) below.
@@ -19,16 +20,16 @@ We zijn bovendien op zoek naar nieuwe bestuursleden om vanaf de komende ALV het 
 
 # Voorlopige agenda
 
-* Opening
-* Jaarrekening 2021
-* Bevindingen kascommissie
-* Benoeming nieuwe kascommissie
-* Financiën 2022
-* Begroting 2023
-* Benoeming nieuwe bestuursleden
-* Toelichting commissies
-* Rondvraag
-* Sluiting
+- Opening
+- Jaarrekening 2021
+- Bevindingen kascommissie
+- Benoeming nieuwe kascommissie
+- Financiën 2022
+- Begroting 2023
+- Benoeming nieuwe bestuursleden
+- Toelichting commissies
+- Rondvraag
+- Sluiting
 
 # Aanmelden
 
@@ -46,16 +47,16 @@ Below, you'll find the provisional program of the evening. The financial documen
 
 # (Provisional) Agenda
 
-* Opening
-* Financial Statements 2021
-* Findings of the treasury committee
-* Naming of the new treasury committee
-* Finances of 2022
-* Budget for 2023
-* Appointment of new board members
-* Report of committees
-* Round of questions
-* Close
+- Opening
+- Financial Statements 2021
+- Findings of the treasury committee
+- Naming of the new treasury committee
+- Finances of 2022
+- Budget for 2023
+- Appointment of new board members
+- Report of committees
+- Round of questions
+- Close
 
 # Sign up
 

@@ -1,18 +1,19 @@
 ---
-title: "Bijeenkomst op 25 oktober bij Combell"
+title: 'Bijeenkomst op 25 oktober bij Combell'
 date: 2012-10-10
 author: Mathias Bynens
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op donderdag 25 oktober 2012 is Fronteers te gast bij [Combell](http://www.combell.com/nl) in Gent. Er worden twee presentaties voorzien. Eerst komt [Bart Derudder](http://twitter.com/qwaxys) wat vertellen over (het gebrek aan) security op het web; vervolgens zal [Thijs Feryn](http://twitter.com/ThijsFeryn) wat vertellen over HTTP.
 
 # Het programma is als volgt:
 
-* 18:00 ontvangst met een hapje en een drankje
-* 19:00 Bart Derudder: _Security – The Weakest Links_
-* 20:00 Thijs Feryn: _There’s this thing called HTTP_
-* 21:00 naborrelen
+- 18:00 ontvangst met een hapje en een drankje
+- 19:00 Bart Derudder: _Security – The Weakest Links_
+- 20:00 Thijs Feryn: _There’s this thing called HTTP_
+- 21:00 naborrelen
 
 # Waar?
 

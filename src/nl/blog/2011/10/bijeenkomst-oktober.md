@@ -1,20 +1,21 @@
 ---
-title: "Bijeenkomst op 26 oktober, in Amsterdam"
+title: 'Bijeenkomst op 26 oktober, in Amsterdam'
 date: 2011-10-17
 author: Arjan Eising
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op woensdag 26 oktober is Fronteers te gast bij [Albumprinter](http://albumprinter.org/), gevestigd dichtbij Amsterdam Centraal Station. Er zijn twee sprekers: Bram Duvigneau geeft een presentatie over webtoegankelijkheid, en Arjan Eising vertelt over de huidige en toekomstige staat van CSS Selectors.
 
 # Het programma is als volgt:
 
-* 18.30 inloop
-* 19.20 korte introductie van Albumprinter
-* 19.30 Bram Duvigneau over webtoegankelijkheid
-* 20.30 korte pauze
-* 20.45 Arjan Eising over CSS Selectors
-* 21.45 borrelen
+- 18.30 inloop
+- 19.20 korte introductie van Albumprinter
+- 19.30 Bram Duvigneau over webtoegankelijkheid
+- 20.30 korte pauze
+- 20.45 Arjan Eising over CSS Selectors
+- 21.45 borrelen
 
 # CSS Selectors, door Arjan Eising
 

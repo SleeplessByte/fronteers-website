@@ -1,10 +1,11 @@
 ---
-title: "Bijeenkomsten: 8 februari in Leiden en 15 februari in Rotterdam"
+title: 'Bijeenkomsten: 8 februari in Leiden en 15 februari in Rotterdam'
 date: 2012-01-06
 author: Arjan Eising
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 De tweede en derde woensdagen van februari staan ingepland voor twee Fronteersbijeenkomsten. Op 8 februari zijn we te gast bij [TransIP](http://www.transip.nl) in Leiden, en een week later opent [Mirabeau Rotterdam](http://www.mirabeau.nl) de deuren voor een bijeenkomst.
 
 # Bijeenkomst bij TransIP in Leiden op 8 februari

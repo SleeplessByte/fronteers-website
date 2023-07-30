@@ -1,10 +1,11 @@
 ---
-title: "Bijeenkomst met Val Head en Seb Lee-Delisle"
+title: 'Bijeenkomst met Val Head en Seb Lee-Delisle'
 date: 2016-09-30
 author: Michael Hastrich
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op 19 oktober aanstaande organiseert WestVisions.de hun eerste bijeenkomst, net over de grens in Duisburg.
 
 [WestVisions.de](http://westvisions.de/en/index.php) is een nieuw evenement voor de digitale community in het Ruhrgebied, zoals ze zelf zeggen. En met deze kick-off meetup leggen ze de lat voor zichzelf gelijk hoog, want ze hebben twee internationaal gerenommeerde sprekers uitgenodigd, Val Head en Seb Lee-Delisle.

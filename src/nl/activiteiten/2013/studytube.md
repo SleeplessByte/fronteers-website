@@ -1,24 +1,25 @@
 ---
-title: "Bijeenkomst bij Studytube op 22 januari 2013"
+title: 'Bijeenkomst bij Studytube op 22 januari 2013'
 date: 2013-01-22
 eventdate: 2013-01-22
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Dinsdag 22 januari is Fronteers te gast bij [StudyTube](http://www.studytube.nl/) in Amsterdam. De bijeenkomst haakt in op het raakvlak tussen back-end en front-end development. Matthew Eichler zal vertellen over het automatiseren van accepatatietesten. Jan van Hellemond zal daarna een presentatie geven over Amazon Web Services en hoe je als front-end developer hier gebruik van kunt maken.
 
 # Het programma is als volgt:
 
-* 18:30 Inloop
-* 19:30 Presentatie Matthew over acceptatietests.
-* 20:30 Korte pauze
-* 20:45 Presentatie Jan over Amazon Web Services
-* 21:45 Borrel
+- 18:30 Inloop
+- 19:30 Presentatie Matthew over acceptatietests.
+- 20:30 Korte pauze
+- 20:45 Presentatie Jan over Amazon Web Services
+- 21:45 Borrel
 
 # Cucumber: Behavior Driven Development for the Frontend
 
-Using automating acceptance testing to cover your frontend interface in an agile way. Matthew Eichler is a Ruby on Rails backend and frontend developer for StudyTube.  He loves to follow and implement the latest agile methods and tools.
+Using automating acceptance testing to cover your frontend interface in an agile way. Matthew Eichler is a Ruby on Rails backend and frontend developer for StudyTube. He loves to follow and implement the latest agile methods and tools.
 
 # Amazon Web Services voor Front-end Developers
 
@@ -30,19 +31,19 @@ StudyTube is gevestigd aan de Weteringschans 28, 1017 SG Amsterdam. Dit is het o
 
 # Aanwezigen
 
-* Isaac Andela (Utrecht)
-* Matthew Eichler
-* Arjan Eising (Hilversum)
-* Tom Greuter
-* Jan van Hellemond
-* Krijn Hoetmer (Almere)
-* Homam Karimi
-* Joël Kuijten (Den Bosch)
-* Wesley Lancel (Utrecht)
-* Edwin Martin (Hilversum)
-* Guillermo Sanchez
-* Yolijn
-* Thomas van Zuijlen
+- Isaac Andela (Utrecht)
+- Matthew Eichler
+- Arjan Eising (Hilversum)
+- Tom Greuter
+- Jan van Hellemond
+- Krijn Hoetmer (Almere)
+- Homam Karimi
+- Joël Kuijten (Den Bosch)
+- Wesley Lancel (Utrecht)
+- Edwin Martin (Hilversum)
+- Guillermo Sanchez
+- Yolijn
+- Thomas van Zuijlen
 
 {%- comment -%}
 {%- form -%}

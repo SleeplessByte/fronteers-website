@@ -1,11 +1,12 @@
 ---
-title: "Hackaton op zaterdag 19 mei"
+title: 'Hackaton op zaterdag 19 mei'
 date: 2012-04-17
 author: Arjan Eising
-categories: 
+categories:
   - Bijeenkomsten
   - Leden
 ---
+
 Ter ere van het eerste lustrumjaar van Fronteers, organiseren we een hackaton op zaterdag 19 mei 2012. De gehele dag zijn we onder de pannen bij coworkingspace [Nomadz](http://nomadz.nl/) in Den Haag.
 
 De dag start met een duopresentatie gegeven door Vasilis van Gemert en Peter Nederlof. Zij zullen een inspirerend praatje houden over wat voor technieken we in de toekomst kunnen gebruiken. Denk aan Flexbox, CSS 3D transformaties et cetera.

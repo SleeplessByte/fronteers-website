@@ -1,12 +1,13 @@
 ---
-title: "Vooraankondiging ALV"
+title: 'Vooraankondiging ALV'
 date: 2011-11-06
 author: Tom Greuter
-categories: 
+categories:
   - Bijeenkomsten
   - Leden
   - Vereniging
 ---
+
 Blok deze datum in je agenda! Woensdag 7 december vindt de jaarlijkse Algemene Ledenvergadering van Fronteers plaats, om 19 uur nabij station Amsterdam CS.
 
 Leden bepalen mede de koers van Fronteers. Als lid van de vereniging heb je er recht op om te weten wat we het afgelopen jaar hebben gedaan en wat onze plannen zijn voor de toekomst. Kom daarom naar de Algemene Ledenvergadering (ALV) van Fronteers.

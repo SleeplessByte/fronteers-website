@@ -1,11 +1,12 @@
 ---
-title: "Aankomende uitschrijving niet-betalende leden"
+title: 'Aankomende uitschrijving niet-betalende leden'
 date: 2012-02-13
 author: Bestuur
-categories: 
+categories:
   - Leden
   - Vereniging
 ---
+
 Fronteers doet het goed. We groeien jaar na jaar, en hebben op dit moment 436 leden. Tenminste, 436 _potentiële_ leden. 436 mensen die we tussen 6 en 10 januari een factuur hebben gestuurd voor het lidmaatschapsgeld over 2012. De meeste van jullie hebben keurig op tijd betaald, of tenminste gelijk na de eerste herinnering, waarvoor onze dank. Maar we lopen, zoals helaas ieder jaar, tegen een groep mensen aan die facturen en herinneringen negeren.
 
 In voorgaande jaren was onze procedure om deze mensen een paar maanden lang persoonlijke emails en herinneringen te blijven sturen, smekend om op z'n minst een ontvangstbevestiging, met vaak na de derde poging een laconiek "oh ja, vergeten, doe dit snel" antwoord, maar maanden later nog steeds geen betaling. Het hele traject kostte onze ledenadministratie veel te veel tijd en energie, en met de groei van de vereniging werd dit alleen maar erger.

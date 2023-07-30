@@ -1,10 +1,11 @@
 ---
-title: "Nieuwjaarsbijeenkomst Internet Society"
+title: 'Nieuwjaarsbijeenkomst Internet Society'
 date: 2010-01-06
 author: Krijn Hoetmer
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Alle Fronteers leden zijn van harte uitgenodigd voor een bijzondere Nieuwjaarsbijeenkomst, die zal worden gehouden op donderdag 14 januari in NEMO in Amsterdam (het grote groene gebouw vlakbij Centraal Station), vanaf 19:00 uur. Hieronder de uitnodiging die wij ontvangen hebben.
 
 Dit evenement wordt georganiseerd samen met negentien andere lokale en internationale Internet-gerelateerde organisaties die in Nederland gevestigd zijn. Deelnemende organisaties naast Fronteers zijn Internet Society Nederland, Bits of Freedom, RIPE NCC, W3C Benelux, AMS-IX, Terena, Surfnet, Vereniging Open Domein, Accessibility.nl, Gridforum.nl, OpenDoc Society, NLUUG, ISPconnect, SIDN, NLnet, NLnet Labs, Dutch Hosting Provider Association, stichting HXX, Digitaal Erfgoed Nederland en Vrijschrift.
@@ -17,6 +18,6 @@ Naast het bijwonen van het sociale gedeelte kun je ook er voor kiezen om lightni
 
 Kom met ons het glas heffen op het nieuw jaar op 14 januari 2010 vanaf 19.00 uur (geschatte eindtijd 23.00) bij NEMO, Oosterdok 2 in Amsterdam.
 
-Meer informatie en aanmelden, graag voor 9 januari,  op <http://isoc.nl/activ/2010-nieuwjaar.htm>
+Meer informatie en aanmelden, graag voor 9 januari, op <http://isoc.nl/activ/2010-nieuwjaar.htm>
 
 P.S. Als je geïnteresseerd bent in het Nederlandse overheidsbeleid op het gebied van open standaarden en open source, ben je van harte welkom om het programma bij te wonen van Forum Standaardisatie en Nederland open in Verbinding vanaf 16.30 uur. Het programma verschijnt binnenkort op <http://noiv.nl/>

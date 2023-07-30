@@ -1,11 +1,12 @@
 ---
-title: "Bijeenkomst bij Wisdom/Ordina op 29 november 2007"
+title: 'Bijeenkomst bij Wisdom/Ordina op 29 november 2007'
 date: 2007-11-29
 eventdate: 2007-11-29
-location: 
-categories: 
-    - meetup
+location:
+categories:
+  - meetup
 ---
+
 Op 29 november 2007 was Fronteers te gast bij Wisdom/Ordina in Groningen. Vanwege een andere bijeenkomst in het pand van Wisdom/Ordina werd de bijeenkomst in de nabijgelegen Euroborg gehouden. Bart Wortel heette ons welkom waarna de eerste presentatie startte.
 
 # Presentatie over Wisdom/Ordina door Alexander Kroon

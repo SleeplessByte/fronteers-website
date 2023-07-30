@@ -1,12 +1,11 @@
 ---
-title: "Bijeenkomst bij E-sites op 19 mei 2010"
+title: 'Bijeenkomst bij E-sites op 19 mei 2010'
 date: 2010-05-19
 eventdate: 2010-05-19
-location: 
-categories: 
-    - meetup
+location:
+categories:
+  - meetup
 ---
-
 
 Woensdag 19 mei was Fronteers te gast bij [e-sites](http://esites.nl) in Breda. Anne van Kesteren vertelde over CSS3, en Nikolai Onken ging in op HTML5 Apps.
 
@@ -42,44 +41,41 @@ Dit probleem wordt opgelost door projecten zoals [PhoneGap](http://www.phonegap.
 
 # Aanwezigen
 
-* Boye Oomens
-* Matijs Brinkhuis
-* Krijn Hoetmer
-* Tim Cure
-* Tijmen Smit
-* John van Hulsen
-* Vasilis van Gemert
-* Peter Kruithof
-* Sebastian Hagens
-* Wybe Weysters
-* Arjan Eising
-* Yvonne Pouw
-* Paul Martens
-* Anja Hage,
-* Rene Kreijveld
-* Jerome Bohg +3
-* Martijn La Feber
-* Luuk Wilms
-* Sander Aarts
-* Niels Keurentjes
-* Wim van Iersel
-* Glenn Glerum
-* Peter Beverloo
-* Ronald Lokers
-* Edwin Martin
-* Johan Sterenberg
-* Niels Kreijveld
-* Martin Savelkoul
-* Edo Nijmeijer
-* Victor Bastiaansen
-* Sam Granger
-* Edwin Derks
-* Peter van der Zee
-* Hidde de Vries
-* Peter Slagter
-* Mallory van Achterberg
-* Martijn Croonen
-* en nog 8 personen
-
-
-
+- Boye Oomens
+- Matijs Brinkhuis
+- Krijn Hoetmer
+- Tim Cure
+- Tijmen Smit
+- John van Hulsen
+- Vasilis van Gemert
+- Peter Kruithof
+- Sebastian Hagens
+- Wybe Weysters
+- Arjan Eising
+- Yvonne Pouw
+- Paul Martens
+- Anja Hage,
+- Rene Kreijveld
+- Jerome Bohg +3
+- Martijn La Feber
+- Luuk Wilms
+- Sander Aarts
+- Niels Keurentjes
+- Wim van Iersel
+- Glenn Glerum
+- Peter Beverloo
+- Ronald Lokers
+- Edwin Martin
+- Johan Sterenberg
+- Niels Kreijveld
+- Martin Savelkoul
+- Edo Nijmeijer
+- Victor Bastiaansen
+- Sam Granger
+- Edwin Derks
+- Peter van der Zee
+- Hidde de Vries
+- Peter Slagter
+- Mallory van Achterberg
+- Martijn Croonen
+- en nog 8 personen

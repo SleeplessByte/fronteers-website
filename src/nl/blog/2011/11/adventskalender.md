@@ -1,10 +1,11 @@
 ---
-title: "Adventskalender 2011"
+title: 'Adventskalender 2011'
 date: 2011-11-30
 author: Arjan Eising
-categories: 
+categories:
   - Adventskalender
 ---
+
 Vanaf morgen verschijnt op ons weblog elke dag, tot aan kerst, een artikel gerelateerd aan front-end webtechnologieën. Bijna alle bijdragen voor [deze adventskalender](/blog/categorieen/adventskalender) zijn geschreven door Fronteersleden.
 
 Middels de artikelen willen we de kennis binnen Fronteers verspreiden onder andere leden, en natuurlijk naar niet-leden. De artikelen hebben zeer diverse onderwerpen, zodat iedereen—zowel beginner als gevorderde—iets op kan steken van deze reeks.

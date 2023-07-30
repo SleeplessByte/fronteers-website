@@ -1,15 +1,16 @@
 ---
-title: "Clients from heaven"
+title: 'Clients from heaven'
 date: 2011-12-14
 author: Ruben Bos
-categories: 
+categories:
   - Adventskalender
 ---
+
 Deze adventskalender is eigenlijk één grote aanloop naar goede voornemens voor het nieuwe jaar. Want naast meer sporten en minder drinken beloven we onszelf ook dat we eindelijk eens een [goede responsive site](/blog/2011/12/een-tik-op-de-neus) gaan bouwen, [Javascript pro](/blog/2011/12/javascript-pret-met-alle-karakters-in-een-string) gaan worden en alleen nog maar [HTML5 video players](/blog/2011/12/html5-video-een-overzicht) zullen inbouwen.
 
 Voor veel Fronteers is er echter één persoon die ons die kans geeft. En die komt toch wat minder in de lijst met goede voornemens voor. Nee, niet de Kerstman … de klant.
 
-En terecht. Want die klant is te dom voor woorden. Begrijpt niets van ons ontwerp. [Stelt onredelijke eisen](http://clientsfromhell.net/ "Clients from hell"). Levert maar geen content aan. Is nooit blij met het eindresultaat. En blijft je achtervolgen.
+En terecht. Want die klant is te dom voor woorden. Begrijpt niets van ons ontwerp. [Stelt onredelijke eisen](http://clientsfromhell.net/ 'Clients from hell'). Levert maar geen content aan. Is nooit blij met het eindresultaat. En blijft je achtervolgen.
 
 Tenminste, als je de berichtgeving uit onze industrie soms mag geloven. Klantwerk lijkt te worden ervaren als een vervelend bijverschijnsel om websites en apps te mogen bouwen.
 
@@ -47,7 +48,7 @@ Het voortraject is dan ook cruciaal voor een succesvol vervolg. Als hier valse b
 
 # Ontwikkeling
 
-De periode waarin 'gebouwd wordt', was traditioneel het lastigste deel voor de opdrachtgever. Het designgedeelte vond de klant nog wel leuk, maar daarna verdween het project voor lange duur in een grote black box. Een duistere wereld vol onbekende talen en codeschrijvende bebaarde mannen die een voorliefde hebben voor unicorns, double rainbows en [rage faces](http://www.nl.reddit.com/r/fffffffuuuuuuuuuuuu/ "fffffffuuuuuuuuuuuu").
+De periode waarin 'gebouwd wordt', was traditioneel het lastigste deel voor de opdrachtgever. Het designgedeelte vond de klant nog wel leuk, maar daarna verdween het project voor lange duur in een grote black box. Een duistere wereld vol onbekende talen en codeschrijvende bebaarde mannen die een voorliefde hebben voor unicorns, double rainbows en [rage faces](http://www.nl.reddit.com/r/fffffffuuuuuuuuuuuu/ 'fffffffuuuuuuuuuuuu').
 
 Het klantcontact bestond vooral uit af en toe even meegluren en het alvast in ontvangst nemen van excelsheets met puntenlijstjes …
 
@@ -78,8 +79,9 @@ De meeste problemen ontstaan doordat je de klant niet hebt weten te overtuigen. 
 En als je het écht goed doet, snappen ze zelfs die wondere wereld van unicorns, double rainbows en lolcatz.
 
 ### Over Ruben Bos
+
 2011/12/ruben-bos.png
 Overdag Creative Director bij [Mangrove](http://mangrove.nl/). 's Avonds de wijsneus met zijn alter ego [Bossing Around](http://bossingaround.com/). Half-Iers. Verslaafd aan roze koeken. Schreef ooit een [boek over webdesign](http://webdesignrules.nl/) voor opdrachtgevers van websitebouwers. Volg op Twitter: [@rubenbos](https://twitter.com/rubenbos)
 
-Donatie: Oxfam Novib 
+Donatie: Oxfam Novib
 Mijn donatie gaat naar de [aankoop van 150 mangrovebomen](http://www.oxfamnovibpaktuit.nl/pages/detail/s1/21030000000027-2-21010000000083.aspx). Want mangroves zijn niet alleen vis- en dierrijke ecosystemen, maar bieden ook levensreddende bescherming tegen erosie en overstromingen.

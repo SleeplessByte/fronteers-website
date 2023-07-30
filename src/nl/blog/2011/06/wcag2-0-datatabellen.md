@@ -1,11 +1,12 @@
 ---
-title: "WCAG 2.0 : Datatabellen"
+title: 'WCAG 2.0 : Datatabellen'
 date: 2011-06-27
 author: Janita Top
-categories: 
+categories:
   - Toegankelijkheid
   - Webrichtlijnen
 ---
+
 Volgens de Accessibility Monitor 2011 heeft 69% van de gemeenten toegankelijkheidsproblemen met datatabellen. Wat is er toch zo moeilijk aan het toegankelijk maken daarvan?
 
 Zie ook [Accessibility Monitor 2011](http://www.accessibilitymonitor.nl/monitor/2011/per-ijkpunt)

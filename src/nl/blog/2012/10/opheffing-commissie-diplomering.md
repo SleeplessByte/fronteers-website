@@ -1,11 +1,12 @@
 ---
-title: "Opheffing commissie diplomering"
+title: 'Opheffing commissie diplomering'
 date: 2012-10-17
 author: Wilfred Nas
-categories: 
+categories:
   - Commissies
   - Vereniging
 ---
+
 Misschien is het droevig maar de commissie Diplomering van Fronteers is niet meer.
 
 Enkele jaren geleden begonnen we met een select groepje enthousiast met het opzetten van diplomering voor front-end developers. In die tijd was het vak als zodanig nog niet zo erkend als tegenwoordig. We hadden het idee om dat met een diplomering te verbeteren.

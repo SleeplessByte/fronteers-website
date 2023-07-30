@@ -1,10 +1,11 @@
 ---
-title: "Korting op Front-Trends in Warschau"
+title: 'Korting op Front-Trends in Warschau'
 date: 2012-01-03
 author: Peter-Paul Koch
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Fronteers gaat zich inspannen om voor haar leden leuke kortingen op leuke congressen los te peuteren, en vandaag kunnen we aankondigen dat dit gelukt is voor [Front-Trends](http://2012.front-trends.com/), 26 en 27 april in Warschau.
 
 De sprekerslijst ziet er goed uit, het congres is sowieso al goedkoop, en we ondersteunen natuurlijk graag de pogingen een nationaal Pools front-end congres van de grond te krijgen.

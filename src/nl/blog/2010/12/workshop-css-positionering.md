@@ -1,11 +1,12 @@
 ---
-title: "Workshop CSS Positionering op 20 januari"
+title: 'Workshop CSS Positionering op 20 januari'
 date: 2010-12-21
 author: Matijs Brinkhuis
-categories: 
+categories:
   - Styling
   - Workshops
 ---
+
 Wil je het jaar goed beginnen of je CSS kennis weer eens bijspijkeren? Dan is dit je kans! Op donderdag 20 januari 2011 geeft PPK zijn [cursus CSS Positionering](/cursussen/css-positionering-peter-paul-koch). De cursus zal worden gegeven bij Seats2Meet in Utrecht op minder dan een steenworp afstand van station Utrecht Centraal.
 
 Na een jaartje van stilte op cursusgebied beginnen we 2011 goed met een cursus CSS Positionering. De cursus zal gegeven worden door PPK bij Seats2Meet in Utrecht. Het is even afwachten hoe een en ander gaat bevallen bij Seats2Meet maar in principe willen we hier vanwege de centrale ligging en de beschikbare faciliteiten, ons vaste cursushonk van maken.

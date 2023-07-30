@@ -1,23 +1,24 @@
 ---
-title: "Bijeenkomst met internationale sprekers bij LBi Netherlands op 14 juni 2012"
+title: 'Bijeenkomst met internationale sprekers bij LBi Netherlands op 14 juni 2012'
 date: 2012-06-14
 eventdate: 2012-06-14
-location: 
-categories: 
-    - meetup
+location:
+categories:
+  - meetup
 ---
+
 Fronteers bestaat 5 jaar. Ter ere van dit eerste lustrumjaar, organiseren we een grote bijeenkomst met twee internationale sprekers. Deze bijeenkomst wordt gehouden op 14 juni 2012 vanaf 15:00 uur bij [LBi Netherlands](http://www.lbi.nl/) in Amsterdam. De bijeenkomst is voor iedereen, dus ook niet leden, en is gratis!
 
 De middag start met een presentatie door Bruce Lawson. Om 17:00 uur zal er een hapje gegeten worden en ‘s avonds zal Rachel Andrew een inspirerende presentatie geven. Daarna is er tijd voor een borrel.
 
 # Programma
 
-* 15:00 Inloop
-* 15:30 Welkomswoordje
-* 15:35 Presentatie Bruce Lawson
-* 17:00 Dinner
-* 18:00 Presentatie Rachel Andrew
-* 19:30 Borrelen
+- 15:00 Inloop
+- 15:30 Welkomswoordje
+- 15:35 Presentatie Bruce Lawson
+- 17:00 Dinner
+- 18:00 Presentatie Rachel Andrew
+- 19:30 Borrelen
 
 # Bruce Lawson
 
@@ -27,7 +28,7 @@ Bruce Lawson evangelises Open Web Standards for Opera. He’s been active in Web
 
 ## Presentatie: "How To Destroy The Web"
 
-The future of the Web is a dangerous Babylon: people talking to each other to do business, organise revolutions, express their feelings, meet their friends,  ranscend their disabilities and economically empower themselves. Obviously, this must be stopped. Bruce will show you his top tips and tricks that you can employ to destroy the web.
+The future of the Web is a dangerous Babylon: people talking to each other to do business, organise revolutions, express their feelings, meet their friends, ranscend their disabilities and economically empower themselves. Obviously, this must be stopped. Bruce will show you his top tips and tricks that you can employ to destroy the web.
 
 # Rachel Andrew
 
@@ -45,11 +46,11 @@ LBi Netherlands is goed bereikbaar met de auto en het openbaar vervoer. We raden
 
 ## Met het openbaar vervoer:
 
-* Neem de trein naar station Duivendrecht, Amsterdam Amstel of Bijlmer Arena.
-* Neem dan de metro naar Spaklerweg.
-* Neem de uitgang Wenckebachweg en loop rechtdoor langs het fietspad.
-* Ga aan het eind van het pad rechts, de Wenckebachweg op.
-* Na ongeveer 10 minuten lopen zie je LBi recht voor je.
+- Neem de trein naar station Duivendrecht, Amsterdam Amstel of Bijlmer Arena.
+- Neem dan de metro naar Spaklerweg.
+- Neem de uitgang Wenckebachweg en loop rechtdoor langs het fietspad.
+- Ga aan het eind van het pad rechts, de Wenckebachweg op.
+- Na ongeveer 10 minuten lopen zie je LBi recht voor je.
 
 # Aanmelden
 
@@ -59,148 +60,146 @@ Wanneer je toch niet kunt komen, verzoeken wij je af te melden via [e-mail](mail
 
 # Aanwezigen
 
-* Sander Aarts (Tilburg, openbaar vervoer)
-* Mallory van Achterberg (Sliedrecht, openbaar vervoer)
-* Karol Adamczyk (openbaar vervoer)
-* Rachel Andrew
-* Arian (Leiden, openbaar vervoer)
-* Ozhan Atar (Den Haag)
-* Victor Bastiaansen (Steenwijk, auto)
-* Harald Bertels (Utrecht, auto)
-* Adolfo Benedetti (Den Haag)
-* Sander van den Berg (Rotterdam, auto)
-* David de Beun (Delft, openbaar vervoer)
-* Patrick Baselier (Eindhoven, openbaar vervoer)
-* Peter Bijker (Utrecht, openbaar vervoer)
-* Bob Bijvoet (fiets)
-* Mathijs Blokland
-* Matthijs Boersma (Leeuwarden)
-* Martijn Boeve (Bennekom, auto)
-* Niels Bom (fiets)
-* Huub Bonarius (auto)
-* Lee Boonstra (openbaar vervoer)
-* Jelmer Borst (Delft, openbaar vervoer)
-* Ruben Bos (Rotterdam)
-* Paul van Buuren (Rotterdam, auto)
-* Osric Caton (Rotterdam, openbaar vervoer)
-* Jeroen Coumans (fiets)
-* Carla Danenberg (auto)
-* Jan Jaap van Deursen (fiets)
-* Robin van Diesen
-* Wouter van Diggelen (Den Haag, openbaar vervoer)
-* Kevin van Dijk
-* Dorien Drees (fiets)
-* Jan-Jaap Driessen (Rotterdam, openbaar vervoer)
-* Edwin (Utrecht)
-* Flurin Egger (Nijmegen, auto)
-* Arjan Eising (Hilversum, openbaar vervoer)
-* Sander Elias (Prinsenbeek, auto)
-* Cyriel van 't End (Almere, openbaar vervoer)
-* Jules Ernst (Rotterdam, openbaar vervoer)
-* Arjan van der Gaag (Eindhoven, auto)
-* Tonći Galić (openbaar vervoer)
-* Ischa Gast (openbaar vervoer)
-* Arjen Geerse
-* Frank van Gemeren (Hilversum, openbaar vervoer)
-* Vasilis van Gemert
-* Tom Greuter (fiets)
-* Peter van Grieken (Gouda)
-* Erik Hagreis (fiets)
-* Babette van Hardeveld
-* Marloes Hautmann (fiets)
-* Laurens van Heems (Rotterdam, openbaar vervoer)
-* Stef Hock (Hilversum, openbaar vervoer)
-* Mike van Hoenselaar (Horst, openbaar vervoer)
-* Krijn Hoetmer (Almere, openbaar vervoer)
-* Jan Hoogeveen (Rotterdam, openbaar vervoer)
-* Leon Huzen (Zwolle, openbaar vervoer)
-* Richard Icke (Rotterdam, openbaar vervoer)
-* Maarten de Jong (Leeuwarden)
-* Ron Jonk
-* Roy Ketelaar (Leeuwarden)
-* Jeroen Kleuters
-* Hein Kuenen (Eindhoven)
-* Kees de Koning (Rotterdam, auto)
-* Jörgen van der Kroon (Rotterdam, openbaar vervoer)
-* Joep van Liempd (kruipend)
-* Daniel Louwe Kooijmans (Rotterdam, auto)
-* Ben Konrath
-* Fleur de Kroon (Utrecht, auto)
-* Jakob Laegdsmand
-* Bruce Lawson
-* Sarah Li (Den Haag, openbaar vervoer)
-* Robin van Loon (Utrecht)
-* Edwin Martin (auto)
-* Bran van der Meer (Rotterdam)
-* Bram van Mensvoort (Eindhoven, openbaar vervoer)
-* Wesley van der Molen (Leeuwarden, openbaar vervoer)
-* Orestis Molopodis (auto)
-* Wilfred Nas (Brabsant, openbaar vervoer)
-* Peter Nederlof (Utrecht, openbaar vervoer)
-* Jan Willem Nieuwland (fiets)
-* Timen Olthof (Haarlem, openbaar vervoer)
-* Michiel van Oosterhout (Rotterdam, openbaar vervoer)
-* Stephan van Opstal (Breda, openbaar vervoer)
-* Barry van Oven (Amersfoort, auto)
-* Peter Peerdeman (Utrecht, auto)
-* Lennart de Pender (Dordrecht, openbaar vervoer)
-* Joël Plas (Den Haag, auto)
-* Lydie Polak (auto)
-* Ezra Pool (openbaar vervoer)
-* Alex Pot (Noord-Holland, auto)
-* Jeroen Prins (Leeuwarden)
-* Rowdy Rabouw (Gouda, openbaar vervoer)
-* Thijs Reijgersberg (Haarlem, openbaar vervoer)
-* Alex de Rijk (Roosendaal, openbaar vervoer)
-* Robbert
-* Anne Jan Roeleveld (Houten, openbaar vervoer)
-* Martin Savelkoul (Breda, openbaar vervoer)
-* Robine Savert (Ede)
-* Yvo Schaap (fiets)
-* Dolf Schimmel (Amersfoort, auto)
-* Johan Schuyt (Den Haag, auto)
-* E. Seine (Utrecht, openbaar vervoer)
-* Ivana Setiawan (fiets)
-* Sven Sigmond (Rotterdam, openbaar vervoer)
-* Anneke Sinnema
-* Peter Slagter (Wijk bij Duurstede, auto)
-* Jeroen Slor (Hilversum, auto)
-* Johan Smits (Twente, openbaar vervoer)
-* Mark Smits (Hilversum, openbaar vervoer)
-* Jerrol Spier
-* Virgil Spruit (+1, fiets)
-* Marc Stalfoort (auto)
-* Johan Sterenberg (Breda, openbaar vervoer)
-* Joris van Summeren (+3, Breda, auto)
-* Jaap Swart (fiets)
-* Richard Tuin (Meppel)
-* Vivienne van Velzen
-* Kris van der Ven (Utrecht)
-* Martijn de Valk (openbaar vervoer)
-* Maarten Verbaarschot
-* Paul Verbeek (Breda, openbaar vervoer)
-* Hugo Verlaat (auto)
-* Stefan Vermaas (Leeuwarden, openbaar vervoer)
-* Mike Vierwind
-* Inge Vlaar (Zaanstad, auto)
-* Rebecca Vlaswinkel (fiets)
-* Sander van der Vliet (openbaar vervoer)
-* Johan Voeten (Utrecht)
-* Ruben Vogelvanger (Leeuwarden, openbaar vervoer)
-* Richard de Vos (Rotterdam, openbaar vervoer)
-* Rikwin de Vos
-* Pascal Vree (Rotterdam, openbaar vervoer)
-* Hetty de Vries (Midden-Nederland)
-* Frances de Waal (openbaar vervoer)
-* Sybren Wartna (Rotterdam, openbaar vervoer)
-* Joris van der Wel (Rotterdam, openbaar vervoer)
-* Guido Wesdorp (Rotterdam, auto)
-* E. Wieringa (Den Haag, auto)
-* Liou Yamane (fiets)
-* Ting Yuen (fiets)
-* Charlie van der Zwan (Rotterdam, auto)
-* Adriaan Zwiers (Leiden, openbaar vervoer)
-
-
+- Sander Aarts (Tilburg, openbaar vervoer)
+- Mallory van Achterberg (Sliedrecht, openbaar vervoer)
+- Karol Adamczyk (openbaar vervoer)
+- Rachel Andrew
+- Arian (Leiden, openbaar vervoer)
+- Ozhan Atar (Den Haag)
+- Victor Bastiaansen (Steenwijk, auto)
+- Harald Bertels (Utrecht, auto)
+- Adolfo Benedetti (Den Haag)
+- Sander van den Berg (Rotterdam, auto)
+- David de Beun (Delft, openbaar vervoer)
+- Patrick Baselier (Eindhoven, openbaar vervoer)
+- Peter Bijker (Utrecht, openbaar vervoer)
+- Bob Bijvoet (fiets)
+- Mathijs Blokland
+- Matthijs Boersma (Leeuwarden)
+- Martijn Boeve (Bennekom, auto)
+- Niels Bom (fiets)
+- Huub Bonarius (auto)
+- Lee Boonstra (openbaar vervoer)
+- Jelmer Borst (Delft, openbaar vervoer)
+- Ruben Bos (Rotterdam)
+- Paul van Buuren (Rotterdam, auto)
+- Osric Caton (Rotterdam, openbaar vervoer)
+- Jeroen Coumans (fiets)
+- Carla Danenberg (auto)
+- Jan Jaap van Deursen (fiets)
+- Robin van Diesen
+- Wouter van Diggelen (Den Haag, openbaar vervoer)
+- Kevin van Dijk
+- Dorien Drees (fiets)
+- Jan-Jaap Driessen (Rotterdam, openbaar vervoer)
+- Edwin (Utrecht)
+- Flurin Egger (Nijmegen, auto)
+- Arjan Eising (Hilversum, openbaar vervoer)
+- Sander Elias (Prinsenbeek, auto)
+- Cyriel van 't End (Almere, openbaar vervoer)
+- Jules Ernst (Rotterdam, openbaar vervoer)
+- Arjan van der Gaag (Eindhoven, auto)
+- Tonći Galić (openbaar vervoer)
+- Ischa Gast (openbaar vervoer)
+- Arjen Geerse
+- Frank van Gemeren (Hilversum, openbaar vervoer)
+- Vasilis van Gemert
+- Tom Greuter (fiets)
+- Peter van Grieken (Gouda)
+- Erik Hagreis (fiets)
+- Babette van Hardeveld
+- Marloes Hautmann (fiets)
+- Laurens van Heems (Rotterdam, openbaar vervoer)
+- Stef Hock (Hilversum, openbaar vervoer)
+- Mike van Hoenselaar (Horst, openbaar vervoer)
+- Krijn Hoetmer (Almere, openbaar vervoer)
+- Jan Hoogeveen (Rotterdam, openbaar vervoer)
+- Leon Huzen (Zwolle, openbaar vervoer)
+- Richard Icke (Rotterdam, openbaar vervoer)
+- Maarten de Jong (Leeuwarden)
+- Ron Jonk
+- Roy Ketelaar (Leeuwarden)
+- Jeroen Kleuters
+- Hein Kuenen (Eindhoven)
+- Kees de Koning (Rotterdam, auto)
+- Jörgen van der Kroon (Rotterdam, openbaar vervoer)
+- Joep van Liempd (kruipend)
+- Daniel Louwe Kooijmans (Rotterdam, auto)
+- Ben Konrath
+- Fleur de Kroon (Utrecht, auto)
+- Jakob Laegdsmand
+- Bruce Lawson
+- Sarah Li (Den Haag, openbaar vervoer)
+- Robin van Loon (Utrecht)
+- Edwin Martin (auto)
+- Bran van der Meer (Rotterdam)
+- Bram van Mensvoort (Eindhoven, openbaar vervoer)
+- Wesley van der Molen (Leeuwarden, openbaar vervoer)
+- Orestis Molopodis (auto)
+- Wilfred Nas (Brabsant, openbaar vervoer)
+- Peter Nederlof (Utrecht, openbaar vervoer)
+- Jan Willem Nieuwland (fiets)
+- Timen Olthof (Haarlem, openbaar vervoer)
+- Michiel van Oosterhout (Rotterdam, openbaar vervoer)
+- Stephan van Opstal (Breda, openbaar vervoer)
+- Barry van Oven (Amersfoort, auto)
+- Peter Peerdeman (Utrecht, auto)
+- Lennart de Pender (Dordrecht, openbaar vervoer)
+- Joël Plas (Den Haag, auto)
+- Lydie Polak (auto)
+- Ezra Pool (openbaar vervoer)
+- Alex Pot (Noord-Holland, auto)
+- Jeroen Prins (Leeuwarden)
+- Rowdy Rabouw (Gouda, openbaar vervoer)
+- Thijs Reijgersberg (Haarlem, openbaar vervoer)
+- Alex de Rijk (Roosendaal, openbaar vervoer)
+- Robbert
+- Anne Jan Roeleveld (Houten, openbaar vervoer)
+- Martin Savelkoul (Breda, openbaar vervoer)
+- Robine Savert (Ede)
+- Yvo Schaap (fiets)
+- Dolf Schimmel (Amersfoort, auto)
+- Johan Schuyt (Den Haag, auto)
+- E. Seine (Utrecht, openbaar vervoer)
+- Ivana Setiawan (fiets)
+- Sven Sigmond (Rotterdam, openbaar vervoer)
+- Anneke Sinnema
+- Peter Slagter (Wijk bij Duurstede, auto)
+- Jeroen Slor (Hilversum, auto)
+- Johan Smits (Twente, openbaar vervoer)
+- Mark Smits (Hilversum, openbaar vervoer)
+- Jerrol Spier
+- Virgil Spruit (+1, fiets)
+- Marc Stalfoort (auto)
+- Johan Sterenberg (Breda, openbaar vervoer)
+- Joris van Summeren (+3, Breda, auto)
+- Jaap Swart (fiets)
+- Richard Tuin (Meppel)
+- Vivienne van Velzen
+- Kris van der Ven (Utrecht)
+- Martijn de Valk (openbaar vervoer)
+- Maarten Verbaarschot
+- Paul Verbeek (Breda, openbaar vervoer)
+- Hugo Verlaat (auto)
+- Stefan Vermaas (Leeuwarden, openbaar vervoer)
+- Mike Vierwind
+- Inge Vlaar (Zaanstad, auto)
+- Rebecca Vlaswinkel (fiets)
+- Sander van der Vliet (openbaar vervoer)
+- Johan Voeten (Utrecht)
+- Ruben Vogelvanger (Leeuwarden, openbaar vervoer)
+- Richard de Vos (Rotterdam, openbaar vervoer)
+- Rikwin de Vos
+- Pascal Vree (Rotterdam, openbaar vervoer)
+- Hetty de Vries (Midden-Nederland)
+- Frances de Waal (openbaar vervoer)
+- Sybren Wartna (Rotterdam, openbaar vervoer)
+- Joris van der Wel (Rotterdam, openbaar vervoer)
+- Guido Wesdorp (Rotterdam, auto)
+- E. Wieringa (Den Haag, auto)
+- Liou Yamane (fiets)
+- Ting Yuen (fiets)
+- Charlie van der Zwan (Rotterdam, auto)
+- Adriaan Zwiers (Leiden, openbaar vervoer)
 
 _*De bijeenkomst zit vol. Wil je graag op de reservelijst, mail dan naar <arjan@fronteers.nl>*_

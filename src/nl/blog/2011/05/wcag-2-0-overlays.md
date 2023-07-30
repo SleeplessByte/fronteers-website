@@ -1,11 +1,12 @@
 ---
-title: "WCAG 2.0: Voorspelbaar gedrag en overlays"
+title: 'WCAG 2.0: Voorspelbaar gedrag en overlays'
 date: 2011-05-10
 author: Janita Top
-categories: 
+categories:
   - Toegankelijkheid
   - Webrichtlijnen
 ---
+
 Richtlijn 3.2 Voorspelbaar: Maak het uiterlijk en de bediening van webpagina's voorspelbaar.
 
 [3.2. Bij focus: Als een component de focus krijgt, dan veroorzaakt dat geen contextwijziging. (Niveau A)](http://www.w3.org/Translations/WCAG20-nl/#consistent-behavior)

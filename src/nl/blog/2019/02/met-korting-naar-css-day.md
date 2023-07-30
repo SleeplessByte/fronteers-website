@@ -1,10 +1,11 @@
 ---
-title: "Met korting naar CSS Day"
+title: 'Met korting naar CSS Day'
 date: 2019-02-20
 author: Anneke Sinnema
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Op 13 en 14 juni organiseert Web Conferences Amsterdam voor de zevende keer [CSS Day](https://cssday.nl). Dit jaar is het congres uitgebreid met een UI Special op de donderdag, gevolgd door de eigenlijke CSS Day op vrijdag.
 
 Zoals eveneens al zeven jaar het geval is, krijgen Fronteers-leden korting op dit congres. Ze betalen 500 in plaats van 600 euro voor een kaartje voor beide dagen, of 275 in plaats van 325 voor een eendagskaartje (alle bedragen exclusief BTW). Het aanbod is geldig voor mensen die op dit moment al lid zijn, en je kunt ervan gebruik maken door [een email naar het bestuur](mailto:bestuur@lists.fronteers.nl) te zenden. Je ontvangt dan een kortingscode waarmee je je kaart kunt kopen.

@@ -2,16 +2,17 @@
 title: "'Fronteers 2010: drie nieuwe sprekers, de tweede workshop en einde early-bird'"
 date: 2010-06-24
 author: Congres Commissie
-categories: 
+categories:
   - Congres
 ---
+
 Vandaag kondigen we drie nieuwe sprekers aan, maken we meer bekend over de tweede workshop die we aanbieden en tellen we af naar het einde van de early-bird periode, die nog slechts een week zal duren. Ondertussen hebben [--140--**167** front-end developers](/congres/2010/attendees) uit binnen- en buitenland de weg naar een kaartje al gevonden. Wellicht ben jij de volgende?
 
 # Sprekers
 
-Zo net voor het einde van de early-bird periode willen we graag nog drie sprekers met jullie delen. We hadden hem vorig jaar al benaderd voor een presentatie, maar toen kon hij helaas niet. Dit jaar is hij echter wel van de partij. *[Brad Neuberg](/congres/2010/speakers#brad-neuberg)* zal ons komen vertellen over SVG, de mogelijkheden in combinatie met HTML5 en een gaaf project waar hij op dit moment mee bezig is, waardoor ook huidige IE-versies gewoon SVG slikken. We verwachten dat SVG de komende jaren een stuk belangrijker gaat worden voor front-end developers, zeker gezien het feit dat IE9 SVG gaat ondersteunen en Apple steeds meer anti-Flash wordt. Deze trein mag je dus zeker niet missen!
+Zo net voor het einde van de early-bird periode willen we graag nog drie sprekers met jullie delen. We hadden hem vorig jaar al benaderd voor een presentatie, maar toen kon hij helaas niet. Dit jaar is hij echter wel van de partij. _[Brad Neuberg](/congres/2010/speakers#brad-neuberg)_ zal ons komen vertellen over SVG, de mogelijkheden in combinatie met HTML5 en een gaaf project waar hij op dit moment mee bezig is, waardoor ook huidige IE-versies gewoon SVG slikken. We verwachten dat SVG de komende jaren een stuk belangrijker gaat worden voor front-end developers, zeker gezien het feit dat IE9 SVG gaat ondersteunen en Apple steeds meer anti-Flash wordt. Deze trein mag je dus zeker niet missen!
 
-Een ander hekel puntje in [HTML5](http://www.whatwg.org/specs/web-apps/current-work/multipage/) is toegankelijkheid. We zijn er iedere dag mee bezig, onder het mom van de Webrichtlijnen of gewoon omdat we het een belangrijk onderdeel van ons werk vinden. *[Steve Faulkner](/congres/2010/speakers#steve-faulkner)* en *[Hans Hillen](/congres/2010/speakers#hans-hillen)* zullen daarom een duo-presentatie geven over hoe je HTML5 op de juiste, toegankelijke manier gebruikt, en waar nodig met ARIA verrijkt. _Built-in_ en _bolt-on_ accessibility dus. Als je denkt dat HTML5 toegankelijkheid overboord gooit en alleen voor de buzzword bingo bonuspunten gaat, heb je het mis. Kom naar Fronteers 2010! :)
+Een ander hekel puntje in [HTML5](http://www.whatwg.org/specs/web-apps/current-work/multipage/) is toegankelijkheid. We zijn er iedere dag mee bezig, onder het mom van de Webrichtlijnen of gewoon omdat we het een belangrijk onderdeel van ons werk vinden. _[Steve Faulkner](/congres/2010/speakers#steve-faulkner)_ en _[Hans Hillen](/congres/2010/speakers#hans-hillen)_ zullen daarom een duo-presentatie geven over hoe je HTML5 op de juiste, toegankelijke manier gebruikt, en waar nodig met ARIA verrijkt. _Built-in_ en _bolt-on_ accessibility dus. Als je denkt dat HTML5 toegankelijkheid overboord gooit en alleen voor de buzzword bingo bonuspunten gaat, heb je het mis. Kom naar Fronteers 2010! :)
 
 De overige _zes_ namen zullen we in de komende maanden bekendmaken.
 

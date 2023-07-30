@@ -1,10 +1,11 @@
 ---
-title: "Yes, we starten met artikelen!"
+title: 'Yes, we starten met artikelen!'
 date: 2014-12-19
 author: Kaj Rietberg
-categories: 
+categories:
   - De Artikelen
 ---
+
 We zijn nu een paar maanden bezig geweest en eindelijk kunnen we het goede nieuws verspreiden: we starten met het plaatsen van artikelen over front-endwetenswaardigheden!
 
 Op onze website kunnen jullie al veel [video's](/videos) vinden over veel verschillende onderwerpen binnen ons vakgebied. Voor degene die graag video kijken een goede manier om informatie tot zich te nemen, maar voor de lezers onder ons mist er iets. Daarom starten we met het plaatsen van artikelen over front-endwetenswaardigheden op het Fronteers weblog.
@@ -13,8 +14,8 @@ Het plan is om maandelijks één artikel te plaatsen. Het eerste artikel dat we 
 
 Fronteersleden hebben heel veel kennis over heel veel verschillende onderwerpen. We willen hun graag een podium bieden. De artikelen zijn bedoeld voor:
 
-* beschouwingen
-* tips, trucs en _best practices_
-* het uitlokken van discussie
+- beschouwingen
+- tips, trucs en _best practices_
+- het uitlokken van discussie
 
 Lijkt het je leuk om ook een artikel te schrijven laat het ons weten: [neem contact op](/contact) met Kaj Rietberg of Paul van Buuren en vertel ons waarover jij wilt schrijven. Wij helpen je met schrijven. Help andere Fronteerleden met jouw kennis; je weet meer dan je denkt!

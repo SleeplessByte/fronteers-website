@@ -1,10 +1,11 @@
 ---
-title: "Kandidaat bestuur Fronteers: Michael Hastrich"
+title: 'Kandidaat bestuur Fronteers: Michael Hastrich'
 date: 2016-11-25
 author: Bestuur
-categories: 
+categories:
   - Vereniging
 ---
+
 Aanstaande maandag vindt de [jaarlijkse ALV van Fronteers](/blog/2016/11/aanmelden-alv-2016) plaats. Een van de onderdelen tijdens de ALV is de bestuursverkiezing. Er zijn op dit moment twee kandidaten voor het bestuur. Hieronder stelt de tweede zich aan jullie voor: Michael Hastrich.
 
 Hallo, ik ben Michael Hastrich, woonachtig in Utrecht en werkzaam als freelance front-end developer. Ik heb geen idee wanneer ik precies lid geworden ben van Fronteers, maar ben vooral de laatste 5 jaar actief geweest binnen de vereniging. Nu wil ik me graag kandidaat stellen voor een bestuursfunctie.

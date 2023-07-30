@@ -1,10 +1,11 @@
 ---
-title: "In evenwicht"
+title: 'In evenwicht'
 date: 2018-12-07
 author: Tom Hartwig
-categories: 
+categories:
   - Adventskalender
 ---
+
 Ons front-end vakgebied is ontzettend breed. Elke week zie ik weer iets waar ik me in wil verdiepen omdat het me interessant lijkt. Een nieuw trucje met CSS custom properties, de nieuwe versie van VueJS, het ontcijferen van Heap Snapshots in Chrome…
 
 Daarnaast heb ik dingen die ik specifiek moet weten voor m’n werk. Ik ben bekend met WordPress, Alterian, Hippo, en EpiServer. Mijn nieuwe baan is echter bij een bedrijf dat grotendeels werkt met Drupal. Drupal leren is geen kleinigheidje, er is een hoop te leren en van alleen front-end doen is geen sprake meer: PHP behoort inmiddels ook tot mijn werkzaamheden, net als bekend raken met de quirks van Drupal en de verschillende implementaties voor verschillende klanten.
@@ -62,6 +63,7 @@ Werk is ook maar werk, durf los te laten! Na werktijd is het tijd voor wat ander
 Nog een laatste inzicht (of eigenlijk meer een verzoek van mij) voor als je bij het kerstdiner aanschuift: Geef je familie en vrienden een extra dikke knuffel dit jaar als je ze ziet, ze zijn het waard!
 
 ### Over Tom Hartwig
+
 <img src="/_img/adventskalender/tomhartwig.jpg" alt="Foto van Tom Hartwig" class="floating-portrait" /> 
 Tom werkt als front-end developer bij een digital agency in Haarlem, klimt graag in zijn vrije tijd, en is op Twitter te vinden als [@tmhrtwg](https://twitter.com/tmhrtwg).
 Donatie

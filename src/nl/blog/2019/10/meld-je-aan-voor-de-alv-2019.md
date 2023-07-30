@@ -1,11 +1,12 @@
 ---
-title: "Meld je aan voor de ALV 2019"
+title: 'Meld je aan voor de ALV 2019'
 date: 2019-10-23
 author: Anneke Sinnema
-categories: 
+categories:
   - Leden
   - Vereniging
 ---
+
 Op vrijdagavond 29 november houden we onze jaarlijkse algemene ledenvergadering (ALV) in Utrecht! Alle leden zijn hiervoor van harte uitgenodigd. De vergadering vindt dit keer plaats op een nieuwe locatie, Collectiv (Creative Valley) direct grenzend aan Utrecht Centraal Station!
 
 - [English version](#english-version) below -
@@ -14,7 +15,7 @@ Is het je eerste keer op de (of überhaupt een) ALV? Tijdens de ALV nemen we als
 
 Voor de mensen die van ver of direct vanuit hun werk komen zal er vanaf 18:00 een klein buffet klaar staan (vis, vlees en vegetarisch - broodjes, soep en een warm item). De vergadering zelf begint om 18:30 uur. We verwachten dat de totale vergadering twee uur zal duren, maar de ervaring leert dat het nog weleens wil uitlopen. We doen ons best dit zoveel mogelijk te beperken.
 
-De lokatie is dit keer aangrenzend aan het station en hierdoor extra makkelijk te bereiken met het openbaar vervoer. Loop het Centraal Station uit aan de centrumkant. De entree van Creative Valley bevindt zich rechts van Albert Heijn, tegenover Boots. [Klik hier voor een volledige routebeschrijving (pdf)](https://www.creativevalley.nl/images/downloads/route/CV_U_CS_Routebeschrijving_V002A.pdf). 
+De lokatie is dit keer aangrenzend aan het station en hierdoor extra makkelijk te bereiken met het openbaar vervoer. Loop het Centraal Station uit aan de centrumkant. De entree van Creative Valley bevindt zich rechts van Albert Heijn, tegenover Boots. [Klik hier voor een volledige routebeschrijving (pdf)](https://www.creativevalley.nl/images/downloads/route/CV_U_CS_Routebeschrijving_V002A.pdf).
 We zitten in ruimte [The Workshop](https://www.creativevalley.nl/collectiv/ruimtes/the-workshop).
 De vergaderruimte is goed bereikbaar met een lift en zit om de hoek van een gehandicaptentoilet. Er is voor zover wij weten geen ringleiding aanwezig.
 
@@ -23,19 +24,19 @@ Notulen van de avond worden altijd zo snel mogelijk na de vergadering online ged
 
 # Voorlopige agenda
 
-* Opening
-* Jaarrekening 2018
-* Bevindingen kascommissie
-* Benoeming nieuwe kascommissie
-* Financiën 2019
-* Begroting 2020
-* Herbenoeming Sander Vink
-* Toelichting commissies
-* Evaluatie congres
-* Evaluatie W3C-lidmaatschap
-* Presentatie nieuwe branding
-* Rondvraag
-* Sluiting
+- Opening
+- Jaarrekening 2018
+- Bevindingen kascommissie
+- Benoeming nieuwe kascommissie
+- Financiën 2019
+- Begroting 2020
+- Herbenoeming Sander Vink
+- Toelichting commissies
+- Evaluatie congres
+- Evaluatie W3C-lidmaatschap
+- Presentatie nieuwe branding
+- Rondvraag
+- Sluiting
 
 # Aanmelden
 
@@ -57,16 +58,15 @@ Below, you'll find the provisional program of the evening. The financial documen
 
 ## (Provisional) Agenda
 
-* Opening
-* Financial Statements 2018
-* Findings of the treasury committee
-* Naming of the new treasury committee
-* Finances of 2019
-* Budget for 2020
-* Report of committees
-* Evaluation of the conference
-* Evaluation of our first year of W3C-membership
-* Presentation of our new branding
-* Round of questions
-* Close
- 
+- Opening
+- Financial Statements 2018
+- Findings of the treasury committee
+- Naming of the new treasury committee
+- Finances of 2019
+- Budget for 2020
+- Report of committees
+- Evaluation of the conference
+- Evaluation of our first year of W3C-membership
+- Presentation of our new branding
+- Round of questions
+- Close

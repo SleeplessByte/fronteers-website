@@ -1,11 +1,12 @@
 ---
-title: "Bijeenkomst bij Info.nl op 8 februari 2008"
+title: 'Bijeenkomst bij Info.nl op 8 februari 2008'
 date: 2008-02-08
 eventdate: 2008-02-08
-location: 
-categories: 
-    - meetup
+location:
+categories:
+  - meetup
 ---
+
 Op 8 februari 2008 was Fronteers [voor de tweede maal](/bijeenkomsten/2007/info-nl) te gast bij Info.nl, in Amsterdam. In totaal hadden 60 mensen zich aangemeld voor deze bijeenkomst. Door de beschikbare ruimte in de kantine van Info.nl, werd er na ongeveer 50 aanmeldingen een stop ingelast.
 
 De avond werd geopend met een presentatie over [HTML 5](http://www.whatwg.org/specs/web-apps/current-work/multipage/), door [Anne van Kesteren](http://annevankesteren.nl/). Anne is al jaren bij het [WHATWG](http://www.whatwg.org/) (de initiatiefnemers van HTML 5) betrokken, werkt ondertussen voor [Opera](http://www.opera.com/) en helpt mee aan meerdere specificaties binnen het [W3C](http://www.w3.org/).
@@ -16,16 +17,16 @@ De tweede presentatie ging iets dieper in op [de nieuwe IE8 switch](http://alist
 
 De volgende onderwerpen werden behandeld en besproken:
 
-* HTML 5: Waarom? Wie? Wat? Hoe?
-* WHATWG en W3C HTML WG
-* De facto standaarden in HTML 5
-* Wat is nieuw in HTML 5 en nu bruikbaar?
-* Het `<canvas>` element (met demo)
-* `getElementsByClassName()`
-* Web Forms 2.0 (`<input>`, `<output>`, `pattern=""`, Google Suggest met `<datalist>`)
-* De `text/html` syntax
-* Validatie van HTML 5 (`<!DOCTYPE HTML>` en [validator.nu](http://html5.validator.nu/))
-* Uitbreidingen voor de (nabije) toekomst
+- HTML 5: Waarom? Wie? Wat? Hoe?
+- WHATWG en W3C HTML WG
+- De facto standaarden in HTML 5
+- Wat is nieuw in HTML 5 en nu bruikbaar?
+- Het `<canvas>` element (met demo)
+- `getElementsByClassName()`
+- Web Forms 2.0 (`<input>`, `<output>`, `pattern=""`, Google Suggest met `<datalist>`)
+- De `text/html` syntax
+- Validatie van HTML 5 (`<!DOCTYPE HTML>` en [validator.nu](http://html5.validator.nu/))
+- Uitbreidingen voor de (nabije) toekomst
 
 Anne heeft hierover ook [een stuk op zijn blog](http://annevankesteren.nl/2008/02/fronteers) gezet. Zijn [presentatie](http://annevankesteren.nl/2008/fronteers-html5) is daar ook te vinden. Vanzelfsprekend het best te bekijken in [Opera](http://www.opera.com/). Maar wat is dat niet? :)
 

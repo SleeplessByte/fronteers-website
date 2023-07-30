@@ -1,10 +1,11 @@
 ---
-title: "Looking back at the Fronteers Ladies Dinner"
+title: 'Looking back at the Fronteers Ladies Dinner'
 date: 2019-02-22
 author: Yaprak Ayazoglu
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 It was months ago when Anneke approached me with the idea to organize a ladies dinner for frontend developers. I was definitely excited and wanted to be a part of it. Not because nowadays it’s common to organize an IT event with special motivation for women, but I just really miss to have a cozy chat with women.
 
 We were twelve women in the room from at least four different nationalities. Hey! I know what you’re thinking, but I can assure you that Netherlands has more than twelve female frontend developers. The night started at 18:00, we started eating ~19:30 and we had a nice chat until 22:00. This was the summary of the night by numbers. I know... This a boring habit from work. I cannot stop organizing my thoughts with bullets, numbers, etc.

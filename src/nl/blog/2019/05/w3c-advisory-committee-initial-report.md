@@ -1,10 +1,11 @@
 ---
-title: "W3C Advisory Committee - initial report"
+title: 'W3C Advisory Committee - initial report'
 date: 2019-05-08
 author: Rachel Andrew
-categories: 
+categories:
   - W3C
 ---
+
 In April I headed to Quebec City in order to attend my first Advisory Committee (AC) Meeting on behalf on Fronteers. While I have been a CSS Working Group memeber for some time, as an Invited Expert I had no interaction with the AC, so this first meeting was a chance for me to discover how it functions and to start to build a plan for how I should gather information and share that with Fronteers.
 
 The AC is a committee made up of a representative from each member organisation. Therefore I was attending the committee meetings as a representative of Fronteers. Below are a few notes. Some materials were classed as member only, however, and we need to find a way to share these materials with Fronteers members only.
@@ -17,13 +18,11 @@ There was a session before the meeting designed for new representatives. It fill
 
 The meeting runs as a series of presentations on a subject, after which members who have questions or comments queue at the mic to ask their question. Some materials presented are made publicly available, others are member only. The [Strategic Highlights Overview](https://www.w3.org/2019/04/w3c-highlights/Overview.html) is public.
 
+There was a good discussion about diversity in the W3C. Of particular use to me was the discussion _A, B, C's of being an AC rep_, which included questions such as:
 
-
-There was a good discussion about diversity in the W3C. Of particular use to me was the discussion *A, B, C's of being an AC rep*, which included questions such as:
-
-* "How do I weigh in on something that I don't understand?"
-* Importance of voting
-* How information gets circulated by the AC Rep between their boss/colleagues and W3C
+- "How do I weigh in on something that I don't understand?"
+- Importance of voting
+- How information gets circulated by the AC Rep between their boss/colleagues and W3C
 
 This third issue is the one I think we need to think about, as being a representative of a volunteer organisation is not a usual thing in the W3C, and we have to figure out how to do this. That process in itself may be useful for any future organisation who wishes to follow our lead.
 

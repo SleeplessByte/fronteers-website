@@ -1,10 +1,11 @@
 ---
-title: "&quot;Even snel&quot; een project starten"
+title: '&quot;Even snel&quot; een project starten'
 date: 2021-01-03
 author: Renee de Kruijf
-categories: 
+categories:
   - Adventskalender
 ---
+
 Je kent het wel, je wil even snel iets bouwen of wat code uitproberen. Je maakt een map aan, gooit daarin een index.html, een CSS bestand en een JavaScript bestandje, om vervolgens met wat code te rommelen. In dit voorbeeld heb je gewoon statische bestanden die je in een browser (naar keuze) kunt laden om te checken of het klopt wat je aan het maken bent.
 
 Je kent het wel, je wil even snel iets bouwen of wat code uitproberen. Je maakt een map aan, gooit daarin een index.html, een CSS bestand en een JavaScript bestandje, om vervolgens met wat code te rommelen. In dit voorbeeld heb je gewoon statische bestanden die je in een browser (naar keuze) kunt laden om te checken of het klopt wat je aan het maken bent.

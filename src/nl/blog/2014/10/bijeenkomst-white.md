@@ -1,19 +1,20 @@
 ---
-title: "Bijeenkomst bij internetbureau WHITE op 29 oktober"
+title: 'Bijeenkomst bij internetbureau WHITE op 29 oktober'
 date: 2014-10-01
 author: Wesley Lancel
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op woensdag 29 oktober 2014 is Fronteers te gast bij [internetbureau WHITE](http://www.white.nl) in Valkenswaard. Er worden twee presentaties gehouden.
 
 # Het programma is als volgt:
 
-* 18:00 uur Ontvangst met hapje & drankje
-* 19:00 uur Simon de Turck - "An introduction to AngularJS"
-* 19:45 uur Korte pauze
-* 20:00 uur Bob Donderwinkel - "De voordelen van BEM (Block, Element, Modifier) CSS"
-* 20:45 uur Borrel
+- 18:00 uur Ontvangst met hapje & drankje
+- 19:00 uur Simon de Turck - "An introduction to AngularJS"
+- 19:45 uur Korte pauze
+- 20:00 uur Bob Donderwinkel - "De voordelen van BEM (Block, Element, Modifier) CSS"
+- 20:45 uur Borrel
 
 # Waar?
 

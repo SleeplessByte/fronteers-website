@@ -1,10 +1,11 @@
 ---
-title: "Kandidaat bestuur Fronteers: Sander Vink"
+title: 'Kandidaat bestuur Fronteers: Sander Vink'
 date: 2016-11-24
 author: Bestuur
-categories: 
+categories:
   - Vereniging
 ---
+
 Aanstaande maandag vindt de [jaarlijkse ALV van Fronteers](/blog/2016/11/aanmelden-alv-2016) plaats. Een van de onderdelen tijdens de ALV is de bestuursverkiezing. Er zijn op dit moment twee kandidaten voor het bestuur. Hieronder stelt de eerste zich aan jullie voor: Sander Vink.
 
 Hi allen! Ik ben Sander Vink, 34 jaar, woon samen met mijn (bijna) vrouw en twee kids in Utrecht, en werk bij [Procurios](https://developer.procurios.com/). In mijn vrije tijd sport ik regelmatig (tennis/hardlopen), en wat online gaming kan ik zeker ook waarderen. Verder ga ik graag naar congressen, en ben ik een regelmatig bezoeker van meetups.

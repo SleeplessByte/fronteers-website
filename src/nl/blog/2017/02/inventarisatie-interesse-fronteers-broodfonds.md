@@ -1,11 +1,12 @@
 ---
-title: "Inventarisatie interesse Fronteers broodfonds"
+title: 'Inventarisatie interesse Fronteers broodfonds'
 date: 2017-02-18
 author: Michael Hastrich
-categories: 
+categories:
   - Leden
   - Vereniging
 ---
+
 Als zelfstandige met of zonder personeel zijn er een hoop verzekeringen die je wel of niet voor jezelf kunt afsluiten. Eén van de meest bekende waar je als werknemer misschien nooit bij stilgestaan zult hebben is de Arbeidsongeschiktheidsverzekering (AOV).
 
 Als werknemer ben je hier tegen bij wet beschermd. Als je een tijdelijk of vast contract hebt en je voor langere tijd ziek wordt, betaalt je werkgever je loon maximaal 2 jaar lang door. Je ontvangt dan minstens 70% van je laatstverdiende loon.

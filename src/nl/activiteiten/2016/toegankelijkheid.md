@@ -1,23 +1,24 @@
 ---
-title: "Bijeenkomst over toegankelijkheid op 8 november 2016"
+title: 'Bijeenkomst over toegankelijkheid op 8 november 2016'
 date: 2016-11-08
 eventdate: 2016-11-08
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 _Please note: this meetup will be held in English, there is no entry fee (but please do sign up using the [form](#formulier-1) below). We'll have Karl Groves talk about accessibility with JavaScript and a talk of Job van Achterberg about automating accessibility testing._
 
 Op 8 november host Fronteers een bijeenkomst over toegankelijkheid, met als eerste spreker niemand minder dan ex-congresspreker [Karl Groves](http://www.karlgroves.com). Hij zal spreken over het inzetten van JavaScript om je toegankelijkheid te verbeteren. De bijeenkomst is gratis te bezoeken voor zowel leden als niet-leden.
 
 # Programma
 
-* 18:00 inloop met een hapje en een drankje
-* 19:00 introductie door Fronteers
-* 19:10 Karl Groves - Noscript is dead. Using JavaScript to improve accessible user experience
-* 20:00 pauze
-* 20:30 Job van Achterberg - Automatica11y: trends, patterns, predictions in audit tooling and data
-* 21:15 borrel
+- 18:00 inloop met een hapje en een drankje
+- 19:00 introductie door Fronteers
+- 19:10 Karl Groves - Noscript is dead. Using JavaScript to improve accessible user experience
+- 20:00 pauze
+- 20:30 Job van Achterberg - Automatica11y: trends, patterns, predictions in audit tooling and data
+- 21:15 borrel
 
 ## Karl Groves - Noscript is dead. Using JavaScript to improve accessible user experience
 
@@ -49,11 +50,9 @@ Kom je met de auto? Parkeren in de buurt kan het makkelijkst bij Artis. Desmet h
 
 {%- googlemaps "Plantage Middenlaan 4a, 1018 DD, Amsterdam" -%}
 
-
 {%- comment -%}
 {%- form -%}
 {%- endcomment -%}
-
 
 # Wie komen er nog meer? ({aanmeldingen}/{max})
 

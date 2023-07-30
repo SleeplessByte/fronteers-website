@@ -2,54 +2,55 @@
 title: "Een betere sfeer begint bij jezelf (en eindigt bij je collega's)"
 date: 2020-12-30
 author: Anneke Sinnema
-categories: 
+categories:
   - Adventskalender
 ---
+
 Laten we voor 2021 als goed voornemen noteren dat we het nieuwe jaar fijner met elkaar omgaan. Dat we wat meer naar elkaar omkijken, beter samenwerken in het signaleren van eenzaamheid en er voor waken een negatieve impact te hebben op het werkplezier van onze collega's.
 
 Ik heb helaas meegemaakt hoe het is om in een toxische omgeving te werken. Ik had daarna een vol jaar nodig om terug mezelf te worden. Dat is ondertussen een aantal jaar geleden maar ik denk er nog vaak over na wat ik anders had kunnen doen om de sfeer te verbeteren (en niet wekelijks huilend thuis te komen). In dit blog wil ik graag jou ook aan het denken zetten over de sfeer op je werk, en de rol die je daarin speelt.
 
 Eerst gaan we samen kijken wat de situatie bij jou op je werk is. Pak pen en papier, en turf hoe vaak je op een van onderstaande stellingen met 'ja' antwoordt! Er zitten positieve en negatieve stellingen bij, maar welke dat zijn is redelijk subjectief.
 
-*Als ik in een Slack kanaal om hulp vraag bij mijn lokale omgeving...*
+_Als ik in een Slack kanaal om hulp vraag bij mijn lokale omgeving..._
 
-* krijg ik meestal geen reactie
-* is het wachten op de reactie "RTFM"
-* krijg ik een prive-berichtje van een collega met feedback over de vraag, maar geen antwoord
-* moet ik kiezen uit meerdere mensen die me wel willen helpen
-* kom ik altijd bij dezelfde persoon uit
+- krijg ik meestal geen reactie
+- is het wachten op de reactie "RTFM"
+- krijg ik een prive-berichtje van een collega met feedback over de vraag, maar geen antwoord
+- moet ik kiezen uit meerdere mensen die me wel willen helpen
+- kom ik altijd bij dezelfde persoon uit
 
-*Tijdens een team-overleg...*
+_Tijdens een team-overleg..._
 
-* houd ik soms dingen voor mezelf omdat ik bang ben voor de mening van anderen
-* lopen de gemoederen soms hoog op en worden mensen boos of emotioneel
-* staat er altijd wel een kaartje in de positieve kolom over de sfeer in het team
-* merk ik dat sommige collega's vooral met andere dingen bezig zijn
-* wordt er vaak over dezelfde zaken geklaagd, maar blijven concrete oplossingen uit
+- houd ik soms dingen voor mezelf omdat ik bang ben voor de mening van anderen
+- lopen de gemoederen soms hoog op en worden mensen boos of emotioneel
+- staat er altijd wel een kaartje in de positieve kolom over de sfeer in het team
+- merk ik dat sommige collega's vooral met andere dingen bezig zijn
+- wordt er vaak over dezelfde zaken geklaagd, maar blijven concrete oplossingen uit
 
-*Er zijn collega's...*
+_Er zijn collega's..._
 
-* die het echt niet begrijpen, dus ik steek daar geen tijd en energie in
-* die echt onwijs bot zijn en je soms behandelen alsof je dom bent
-* die eigenlijk altijd aan het woord zijn tijdens een meeting
-* die me een veilig gevoel geven
-* die zo'n impact op het team hebben, dat wanneer ze een week met vakantie zijn, iedereen leuker tegen elkaar is
+- die het echt niet begrijpen, dus ik steek daar geen tijd en energie in
+- die echt onwijs bot zijn en je soms behandelen alsof je dom bent
+- die eigenlijk altijd aan het woord zijn tijdens een meeting
+- die me een veilig gevoel geven
+- die zo'n impact op het team hebben, dat wanneer ze een week met vakantie zijn, iedereen leuker tegen elkaar is
 
-*Mijn werkgever of manager...*
+_Mijn werkgever of manager..._
 
-* luistert naar feedback maar doet er vervolgens niets mee
-* geeft me in het openbaar kritiek maar complimenten 1 op 1
-* verwacht dat ik werk in mijn vrije tijd
-* heeft een 'old boys network' om zich heen van favoriete collega's, waar ik niet bij hoor
-* lijkt te denken dat mijn werk niets voorstelt
+- luistert naar feedback maar doet er vervolgens niets mee
+- geeft me in het openbaar kritiek maar complimenten 1 op 1
+- verwacht dat ik werk in mijn vrije tijd
+- heeft een 'old boys network' om zich heen van favoriete collega's, waar ik niet bij hoor
+- lijkt te denken dat mijn werk niets voorstelt
 
-*Nadat ik de werkdag afsluit...*
+_Nadat ik de werkdag afsluit..._
 
-* voel ik me overprikkeld en druk
-* heb ik een gevoel van opluchting dat de dag er op zit
-* ga ik lekker ontspannen koken of sporten
-* heb ik de neiging om te klagen over mijn werk
-* voel ik me wel eens eenzaam
+- voel ik me overprikkeld en druk
+- heb ik een gevoel van opluchting dat de dag er op zit
+- ga ik lekker ontspannen koken of sporten
+- heb ik de neiging om te klagen over mijn werk
+- voel ik me wel eens eenzaam
 
 Ja? Heb je het geturfd? Heb je vaker dan 10 keer 'ja'? Hoe voel je je daarbij?
 
@@ -68,7 +69,7 @@ Als je niet degene bent die dit vaak overkomt, kijk dan eens naar jouw aandeel i
 
 ## Tip voor sfeerverbeteraars
 
-Collega's die wat onzeker zijn aangelegd vinden het vaak moeilijk om een vraag te stellen in een openbaar kanaal. Dat ze het toch doen is dapper en zegt tegelijk dat ze zich op dit moment nog veilig voelen om zich kwetsbaar op te stellen (en dit is MEGA belangrijk voor een goede sfeer). 
+Collega's die wat onzeker zijn aangelegd vinden het vaak moeilijk om een vraag te stellen in een openbaar kanaal. Dat ze het toch doen is dapper en zegt tegelijk dat ze zich op dit moment nog veilig voelen om zich kwetsbaar op te stellen (en dit is MEGA belangrijk voor een goede sfeer).
 Het helpt daarom al als je interacteert met de vragensteller in het openbaar om te kijken tot welk punt je ze zou kunnen helpen, of om het probleem te verduidelijken. Heb je zelf op dat moment geen tijd om iemand te helpen, stuur dan een berichtje met de vraag of ze al geholpen zijn, en bied anders aan om op een ander moment mee te kijken. Kijk eventueel met je team of er een betere plek is om vragen te stellen zodat ze beter gezien worden. Of is er een manier om het helpen van collega's in te bouwen in je werkschema?
 
 # Als ik in een Slack kanaal om hulp vraag is het wachten op de reactie "RTFM"

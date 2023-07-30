@@ -1,13 +1,14 @@
 ---
-title: "Congresnieuws: Workshops en einde early bird"
+title: 'Congresnieuws: Workshops en einde early bird'
 date: 2011-06-29
 author: Vasilis van Gemert
-categories: 
+categories:
   - Congres
   - Styling
   - Toegankelijkheid
   - Workshops
 ---
+
 Ook dit jaar organiseert Fronteers weer [workshops](http://fronteers.nl/congres/2011/workshops) in aanloop naar het Fronteers Congres en ook dit jaar gaat het weer om intensieve workshops van een hele dag van hoog internationaal niveau. [Derek Featherstone](http://fronteers.nl/blog/2011/06/congres-workshops-einde-early-bird#real-world-accessibility) komt een workshop over toegankelijkheid geven en [Lea Verou](http://fronteers.nl/blog/2011/06/congres-workshops-einde-early-bird#css3-for-web-developers) een over CSS3. En een last call voor Fronteers leden: [de early bird periode voor het congres loopt af](http://fronteers.nl/blog/2011/06/congres-workshops-einde-early-bird#einde-early-bird)!
 
 # Real World Accessibility for HTML5, CSS and ARIA

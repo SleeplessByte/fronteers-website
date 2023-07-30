@@ -2,16 +2,17 @@
 title: "'Fronteers 2010: We gaan (weer) uitverkopen!'"
 date: 2010-09-20
 author: Congres Commissie
-categories: 
+categories:
   - Congres
 ---
+
 Nog maar _twee weken_ en dan is het eindelijk zover. Fronteers 2010 belooft weer een succes te worden! Hieronder de laatste update vanuit de commissie.
 
 # Laatste sprekers bekend
 
-Via [Twitter](https://twitter.com/FronteersConf/status/23903002230) hebben we een tijdje terug de laatste vier sprekers van dit jaar toegevoegd. [*Stephen Hay*](/congres/2010/speakers#stephen-hay) en [*Chris Heilmann*](/congres/2010/speakers#christian-heilmann), bekend van de afgelopen twee jaar, komen weer terug om hun visitekaartje af te geven. Stephen zal ons vertellen over [Real-world Responsive Design](/congres/2010/sessions#real-world-responsive-design) en Chris heeft iets bijzonders voor ons in petto als afsluiting van het congres.
+Via [Twitter](https://twitter.com/FronteersConf/status/23903002230) hebben we een tijdje terug de laatste vier sprekers van dit jaar toegevoegd. [_Stephen Hay_](/congres/2010/speakers#stephen-hay) en [_Chris Heilmann_](/congres/2010/speakers#christian-heilmann), bekend van de afgelopen twee jaar, komen weer terug om hun visitekaartje af te geven. Stephen zal ons vertellen over [Real-world Responsive Design](/congres/2010/sessions#real-world-responsive-design) en Chris heeft iets bijzonders voor ons in petto als afsluiting van het congres.
 
-Naast deze twee oudgedienden van Fronteers hebben we [*Paul Irish*](/congres/2010/speakers#paul-irish) en [*Robert Nyman*](/congres/2010/speakers/#robert-nyman) aan de haak geslagen! Robert zal ons met [JavaScript - Like a box of chocolates](/congres/2010/sessions#javascript-like-a-box-of-chocolates) een introductie geven in JavaScript en alle niet-JavaScripters in de zaal laten zien waarom ze toch de stap zouden moeten overwegen. Paul gaat met [The State of HTML5: Inaugural Address](/congres/2010/sessions#the-state-of-html5-inaugural-address) laten zien hoe je HTML5 _nu_ optimaal kunt gebruiken.
+Naast deze twee oudgedienden van Fronteers hebben we [_Paul Irish_](/congres/2010/speakers#paul-irish) en [_Robert Nyman_](/congres/2010/speakers/#robert-nyman) aan de haak geslagen! Robert zal ons met [JavaScript - Like a box of chocolates](/congres/2010/sessions#javascript-like-a-box-of-chocolates) een introductie geven in JavaScript en alle niet-JavaScripters in de zaal laten zien waarom ze toch de stap zouden moeten overwegen. Paul gaat met [The State of HTML5: Inaugural Address](/congres/2010/sessions#the-state-of-html5-inaugural-address) laten zien hoe je HTML5 _nu_ optimaal kunt gebruiken.
 
 # Sprekerswissel
 
@@ -31,7 +32,7 @@ Op dit moment hebben we [410 bezoekers](/congres/2010/attendees)(!) op de teller
 
 # Sluiting kaartverkoop op 29 september
 
-Een andere reden om snel te beslissen is dat de kaartverkoop voor het congres op *woensdag 29 september om 12 uur 's middags sluit*. Of eerder, indien we voor die tijd de 450 namen al bereikt hebben. Hierdoor hebben de vrijwilligers die achter de schermen zwetend zwoegen om alles rond te krijgen nog een week de tijd om alles met een definitieve bezoekerslijst klaar te maken. Iedereen die na deze datum nog binnen probeert te komen, kan een kille "Nee" verwachten. Hopelijk hiervoor jullie begrip.
+Een andere reden om snel te beslissen is dat de kaartverkoop voor het congres op _woensdag 29 september om 12 uur 's middags sluit_. Of eerder, indien we voor die tijd de 450 namen al bereikt hebben. Hierdoor hebben de vrijwilligers die achter de schermen zwetend zwoegen om alles rond te krijgen nog een week de tijd om alles met een definitieve bezoekerslijst klaar te maken. Iedereen die na deze datum nog binnen probeert te komen, kan een kille "Nee" verwachten. Hopelijk hiervoor jullie begrip.
 
 Het aftellen is begonnen, fijne meevallers zullen zich aandienen en ook minieme tegenslagen zullen we met open armen ontvangen. Net als alle 450 front-end developers uit binnen- en buitenland die op 7 en 8 oktober de Reguliersbreestraat in Amsterdam gaan vullen.
 

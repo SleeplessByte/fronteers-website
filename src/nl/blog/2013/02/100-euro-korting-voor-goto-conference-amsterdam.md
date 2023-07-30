@@ -1,10 +1,11 @@
 ---
-title: "100 euro korting voor GOTO Conference Amsterdam"
+title: '100 euro korting voor GOTO Conference Amsterdam'
 date: 2013-02-15
 author: Anton Kouliavtsev
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Op 18 t/m 20 juni is een algemeen softwarecongres, de [GOTO Conference Amsterdam](http://www.gotocon.com/amsterdam-2013/) in de Beurs van Berlage. Leden van Fronteers krijgen 100 euro op deze congres.
 
 GOTO Conference is algemeen softwarecongres waarop de organisatoren vonden dat front-end niet mocht ontbreken. Buiten de Frontend praatjes zijn er ook sessies over agile programming, back-end, big data, search, architecture en meer. Op 20 juni vinden er ook diverse workshops plaats. Voor meer infomatie zie [Tracks at GOTO Amsterdam2013](http://www.gotocon.com/amsterdam-2013/tracks/).

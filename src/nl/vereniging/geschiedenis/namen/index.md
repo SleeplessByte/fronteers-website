@@ -1,10 +1,11 @@
 ---
 key: history-names
 title: Mogelijke namen voor de vereniging
-heroSlogan: ""
+heroSlogan: ''
 ---
+
 Op deze pagina vind je de namen voor het 'Gilde' die in de aanloopfase voor de oprichting door leden zijn voorgesteld, alsmede een bestuursadvies hierover.
-Alle voorlopige leden mochten stemmen, en de uitkomst werd *Fronteers*.
+Alle voorlopige leden mochten stemmen, en de uitkomst werd _Fronteers_.
 
 ### Bestuursadvies
 

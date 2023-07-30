@@ -1,11 +1,12 @@
 ---
-title: "Fronteers bereikt de 300 leden"
+title: 'Fronteers bereikt de 300 leden'
 date: 2010-08-13
 author: Fronteers
-categories: 
+categories:
   - Leden
   - Vereniging
 ---
+
 Sinds gisteren telt Fronteers meer dan [300 leden](/leden)! Precies een jaar geleden begonnen we met het schrijven van deze post, die toen 'Fronteers bereikt de 200 leden' getiteld was. Blijkbaar gaat het hard. Wow!
 
 Leuk en aardig dat gesmijt met getallen, maar wat doet Fronteers nou eigenlijk? Het grote probleem van onze vereniging is nog steeds dat we draaien op een relatief klein clubje actieve vrijwilligers, dat ook nog eens erg druk is met werk. Dingen gaan dus langzaam. Maar er gebeurt wel wat.

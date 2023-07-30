@@ -1,10 +1,11 @@
 ---
-title: "Met korting naar CSS Day en/of Browser API Special"
+title: 'Met korting naar CSS Day en/of Browser API Special'
 date: 2017-04-14
 author: Roy Tomeij
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Op 15 en 16 juni organiseert WCA voor de vijfde keer CSS Day, dit jaar voorafgegaan door Browser API Special. Fronteers-leden kunnen hier naar toe met een korting van 25 euro (1 dag) of 50 euro (2 dagen).
 
 Zoals al vijf jaar gebruikelijk is, zullen op[ CSS Day](https://cssday.nl/2017) topsprekers de voornaamste nieuwe ontwikkelingen in CSS bespreken. Onder andere zal Rachel Andrew de aanwezigen bijpraten over CSS Grid, dat thans daadwerkelijk wordt ondersteund, CSS-uitvinders Bert Bos en Håkon Wium Lie zullen spreken over wat ze anders zouden doen als ze CSS vandaag opnieuw mochten ontwerpen, Tab Atkins zal Houdini behandelen, en uitleggen waarom een vroeg-20e-eeuwse boeienkoning belangrijk is, en nog veel meer.

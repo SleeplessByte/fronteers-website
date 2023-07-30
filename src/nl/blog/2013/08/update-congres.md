@@ -1,10 +1,11 @@
 ---
-title: "Update van de commissie congres"
+title: 'Update van de commissie congres'
 date: 2013-08-19
 author: Hidde de Vries
-categories: 
+categories:
   - Congres
 ---
+
 Fronteers 2013 is uitverkocht, kaarten voor de workshop van Harry Roberts zijn nu verkrijgbaar, er komt een speciale praktijksessie en we zullen weer boeken weggeven.
 
 # Congres uitverkocht
@@ -17,8 +18,8 @@ Harry Roberts, bekend van zijn blog [CSS Wizardry](http://csswizardry.com/), zal
 
 De kosten: €350, exclusief btw, inclusief lunch. Fronteersleden krijgen €75 korting; gebruik hiervoor de link waarmee je ook ledenkaarten kon kopen. Voor wie nog geen kaartje heeft voor het congres zelf: er zijn ook enkele combinatietickets beschikbaar, zolang de vooraad strekt.
 
-* [Tickets voor niet-leden](http://fronteers.paydro.net)
-* Tickets voor leden: zie nieuwsbrief eind april of mail ons voor de link (congres@fronteers.nl)
+- [Tickets voor niet-leden](http://fronteers.paydro.net)
+- Tickets voor leden: zie nieuwsbrief eind april of mail ons voor de link (congres@fronteers.nl)
 
 # Nieuw programma-onderdeel: de praktijksessie
 
@@ -26,4 +27,4 @@ Dit jaar introduceert Fronteers een nieuw onderdeel in het programma. Tijdens de
 
 # Book raffle
 
-Wegens succes herhaald: de book raffle. Net zoals vorig jaar zullen we ook dit jaar weer een grote hoeveelheid boeken verloten. We hebben  contact gezocht met een aantal van de betere uitgeverijen van boeken over front-end development, en die hebben zich wederom gul getoond. Iedereen met een (betaald) ticket doet automatisch mee: het grote scherm kiest de namen en de winnaars mogen uitzoeken.
+Wegens succes herhaald: de book raffle. Net zoals vorig jaar zullen we ook dit jaar weer een grote hoeveelheid boeken verloten. We hebben contact gezocht met een aantal van de betere uitgeverijen van boeken over front-end development, en die hebben zich wederom gul getoond. Iedereen met een (betaald) ticket doet automatisch mee: het grote scherm kiest de namen en de winnaars mogen uitzoeken.

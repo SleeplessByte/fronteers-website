@@ -1,19 +1,20 @@
 ---
-title: "Bijeenkomst bij eBuddy in Amsterdam op 30 mei"
+title: 'Bijeenkomst bij eBuddy in Amsterdam op 30 mei'
 date: 2013-05-06
 author: Arjan Eising
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Donderdag 30 mei is Fronteers te gast bij [eBuddy](http://ebuddy.com) in Amsterdam. Twee presentaties staan op het programma. Jan van Hellemond vertelt over SVG voor het responsive web, en Andrei Rusu spreekt over client-side architectuur van server sent events.
 
 # Programma
 
-* 18:30 inloop
-* 19:30 Jan van Hellemond – SVG voor het responsive web
-* 20:30 korte pauze
-* 20:45 Andrei Rusu – Real time client-server architecture using Server-Sent Events
-* 21:45 borrel
+- 18:30 inloop
+- 19:30 Jan van Hellemond – SVG voor het responsive web
+- 20:30 korte pauze
+- 20:45 Andrei Rusu – Real time client-server architecture using Server-Sent Events
+- 21:45 borrel
 
 # SVG voor het responsive web
 

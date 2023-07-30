@@ -1,10 +1,11 @@
 ---
-title: "Kandidaat bestuur Fronteers: Arjan Eising"
+title: 'Kandidaat bestuur Fronteers: Arjan Eising'
 date: 2012-11-14
 author: Arjan Eising
-categories: 
+categories:
   - Vereniging
 ---
+
 Volgende week donderdag vindt de [jaarlijkse ALV](/blog/2012/10/kom-naar-de-algemene-ledenvergadering-2012) van Fronteers plaats (je kunt je nog [aanmelden](/vereniging/bestuur#formulier-1)). Een van de onderdelen tijdens de ALV is de bestuursverkiezing. Dit jaar zijn er vier kandidaten voor het nieuwe bestuur, twee zittende bestuursleden en twee nieuwe leden. In de komende dagen stellen zij zich alle vier aan je voor. Vandaag:
 
 # Arjan Eising
@@ -13,9 +14,9 @@ De meeste mensen zullen mij kennen als die rare meneer die de bijeenkomsten inle
 
 Enkele punten zijn reeds genoemd om het bestuur (en dus de vereniging) te verbeteren. Denk aan de contacten met het onderwijs en andere vakgebieden verbeteren. Mijn puntjes om daar aan toe te voegen zijn het meer waarde geven aan het lidmaatschap. Denk aan:
 
-* hoge kwaliteit workshops organiseren, eventueel met internationale workshopleiders;
-* leuke, nieuwe activiteiten gericht op leden, die je verder laten kijken dan de websites waar je normaal doordeweeks aan werkt;
-* toffe, bedrukte merchandise en vakgerelateerde boeken die je voor een gereduceerd tarief kunt kopen als je lid bent van Fronteers.
+- hoge kwaliteit workshops organiseren, eventueel met internationale workshopleiders;
+- leuke, nieuwe activiteiten gericht op leden, die je verder laten kijken dan de websites waar je normaal doordeweeks aan werkt;
+- toffe, bedrukte merchandise en vakgerelateerde boeken die je voor een gereduceerd tarief kunt kopen als je lid bent van Fronteers.
 
 … zonder uiteraard de huidige [voordelen voor het lidmaatschap](/vereniging/lidmaatschap) uit het oog te verliezen.
 

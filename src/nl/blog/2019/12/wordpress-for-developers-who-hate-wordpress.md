@@ -1,10 +1,11 @@
 ---
-title: "WordPress for developers who hate WordPress"
+title: 'WordPress for developers who hate WordPress'
 date: 2019-12-11
 author: Luc Princen
-categories: 
+categories:
   - Adventskalender
 ---
+
 WordPress is now over sixteen years old. In those sixteen years it’s grown to power over 33% of the ten million most popular websites. And yet, the most popular system for publishing websites is one of the most hated systems for developers. At least according to the Stack Overflow developer survey who ranked WordPress as the most dreaded platform to work with this year. It has been in the top three for years now.
 
 WordPress has a reputation among developers that it’s cumbersome, slow to load and insecure. This is true in a lot of cases, but I’d like to show you that it is possible to build modern and easy to maintain websites, plugins and themes with WordPress.
@@ -48,14 +49,14 @@ class Endpoint{
         * Register this endpoint
         */
     public function register(){
-        register_rest_route( 
-            'my-plugin/v1', 
-            '/my-endpoint', 
+        register_rest_route(
+            'my-plugin/v1',
+            '/my-endpoint',
             [
                 'methods' => 'GET',
                 'callback' => [ $this, 'callback' ]
             ]
-        );   
+        );
     }
 
     /**
@@ -78,14 +79,14 @@ If you like to process POST, PULL or DELETE requests, you can just change the me
 * Register this endpoint
 */
 public function register(){
-    register_rest_route( 
-        'my-plugin/v1', 
-        '/custom-delete-function', 
+    register_rest_route(
+        'my-plugin/v1',
+        '/custom-delete-function',
         [
             'methods' => 'DELETE',
             'callback' => [ $this, 'callback' ]
         ]
-    );   
+    );
 }
 
 /**
@@ -146,7 +147,7 @@ registerBlockType(
 
             return (
                 <section className={ className }>
-                    <RichText 
+                    <RichText
                         tagName="h4"
                         value={ hello }
                         placeholder={ __('Write your hello world', 'namespace') }
@@ -156,7 +157,7 @@ registerBlockType(
             )
         },
         save( props ){
-            
+
             const { attributes: { hello }, className } = props;
             return (
                 <section className={ className }>
@@ -288,6 +289,7 @@ Both the [international](https://make.wordpress.org/chat/) and the [Dutch WordPr
 While WordPress is in a lot of ways an ancient piece of software, there are a lot of positive things happening in the WordPress ecosystem. It might be fun to completely write off WordPress due to its age, but its market share keeps growing. So why not look a bit further at WordPress’ modern bits and re-evaluate if this really can’t be part of your toolbox? If not, then no worries; at least you’ve read up on the newer capabilities of the platform and can make a more informed decision for your next project.
 
 ### About Luc Princen
+
 /adventskalender/luc-princen.jpg
 Luc Princen is an independent developer and designer from The Netherlands specializing in WordPress and frontend development. He loves open source, elegant code, fast load times, Dungeons & Dragons and playing the occasional (grand) strategy game. You can find him on Twitter with the handle [@LucP](https://twitter.com/LucP).
 Luc's donation will go to Dutch charity _Stem op een Vrouw_.

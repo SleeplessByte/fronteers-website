@@ -1,10 +1,11 @@
 ---
-title: "Nieuwe leden workshopcommissie en onderwerpen workshops gezocht"
+title: 'Nieuwe leden workshopcommissie en onderwerpen workshops gezocht'
 date: 2016-07-08
 author: Hidde de Vries en Sharon Martens
-categories: 
+categories:
   - Workshops
 ---
+
 Deze week heeft Fronteers afscheid genomen van haar workshopcommissie. We bedanken Joël, Mirella, Arjan en Michael van harte voor hun werk de afgelopen jaren. Dankzij jullie hebben een hoop front-enders een te gekke workshop kunnen bijwonen!
 
 Er is ook een nieuwe workshopcommissie opgestaan, met daarin voorlopig Sharon Martens en Hidde de Vries. Het nieuwe team is van plan dit najaar te komen met vier workshops, en wil in 2017 regulier (maandelijks of tweemaandelijkse) namens Fronteers workshops gaan organiseren. De planning voor alle vier de workshops kondigen we begin augustus aan via de website en social media van Fronteers.

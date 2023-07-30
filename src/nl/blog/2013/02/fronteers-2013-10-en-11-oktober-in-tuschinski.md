@@ -1,10 +1,11 @@
 ---
-title: "Fronteers 2013: 10 en 11 oktober in Tuschinski"
+title: 'Fronteers 2013: 10 en 11 oktober in Tuschinski'
 date: 2013-02-15
 author: Commissie Congres
-categories: 
+categories:
   - Congres
 ---
+
 Het zal sommigen misschien ontgaan zijn maar een paar weken terug gaven we een [subtiele hint](https://twitter.com/fronteersconf/status/294349733101707264) dat we begonnen waren met de voorbereiding van Fronteers 2013.
 
 We zijn verheugd dat we vandaag Fronteers 2013 officieel kunnen aankondigen. Op 10 en 11 oktober zullen we weer twee dagen te gast zijn in het schitterende [Theater Tuschinski](http://nl.wikipedia.org/wiki/Tuschinski_Theater) in hartje Amsterdam.

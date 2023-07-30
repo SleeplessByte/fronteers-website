@@ -2,8 +2,9 @@
 key: contact-fronteers
 title: Contact us
 # if there's a subtitle, put it in heroSlogan:
-heroSlogan: ""
---- 
+heroSlogan: ''
+---
+
 Snail-mail us at:
 
 <address>

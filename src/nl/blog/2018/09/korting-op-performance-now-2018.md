@@ -1,10 +1,11 @@
 ---
-title: "Flinke korting op performance.now(), 8-9 november in Amsterdam"
+title: 'Flinke korting op performance.now(), 8-9 november in Amsterdam'
 date: 2018-09-05
 author: Edwin Martin
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Op 8 en 9 november vindt in het Compagnietheater in hartje Amsterdam de nieuwe conferentie performance.now() plaats, die geheel gewijd is aan web performance.
 
 Met een zeer mooie rij aan sprekers zoals Steve Souders, Tammy Everts en Scott Jehl en onderwerpen zoals JavaScript, fonts, afbeeldingen en PWA's, is dit een zeer interessante conferentie voor elke webontwikkelaar. En georganiseerd door een ervaren team (Mobilism, CSS Day) dat zorgt dat alles piekfijn is geregeld.

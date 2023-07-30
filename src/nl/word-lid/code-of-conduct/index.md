@@ -1,8 +1,9 @@
 ---
 title: Code of conduct
 key: code-of-conduct
-heroSlogan: ""
+heroSlogan: ''
 ---
+
 Alle leden van ons Fronteers Slack-kanaal moeten akkoord gaan met de volgende gedragscode. De beheerders van het Slack-kanaal handhaven deze code in het hele Slack-kanaal. We verwachten medewerking van alle deelnemers om te helpen zorgen voor een veilige omgeving voor iedereen.
 
 #### Hulp nodig?
@@ -27,7 +28,7 @@ Als je liever privé contact met iemand wilt opnemen, stuur dan een direct beric
 
 #### Proces
 
-*Drie strikes en je ligt eruit:* als je drie waarschuwingen hebt ontvangen, wordt je account 30 dagen gedeactiveerd.
+_Drie strikes en je ligt eruit:_ als je drie waarschuwingen hebt ontvangen, wordt je account 30 dagen gedeactiveerd.
 
 Na de opschortingsperiode van 30 dagen wordt uw account opnieuw geactiveerd, maar uw gedrag wordt nauwlettend gevolgd. Als je na schorsing de Gedragscode opnieuw overtreedt, of als je een nieuw (tweede) account aanmaakt om toegang te krijgen tot de Slack, wordt je account voor onbepaalde tijd gedeactiveerd.
 

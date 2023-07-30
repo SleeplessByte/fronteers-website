@@ -1,11 +1,12 @@
 ---
-title: "Fronteers is W3C lid"
+title: 'Fronteers is W3C lid'
 date: 2019-01-30
 author: Peter-Paul Koch
-categories: 
+categories:
   - Vereniging
   - W3C
 ---
+
 Vorige week is Fronteers dan eindelijk officieel lid van W3C geworden, en is Rachel Andrew officieel onze vertegenwoordiger geworden, zoals we hebben besloten op de laatste ALV.
 
 Er waren wat bureaucratische hikjes, waardoor het allemaal iets langer heeft geduurd dan gedacht, maar we zijn er nu toch echt. Kijk voor de grap eens [hier op de W3C ledenlijst](https://www.w3.org/Consortium/Member/List#xF) of [op de CSS Working Group ledenlijst](https://www.w3.org/Style/CSS/members.en.php3). Staat cool, toch?

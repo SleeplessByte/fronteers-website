@@ -1,10 +1,11 @@
 ---
-title: "Word een front-end developer"
+title: 'Word een front-end developer'
 date: 2018-12-12
 author: Tim Severien
-categories: 
+categories:
   - Adventskalender
 ---
+
 Begin september 2018 heeft [Shaun Michael Stone](https://medium.freecodecamp.org/my-role-as-a-front-end-web-engineer-explained-948d0f1ceac1) zijn ervaringen, mening en advies gedeeld over hoe het is om front-end web engineer te zijn.
 
 In dit artikel wil ik mijn ervaringen delen over het begin van een front-end carrière.
@@ -15,14 +16,15 @@ Veel front-end developers beginnen door te experimenteren. Het is niet zo moeiij
 
 Tijdens de experimentele fase zal je vooral het volgende leren:
 
-* HTML: HyperText Markup Language, de taal om inhoud te organiseren
-* CSS: Cascading StyleSheets, de taal om de inhoud te stijlen
-* JavaScript: een programmeertaal waarmee je complexe features kunt bouwen
-* Basiskennis over browsers en hoe internet werkt
+- HTML: HyperText Markup Language, de taal om inhoud te organiseren
+- CSS: Cascading StyleSheets, de taal om de inhoud te stijlen
+- JavaScript: een programmeertaal waarmee je complexe features kunt bouwen
+- Basiskennis over browsers en hoe internet werkt
 
 Beginnen met HTML en CSS is makkelijk, maar het goed doen is een ander verhaal en vergt best veel kennis. Ik verwacht niet dat junior developers bekend zijn met alle onderwerpen in het lijstje hieronder, maar er van bewust zijn dat het bestaat en wat je kunt leren, kan je wel een voorsprong geven:
 
 HTML
+
 - ​Basis: in staat zijn om functionerende HTML te schrijven
 - ​Validiteit: in staat zijn om HTML te schrijven met weinig fouten
 - ​Browser compatibiliteit: hoe om te gaan met browser incompatibiliteit
@@ -31,6 +33,7 @@ HTML
 - ​Toegankelijkheid: markup optimaliseren voor iedereen, ook mensen met beperkingen
 
 CSS
+
 - ​Basis: in staat zijn om functionerende CSS te schrijven
 - ​Validiteit: in staat zijn om CSS te schrijven met weinig fouten
 - ​Browser compatibiliteit: hoe om te gaan met browser incompatibiliteit
@@ -39,6 +42,7 @@ CSS
 - ​Toegankelijkheid: weten wat voor rol stijling bijdraagt aan toegankelijkheid en afweten van beste en slechte praktijken
 
 JavaScript
+
 - ​Basis: in staat zijn om functionerende JS te schrijven
 - ​Probleemoplossend vermogen: weten hoe je een probleem aanpakt om een doel te behalen
 - ​Debuggen: hoe je bugs vindt, isoleert en oplost
@@ -49,6 +53,7 @@ JavaScript
 - ​Verschil tussen ECMAScript en JavaScript
 
 Browsers en het internet
+
 - ​HTTP Protocol: hoe browsers inhoud laden
 - ​Media encoderingen: weten wanneer je gif, jpg, png, svg, webp, mp3, mp4, etc. moet gebruiken
 
@@ -82,15 +87,15 @@ Front-end development is heel goed gedocumenteerd. Online is er heel veel inform
 
 Hier een paar linkjes naar documentatie en cursussen om zelfstandig te studeren:
 
-* [MDN’s Web Technology for Developers](https://developer.mozilla.org/en-US/docs/Web)
-* [freeCodeCamp](https://www.freecodecamp.org/)
-* [Front end developer courses on Udacity](https://udacity.com/courses/front-end-developer)
-* [Web development courses on Udemy](https://www.udemy.com/topic/web-development/)
-* [Microsoft Professional Program for Front-End Web Development](https://academy.microsoft.com/en-us/professional-program/tracks/front-end-development/)
-* [HTML & CSS courses on CodeCademy](https://www.codecademy.com/catalog/language/html-css)
-* [JavaScript courses on CodeCademy](https://www.codecademy.com/catalog/language/javascript)
-* [JavaScript30](https://javascript30.com/)
-* [ES6 for Everyone](https://es6.io/)
+- [MDN’s Web Technology for Developers](https://developer.mozilla.org/en-US/docs/Web)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [Front end developer courses on Udacity](https://udacity.com/courses/front-end-developer)
+- [Web development courses on Udemy](https://www.udemy.com/topic/web-development/)
+- [Microsoft Professional Program for Front-End Web Development](https://academy.microsoft.com/en-us/professional-program/tracks/front-end-development/)
+- [HTML & CSS courses on CodeCademy](https://www.codecademy.com/catalog/language/html-css)
+- [JavaScript courses on CodeCademy](https://www.codecademy.com/catalog/language/javascript)
+- [JavaScript30](https://javascript30.com/)
+- [ES6 for Everyone](https://es6.io/)
 
 Je kunt ook lid worden van een gemeenschap zodat je met anderen kan praten over front-end development. Neem bijvoorbeeld de [Fronteers Slack](https://fronteers-slack.herokuapp.com/) of [FEDs on Slack](http://fedsonslack.com/).
 
@@ -106,12 +111,12 @@ Als je schrijven leuk vind, kun je ook artikelen schrijven! Het schrijven van te
 
 Laat jezelf zien! Je bent een front-end developer. Het web is jouw domein. Gebruik dat dus!
 
-* Je kunt [LinkedIn](https://www.linkedin.com/) gebruiken als een soort online CV en om je interesses te delen
-* Publiceer je eigen code (bijvoorbeeld experimenten) op [GitHub](https://github.com/)
-* [CodePen](https://codepen.io/) is een leuke site om kleine demo’s en experimenten te maken en te laten zien
-* Andere sociale media, zoals Twitter en Facebook, kunnen ook handig zijn om interesses te delen en om te netwerken
-* Een eigen website met een blog en links naar jouw profielen
-* Als je een freelancer wilt worden, denk na over een ‘personal brand’ en hoe je jezelf in de markt wilt zetten
+- Je kunt [LinkedIn](https://www.linkedin.com/) gebruiken als een soort online CV en om je interesses te delen
+- Publiceer je eigen code (bijvoorbeeld experimenten) op [GitHub](https://github.com/)
+- [CodePen](https://codepen.io/) is een leuke site om kleine demo’s en experimenten te maken en te laten zien
+- Andere sociale media, zoals Twitter en Facebook, kunnen ook handig zijn om interesses te delen en om te netwerken
+- Een eigen website met een blog en links naar jouw profielen
+- Als je een freelancer wilt worden, denk na over een ‘personal brand’ en hoe je jezelf in de markt wilt zetten
 
 Misschien valt het op dat veel opties in bovenstaande lijst een offer vergt: tijd. Al is geen van bovenstaande punten vereist om een baan te vinden, je springt er wel door uit, dus durf wat tijd te investeren.
 
@@ -133,23 +138,23 @@ Een klein deel van al die API’s wordt vaak gebruikt. In plaats van proberen al
 
 Om up-to-date te blijven kan ik sociale media aanraden. Ondanks de ruis is het vaak de eerste plek waar nieuws wordt gedeeld. Zoek mensen en bedrijven op die jij interessant vind en volg ze. Hier wat voorbeelden:
 
-* [/r/Frontend](https://www.reddit.com/r/Frontend/)
-* [@csswg](https://twitter.com/csswg)
-* [@htmlwg](https://twitter.com/htmlwg)
-* [@ECMAScript](https://twitter.com/ecmascript)
-* [@ChromiumDev](https://twitter.com/ChromiumDev)
-* [@ChromeDevTools](https://twitter.com/ChromeDevTools)
-* [@FirefoxDevTools](https://twitter.com/FirefoxDevTools)
+- [/r/Frontend](https://www.reddit.com/r/Frontend/)
+- [@csswg](https://twitter.com/csswg)
+- [@htmlwg](https://twitter.com/htmlwg)
+- [@ECMAScript](https://twitter.com/ecmascript)
+- [@ChromiumDev](https://twitter.com/ChromiumDev)
+- [@ChromeDevTools](https://twitter.com/ChromeDevTools)
+- [@FirefoxDevTools](https://twitter.com/FirefoxDevTools)
 
 Lezen en experimenteren met dingen die je leert, zou je tijdens werkuren moeten kunnen doen. Een fatsoenlijk bedrijf zal je die gelegenheid geven en heeft een opleidingsbudget zodat je congressen en workshops kan bezoeken. Maak daar gebruik van! Een paar goede events zijn:
 
-* [An Event Apart](http://aneventapart.com/) (Global)
-* [Beyond Tellerrand (or btconf)](https://beyondtellerrand.com/) (Germany)
-* [CSSconf](http://cssconf.org/) (Global)
-* [Fronteers Conference](https://fronteers.nl/congres) (Netherlands)
-* [Fronteers Workshops](https://fronteers.nl/workshops) (Netherlands)
-* [JSConf](https://jsconf.com/) (Global)
-* [SmashingConf](https://smashingconf.com/) (Global)
+- [An Event Apart](http://aneventapart.com/) (Global)
+- [Beyond Tellerrand (or btconf)](https://beyondtellerrand.com/) (Germany)
+- [CSSconf](http://cssconf.org/) (Global)
+- [Fronteers Conference](https://fronteers.nl/congres) (Netherlands)
+- [Fronteers Workshops](https://fronteers.nl/workshops) (Netherlands)
+- [JSConf](https://jsconf.com/) (Global)
+- [SmashingConf](https://smashingconf.com/) (Global)
 
 # Werken in je vrije tijd
 
@@ -170,6 +175,7 @@ Er zijn veel manieren om front-end web developer te worden. Je kan het jezelf aa
 Wat je ook kiest, basiskennis van HTML, CSS en JavaScript is voldoende om aan de slag te gaan. De rest volgt vanzelf.
 
 ### Over Tim Severien
+
 <img src="/_img/adventskalender/tim-severien.png" alt="Foto van Tim" class="floating-portrait">
 Tim Severien is een front-end developer uit Nederland. Naast zijn werk blogt hij wel eens op [timseverien.com](https://timseverien.com/) en uit hij zijn creativiteit op [codepen.io/timseverien](https://codepen.io/timseverien).
 

@@ -2,10 +2,11 @@
 title: "Congresvideo's 2015 nu beschikbaar met transcripties en captions"
 date: 2016-01-24
 author: Hidde de Vries
-categories: 
+categories:
   - Congres
   - Toegankelijkheid
 ---
+
 Op de pagina [Sessions](https://fronteers.nl/congres/2015/sessions) zijn nu alle video's van Fronteers 2015 te vinden, voorzien van transcripts en captions.
 
 In [2011](/congres/2011/sessions) en [2012](/congres/2012/sessions) deden we het al eerder: onze congresvideo's breder toegankelijk maken door ze te voorzien van transcripts en, in 2012, captions. Dit kan een tijdsintensief proces zijn. We gebruikten destijds weliswaar een betaalde dienst, maar de transcripties die werden aangeleverd waren niet in één keer goed, ze werden handmatig gecontroleerd door een groep enthousiaste vrijwilligers.
@@ -20,10 +21,10 @@ _Transcriptions_ zijn een tekstueel alternatief voor de video. In ons geval zijn
 
 Er zijn goede redenen om transcripts en captions te gebruiken. Dit is wie we er bijvoorbeeld mee proberen te helpen:
 
-* mensen die slecht of niet kunnen horen
-* mensen die de talks in het Engels wat snel vinden gaan en liever meelezen
-* mensen die graag CTRL+F'en in een talk, om een specifiek stukje makkelijk terug te vinden
-* zoekmachines, om beter inzicht te krijgen in onze content
+- mensen die slecht of niet kunnen horen
+- mensen die de talks in het Engels wat snel vinden gaan en liever meelezen
+- mensen die graag CTRL+F'en in een talk, om een specifiek stukje makkelijk terug te vinden
+- zoekmachines, om beter inzicht te krijgen in onze content
 
 # Hoe?
 

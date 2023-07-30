@@ -1,10 +1,11 @@
 ---
-title: "Met korting naar CSS Day en/of HTML Special"
+title: 'Met korting naar CSS Day en/of HTML Special'
 date: 2016-02-01
 author: Hidde de Vries
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Op 17 juni 2016 organiseert Web Conferences Amsterdam wederom het congres [CSS Day](http://cssday.nl/2016), dat op 16 juni vooraf wordt gegaan door iets nieuws: HTML Special. Fronteers-leden krijgen korting op beide: 25 euro op een eendagsticket, of 50 euro op een ticket voor beide dagen.
 
 # HTML Special

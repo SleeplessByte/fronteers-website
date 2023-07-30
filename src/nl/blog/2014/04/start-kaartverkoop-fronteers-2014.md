@@ -1,10 +1,11 @@
 ---
-title: "Start kaartverkoop Fronteers 2014"
+title: 'Start kaartverkoop Fronteers 2014'
 date: 2014-04-08
 author: Flurin Egger
-categories: 
+categories:
   - Congres
 ---
+
 Het is weer zover. De kaarten voor Fronteers 2014 gaan bijna in de verkoop. Het congres wordt dit jaar gehouden op 9 en 10 oktober in Amsterdam. Net als voorgaande jaren wordt het in ieder geval weer een mooie mix van hoge kwaliteit content op het gebied van front-end development en aanverwante zaken. Op dit moment hebben we al toezeggingen van een paar goede sprekers met geweldige content. Welke dat zijn dat verklappen we pas nadat de early bird kaarten verkocht zijn. Onderwerpen die in ieder geval aan bod zullen komen zijn: het customizen van Javascript en de tools er om heen, responsive layout en schaalbare HTML & CSS.
 
 Kaarten voor Fronteers 2014 zijn vanaf 25 april verkrijgbaar rond 12:00 Nederlandse tijd [in onze ticketshop](https://fronteers.paydro.net). Er zijn in totaal 150 early bird kaarten (100 voor leden, 50 voor niet-leden) en daarvoor geldt op == op. Wees er dus snel bij.

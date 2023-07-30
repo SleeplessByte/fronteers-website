@@ -1,10 +1,11 @@
 ---
-title: "Een andere manier"
+title: 'Een andere manier'
 date: 2019-12-10
 author: Maarten Brouwers
-categories: 
+categories:
   - Adventskalender
 ---
+
 De kracht van het internet is dat de technieken relatief eenvoudig te gebruiken zijn. Gedreven door het idee dat er binnen enkele seconden iets op het scherm moet staan lijkt het tegenwoordig noodzakelijk om een Single Page App op te tuigen die begint vanuit het neerzetten van placeholders, waarin vervolgens content wordt geladen vanuit GraphQL en REST API’s. Vergelijk dat eens met de eenvoud van weleer, waarbij je HTML en CSS kon uploaden met een FTP programma…
 
 Weinig ontwikkelaars weten nog precies wat ze doen, met als prototypische voorbeeld het “deze-div-is-een-button” tot gevolg. Of de site werkt zonder JavaScript is iets wat naderhand bedacht wordt, bijvoorbeeld omdat iemand zich druk maakt om zoekmachines die geen JavaScript begrijpen. Het lijkt wel alsof JavaScript noodzakelijk is voor een optimale UX (voor animatie-liefhebbende 40-minners met goed zicht dan).
@@ -48,7 +49,7 @@ Turbolinks.start()
 
 De eerste pagina aanroep zal met Turbolinks 9.4kB (met gzip) meer wegen.
 
-Dat is het. Er zijn vervolgens wat opties om bijvoorbeeld expliciet aan te geven externe bronnen wél opnieuw moeten worden geladen en wanneer een bijzondere pagina niet geladen dient te worden (zoals op [mijn Turbolinks-demo]((https://murb.github.io/turbolinks-stimulus-fronteers/geen_turbolinks.html)))
+Dat is het. Er zijn vervolgens wat opties om bijvoorbeeld expliciet aan te geven externe bronnen wél opnieuw moeten worden geladen en wanneer een bijzondere pagina niet geladen dient te worden (zoals op [mijn Turbolinks-demo](<(https://murb.github.io/turbolinks-stimulus-fronteers/geen_turbolinks.html)>))
 
 ## En “Native”?
 
@@ -123,9 +124,9 @@ Op ieder `'change'` event dat het input-veld genereert wordt `method()` aangeroe
 
 Zoals [de makers van Stimulus ook al zeggen](https://stimulusjs.org/handbook/building-something-real):
 
-> 
+>
 
-Ze noemen dat *Resilient UI’s*. Ik weet niet of ze het boek [Resillient Web Design van Jeremy Keith](https://resilientwebdesign.com/) hebben gelezen, maar het ademt dezelfde geest.
+Ze noemen dat _Resilient UI’s_. Ik weet niet of ze het boek [Resillient Web Design van Jeremy Keith](https://resilientwebdesign.com/) hebben gelezen, maar het ademt dezelfde geest.
 
 ## Demo
 
@@ -137,9 +138,9 @@ Ga vooral naar de website om meer te leren over [Stimulusjs.org](https://stimulu
 
 # Tot slot
 
-Frameworks bepalen hoe je werkt. Dit kan soms bevrijdend zijn, omdat je er sneller door kunt werken en gemakkelijker kunt communiceren met je collega’s. Soms kan het echter ook beperkend zijn, omdat je een heel ecosysteem aan plugins en compilers in wordt getrokken waardoor je na iedere update vaak weer in configuratiebestanden bepaalde details zit te configureren omdat *weet jij veel*. Laat staan dat je tijd hebt om je druk te maken over het werkend houden van de isomorphic rendering-setup en toegankelijkheid.
+Frameworks bepalen hoe je werkt. Dit kan soms bevrijdend zijn, omdat je er sneller door kunt werken en gemakkelijker kunt communiceren met je collega’s. Soms kan het echter ook beperkend zijn, omdat je een heel ecosysteem aan plugins en compilers in wordt getrokken waardoor je na iedere update vaak weer in configuratiebestanden bepaalde details zit te configureren omdat _weet jij veel_. Laat staan dat je tijd hebt om je druk te maken over het werkend houden van de isomorphic rendering-setup en toegankelijkheid.
 
-De frameworks/bibliotheken/libraries — *hoe je het ook wilt noemen* — die ik in deze post heb geïntroduceerd zijn mijns inziens niet van die laatste categorie. Het zijn dusdanig kleine toevoegingen dat het in het frameworkgeweld van vandaag de dag bijna niet meer lijkt op te vallen. Turbolinks is bijna een onzichtbare verbetering wanneer je al gewend was om alle JavaScript-initialisaties niet op de `load` en/of `DOMContentLoaded`-events te binden (een gewoonte die er wellicht door jQuery in is geslopen). De bibliotheken bieden structuur, maar zijn ook overzichtelijk.
+De frameworks/bibliotheken/libraries — _hoe je het ook wilt noemen_ — die ik in deze post heb geïntroduceerd zijn mijns inziens niet van die laatste categorie. Het zijn dusdanig kleine toevoegingen dat het in het frameworkgeweld van vandaag de dag bijna niet meer lijkt op te vallen. Turbolinks is bijna een onzichtbare verbetering wanneer je al gewend was om alle JavaScript-initialisaties niet op de `load` en/of `DOMContentLoaded`-events te binden (een gewoonte die er wellicht door jQuery in is geslopen). De bibliotheken bieden structuur, maar zijn ook overzichtelijk.
 
 Besef ook dat veel van de grotere frameworks van grote organisaties komen. Grote organisaties hebben veelal andere problemen dan kleinere. Misschien lossen die frameworks ook wel problemen op die jij nooit zult ervaren. Groter is niet altijd beter.
 
@@ -151,7 +152,7 @@ Je kunt mijn demopagina’s clonen met git:
 git clone https://github.com/murb/turbolinks-stimulus-fronteers.git
 ```
 
-Sorry, geen hot reloading, maar met bijvoorbeeld Python (`python -m SimpleHTTPServer 8000`) of  Ruby (`ruby -rwebrick -e'WEBrick::HTTPServer.new(:Port => 4000, :DocumentRoot => Dir.pwd).start'`) kun je er snel mee experimenteren.
+Sorry, geen hot reloading, maar met bijvoorbeeld Python (`python -m SimpleHTTPServer 8000`) of Ruby (`ruby -rwebrick -e'WEBrick::HTTPServer.new(:Port => 4000, :DocumentRoot => Dir.pwd).start'`) kun je er snel mee experimenteren.
 
 Over Maarten
 <img src="/_img/adventskalender/maarten.jpeg" alt="Foto van maarten" class="floating-portrait">

@@ -1,13 +1,14 @@
 ---
-title: "Beginnen met WebBluetooth"
+title: 'Beginnen met WebBluetooth'
 date: 2018-12-15
 author: Niels Leenheer
 categories:
   - Adventskalender
 ---
+
 Het web is traditioneel altijd goed geweest in het praten met servers. De hele infrastructuur van het web is erop gebaseerd. Maar nu het web dankzij Progressive Web Apps naar native applicaties toe beweegt, hebben we ook de mogelijkheden van native apps nodig. Het ophalen en tonen van tekst, afbeeldingen en formulieren is niet meer genoeg.
 
-Het web is traditioneel altijd goed geweest in het praten met servers. De hele infrastructuur van het web is erop gebaseerd. Maar nu het web dankzij Progressive Web Apps naar native applicaties toe beweegt, hebben we ook de  mogelijkheden van native apps nodig. Het ophalen en tonen van tekst, afbeeldingen en formulieren is niet meer genoeg.
+Het web is traditioneel altijd goed geweest in het praten met servers. De hele infrastructuur van het web is erop gebaseerd. Maar nu het web dankzij Progressive Web Apps naar native applicaties toe beweegt, hebben we ook de mogelijkheden van native apps nodig. Het ophalen en tonen van tekst, afbeeldingen en formulieren is niet meer genoeg.
 
 Het aantal nieuwe specificaties dat de afgelopen paar jaar is geïmplementeerd is enorm. We hebben specificaties voor 3D, zoals WebGL en binnenkort WebGPU. We kunnen audio streamen, video kijken en de webcam als input device gebruiken. Code schrijven die bijna net zo snel is als native code, met behulp van WebAssembly. En ondanks dat het web oorspronkelijk altijd een netwerkverbinding nodig had, kunnen we nu offline websites en apps maken dankzij Service Workers. Dat is geweldig, maar op één gebied liepen we nog achter op native apps: het praten met andere apparaten.
 
@@ -152,12 +153,13 @@ En dit is ongeveer 90% van de WebBluetooth API en alles wat je moet weten om te 
 
 ## Meer informatie:
 
-* [De WebBluetooth specification](https://webbluetoothcg.github.io/web-bluetooth/)
-* [WebBluetooth demos op Bluetooth.rocks](https://bluetooth.rocks/)
-* [Source code van de demos](https://github.com/BluetoothRocks)
-* [GATT registry met documentatie voor een aantal apparaten](https://github.com/opengatt/registry)
+- [De WebBluetooth specification](https://webbluetoothcg.github.io/web-bluetooth/)
+- [WebBluetooth demos op Bluetooth.rocks](https://bluetooth.rocks/)
+- [Source code van de demos](https://github.com/BluetoothRocks)
+- [GATT registry met documentatie voor een aantal apparaten](https://github.com/opengatt/registry)
 
 ### Over Niels Leenheer
+
 <img src="/_img/adventskalender/niels.jpg" alt="Foto van Niels Leenheer" class="floating-portrait" /> 
 Niels is een browser-geek. Vanaf het moment dat iemand hem de allereerste Nexus browser op een NeXT Cube liet zien is hij bezig met browsers. Niels is de maker van HTML5test.com, de CSS selector test, spreekt op conferenties en zit sinds 2018 in de congrescommissie van Fronteers.
 

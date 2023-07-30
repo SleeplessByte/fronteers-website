@@ -1,12 +1,13 @@
 ---
-title: "Meld je aan voor de Algemene Ledenvergadering 2011"
+title: 'Meld je aan voor de Algemene Ledenvergadering 2011'
 date: 2011-11-16
 author: Tom Greuter
-categories: 
+categories:
   - Bijeenkomsten
   - Leden
   - Vereniging
 ---
+
 Woensdag 7 december a.s. houden we onze jaarlijkse algemene ledenvergadering (ALV). De ALV vindt plaats in de op de 10e verdieping van de Regardztoren op Amsterdam C.S. (dit is het gebouw waar ook het Ibishotel in zit en waar de Fronteersmeeting bij Albumprinter plaatsvond). Het adres is Stationsplein 51-53 1012 AB Amsterdam. De zogeheten "Zilveren Toren" van Regardz zit pal naast Amsterdam Centraal Station. We beginnen om 19.00 uur en denken maximaal twee uur nodig te hebben.
 
 De agenda is als volgt:
@@ -28,5 +29,3 @@ Het bestuur nodigt alle leden nadrukkelijk uit om vragen, ideeën of voorstellen
 [Meld je zo gauw mogelijk aan voor de ALV](/vereniging/bestuur#formulier-1), zodat wij ons enigzins een beeld kunnen vormen van de verwachte toeloop. Je komst is niet voor niks. Ten eerste bepaal je mede de koers van Fronteers in 2012, ten tweede scoor je die exclusieve Fronteersgadget die niemand anders heeft (onder voorbehoud). Samen reizen met iemand? Neem even contact op met de ledenadministratie en we koppelen jullie aan elkaar.
 
 Na afloop van de vergadering kunnen we op de 11e verdieping (met een indrukwekkend uitzicht over Amsterdam) tot 22.30 uur een biertje (en meer!) drinken.
-
-

@@ -1,19 +1,20 @@
 ---
-title: "Bijeenkomst bij Digiti op 31 oktober 2013"
+title: 'Bijeenkomst bij Digiti op 31 oktober 2013'
 date: 2013-10-31
 eventdate: 2013-10-31
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Op donderdag 31 oktober 2013 is Fronteers te gast bij [Digiti](http://www.digiti.be) in Zoersel (bij Antwerpen). We hebben twee sprekers uitgenodigd.
 
 # Het programma is als volgt:
 
-* 18:00: Ontvangst met belegde broodjes en een drankje
-* 19:00: Bert Timmermans van [Digiti](http://www.digiti.be) vertelt over zijn _uit de hand gelopen Pokémon-remake-project in HTML5_
-* 20:00: Kristof Houben van [Mobile Vikings](https://mobilevikings.com/) deelt graag zijn kijk op _design thinking_ met jullie
-* 21:00: Naborrelen met een drankje
+- 18:00: Ontvangst met belegde broodjes en een drankje
+- 19:00: Bert Timmermans van [Digiti](http://www.digiti.be) vertelt over zijn _uit de hand gelopen Pokémon-remake-project in HTML5_
+- 20:00: Kristof Houben van [Mobile Vikings](https://mobilevikings.com/) deelt graag zijn kijk op _design thinking_ met jullie
+- 21:00: Naborrelen met een drankje
 
 # Waar?
 
@@ -27,35 +28,34 @@ Iedereen is welkom. Er is echter beperkt plaats, voor circa 75 mannen en vrouwen
 
 # Aanmeldingen
 
-* Mathias Bynens (Grembergen, auto)
-* Roel Van Gils (Gent, openbaar vervoer)
-* Stijn Janssen (Limburg, auto)
-* Martijn Croonen (Limburg, auto)
-* Lennart Schoors (Gent, auto)
-* Bramus Van Damme (Gent, auto)
-* Jochen Vandendriessche (Brussel, auto)
-* Rob Azevedo (Limburg, auto)
-* Joeri Deplus (Antwerpen, te voet)
-* Maarten Huijsmans (Hasselt, auto)
-* Anthony Ringoet (Sint-Niklaas, auto)
-* Wim Hendrikx (Limburg, auto)
-* An Van den Bosch (Antwerpen, auto)
-* Sara Devuyst (Merchtem)
-* Stefan Hellings (Limburg, auto)
-* Brecht Franco (Limbrug, auto)
-* Tom Van Goethem (Dendermonde, auto)
-* Gregory Van Looy (Haasdonk, auto)
-* Veerle Verbert (Deurne, auto)
-* Werner Huysmans (Deurne, auto)
-* Lorenz Vercauteren-Seghers (Antwerpen, auto)
-* Maarten Van Hoof (Turnhout, auto)
-* Wim Boucquaert (Antwerpen of Gent, auto)
-* Glenn Billiau (Genk, auto)
-* Paul Verbeek (Breda, auto)
-* Frank Baele (Gent, auto)
-* Tom Schuller (Breda, auto)
-* Jelle Versele (Antwerpen, auto)
-* Wim Mostmans (Olen, auto)
-* Sebastiaan Smid (Breda, auto)
-* Dieter Wyns (Gent, zoekt nog vervoer)
-
+- Mathias Bynens (Grembergen, auto)
+- Roel Van Gils (Gent, openbaar vervoer)
+- Stijn Janssen (Limburg, auto)
+- Martijn Croonen (Limburg, auto)
+- Lennart Schoors (Gent, auto)
+- Bramus Van Damme (Gent, auto)
+- Jochen Vandendriessche (Brussel, auto)
+- Rob Azevedo (Limburg, auto)
+- Joeri Deplus (Antwerpen, te voet)
+- Maarten Huijsmans (Hasselt, auto)
+- Anthony Ringoet (Sint-Niklaas, auto)
+- Wim Hendrikx (Limburg, auto)
+- An Van den Bosch (Antwerpen, auto)
+- Sara Devuyst (Merchtem)
+- Stefan Hellings (Limburg, auto)
+- Brecht Franco (Limbrug, auto)
+- Tom Van Goethem (Dendermonde, auto)
+- Gregory Van Looy (Haasdonk, auto)
+- Veerle Verbert (Deurne, auto)
+- Werner Huysmans (Deurne, auto)
+- Lorenz Vercauteren-Seghers (Antwerpen, auto)
+- Maarten Van Hoof (Turnhout, auto)
+- Wim Boucquaert (Antwerpen of Gent, auto)
+- Glenn Billiau (Genk, auto)
+- Paul Verbeek (Breda, auto)
+- Frank Baele (Gent, auto)
+- Tom Schuller (Breda, auto)
+- Jelle Versele (Antwerpen, auto)
+- Wim Mostmans (Olen, auto)
+- Sebastiaan Smid (Breda, auto)
+- Dieter Wyns (Gent, zoekt nog vervoer)

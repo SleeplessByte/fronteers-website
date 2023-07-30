@@ -1,22 +1,19 @@
 ---
-title: "Fronteers zomerborrel 2017"
+title: 'Fronteers zomerborrel 2017'
 date: 2017-08-01
 eventdate: 2017-08-01
-location: 
-categories: 
-    - meetup
+location:
+categories:
+  - meetup
 ---
-Op *vrijdag 25 augustus* houdt Fronteers voor leden en niet-leden een gezellig diner bij [Bucks BBQ](http://bucksbbqhouse.nl/) in Utrecht! De perfecte gelegenheid om bij te praten en vakantieverhalen te delen met mede-frontend ontwikkelaars, onder het genot van lekker eten en drinken.
+
+Op _vrijdag 25 augustus_ houdt Fronteers voor leden en niet-leden een gezellig diner bij [Bucks BBQ](http://bucksbbqhouse.nl/) in Utrecht! De perfecte gelegenheid om bij te praten en vakantieverhalen te delen met mede-frontend ontwikkelaars, onder het genot van lekker eten en drinken.
 
 Voor deze zomerse tegenhanger van de nieuwjaarsborrel neemt Fronteers de drankjes voor haar rekening. Het eten is voor eigen rekening en komt uit op 25,50 euro per persoon, en ook voor mensen die liever vegetarisch eten zal er keuze genoeg zijn.
 
 Je bent vanaf 18:00 welkom! We beginnen om 19:00 aan het eten.
 
 Helaas kun je je niet meer aanmelden.
-
-
-
-
 
 <table>
 <tr>

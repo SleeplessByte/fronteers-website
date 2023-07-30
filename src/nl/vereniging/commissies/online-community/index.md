@@ -2,6 +2,7 @@
 key: committees
 title: Commissie Online Community
 ---
+
 # Doel
 
 Het doel van de online commissie is het informeren en enthousiasmeren van leden en niet-leden over front-end development, activiteiten en Fronteers.
@@ -32,7 +33,7 @@ Fronteers is ook aanwezig op Linkedin als groep: [https://www.linkedin.com/group
 
 # Video
 
-De online commissie is ook verantwoordelijk voor het bewerken en plaatsen van de video's van de bijeenkomsten. 
+De online commissie is ook verantwoordelijk voor het bewerken en plaatsen van de video's van de bijeenkomsten.
 Alle video's kan je vinden op de [Fronteers video pagina](/videos) of op [Youtube](https://www.youtube.com/channel/UCMqv5w33mm-CgjDV6VTBCTw).
 
 # Website

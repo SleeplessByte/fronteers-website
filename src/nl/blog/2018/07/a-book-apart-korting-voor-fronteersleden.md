@@ -1,12 +1,13 @@
 ---
-title: "A Book Apart actie voor Fronteersleden"
+title: 'A Book Apart actie voor Fronteersleden'
 date: 2018-07-30
 author: Anneke Sinnema
-categories: 
+categories:
   - Congres
   - Leden
   - Ledenkorting
 ---
+
 Voor fans van de snel-bijgepraat-worden-over-een-onderwerp boeken van A Book Apart hebben we goed nieuws: Fronteersleden kunnen deze zomer flink besparen op het aanvullen van hun (thuis)bibliotheek! De boeken zijn gemiddeld 130 pagina's, lezen vlot weg en zijn fraai vormgegeven. Omdat ze zo'n sterke focus hebben over een bepaald onderwerp binnen webdevelopment heb je er ook een langere tijd plezier van!
 
 # Hoe maak je gebruik van de korting?

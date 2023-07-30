@@ -1,10 +1,11 @@
 ---
-title: "Een API schrijven als een front end developer"
+title: 'Een API schrijven als een front end developer'
 date: 2018-12-16
 author: Thomas Machielsen
-categories: 
+categories:
   - Adventskalender
 ---
+
 De laatste 12 maanden ben ik aan de slag gegaan om een “beer-API” te bouwen. De voornaamste reden om een API te bouwen was om te oefenen. En nu laat ik graag zien hoe ik het heb aangepakt. Hopelijk inspireert het jou ook om zelf een API te bouwen, ook als front-end developer! Na dit artikel kun je zelf een kleine API bouwen. Je zou bijvoorbeeld een database kunnen bijhouden met boeken die je hebt gelezen.
 
 # Wat gaan we bouwen?
@@ -15,7 +16,7 @@ Een verkleinde versie van mijn beer-api. Deze versie vraagt biertjes op uit mijn
 
 Als front-ender kies je er natuurlijk voor om zoveel mogelijk met JavaScript te doen. De meest voor de hand liggende keuze is dan ook Node.js voor de back-end.
 
-Als database heb ik gekozen voor MySQL, omdat ik er al ervaring mee had. Aangezien ik geen MySQL queries wil schrijven gebruik ik _[Sequelize](http://docs.sequelizejs.com/)_. Sequelize is een JavaScript *ORM* [(Object Relational Mapping)](https://en.wikipedia.org/wiki/Object-relational_mapping) zodat je met JavaScript queries kan schrijven.
+Als database heb ik gekozen voor MySQL, omdat ik er al ervaring mee had. Aangezien ik geen MySQL queries wil schrijven gebruik ik _[Sequelize](http://docs.sequelizejs.com/)_. Sequelize is een JavaScript _ORM_ [(Object Relational Mapping)](https://en.wikipedia.org/wiki/Object-relational_mapping) zodat je met JavaScript queries kan schrijven.
 
 <p class="note">
 (Ik heb gekozen voor MySQL in dit project maar als ik het weer zou doen, zou ik kiezen voor Mongo of een andere NoSQL taal. NoSQL sluit namelijk beter aan bij JavaScript.)
@@ -67,7 +68,7 @@ app.listen(port, () => console.log(`App listening at http://localhost:${port}`))
 
 Als je naar _[GitHub](https://github.com/Thomas-Machielsen/beer-api-tutorial/tree/master/v1)_ gaat zie je hoe het project er nu uit ziet.
 
-Het valt je misschien op dat er process.env.PORT staat. Dit zijn *_environment variabelen_*. Deze sla je op in een .env file. Dit is configuratie van een server maar deze configuratie wil je per server instellen. Als ik dit hardcoded erin zou zetten en het dan zou pushen naar de server zou de applicatie kapot gaan. En dan zou ik andere code moeten pushen en dat willen we niet. Dit is gebaseerd op het principe “*_config in the environment_*” van de website _[12 factor](https://12factor.net/config)_.
+Het valt je misschien op dat er process.env.PORT staat. Dit zijn _*environment variabelen*_. Deze sla je op in een .env file. Dit is configuratie van een server maar deze configuratie wil je per server instellen. Als ik dit hardcoded erin zou zetten en het dan zou pushen naar de server zou de applicatie kapot gaan. En dan zou ik andere code moeten pushen en dat willen we niet. Dit is gebaseerd op het principe “_*config in the environment*_” van de website _[12 factor](https://12factor.net/config)_.
 
 Als je dit zou opstarten krijg je een console message. Heel leuk natuurlijk maar verder doet het nog niks.
 
@@ -241,11 +242,11 @@ const getBeer = (req, res) => {
 module.exports = { getBeer };
 ```
 
-Je ziet hier dat ik Sequelize, BeerSchema en het RatingSchema meegeef aan de service. Deze manier van dependencies meegeven aan code wordt ook wel *_dependency injection_* genoemd.
+Je ziet hier dat ik Sequelize, BeerSchema en het RatingSchema meegeef aan de service. Deze manier van dependencies meegeven aan code wordt ook wel _*dependency injection*_ genoemd.
 
 Aangezien we deze dependencies meegeven aan de beer-service moeten we ook zorgen dat de beer-service deze gebruikt.
 
-Dit doen we door een *_constructor_* toe te voegen. Een constructor is een methode van een klasse. De constructor wordt als eerste uitgevoerd zodra de klasse wordt geïnitialiseerd.
+Dit doen we door een _*constructor*_ toe te voegen. Een constructor is een methode van een klasse. De constructor wordt als eerste uitgevoerd zodra de klasse wordt geïnitialiseerd.
 
 ```
 constructor(Sequelize, BeerSchema, RatingSchema) {
@@ -372,6 +373,7 @@ Je hebt nu hopelijk genoeg informatie om als hobby-project zelf een API te bouwe
 En als je interesse hebt in een grotere variant, de volledige code is natuurlijk op _[GitHub](https://github.com/Thomas-Machielsen/beer-api)_.
 
 ### Over Thomas Machielsen
+
 <img src="/_img/adventskalender/thomas.jpeg" alt="Foto van thomas" class="floating-portrait">
 Thomas is een front end developer bij Mirabeau. Daar werkt hij aan allerlei toffe projecten. Dat is ook precies wat die doet in z'n vrije tijd! Zolang het JavaScript is, wordt Thomas gelukkig!
 

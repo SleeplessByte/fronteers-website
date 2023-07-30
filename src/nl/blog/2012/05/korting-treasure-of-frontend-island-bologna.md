@@ -1,10 +1,11 @@
 ---
-title: "30% korting op The Treasure of FrontEnd Island in Bologna"
+title: '30% korting op The Treasure of FrontEnd Island in Bologna'
 date: 2012-05-31
 author: Krijn Hoetmer
-categories: 
+categories:
   - Ledenkorting
 ---
+
 We hebben weer een korting voor leden kunnen bedingen. Deze keer voor [From the Front 2012: The Treasure of FrontEnd Island](http://2012.fromthefront.it/) in Bologna, Italië, op vrijdag 21 september 2012.
 
 Aral Balkan, Blaine Cook, Denys Mishunov, Denise Jacobs, Linda Sandvik, Jake Archibald, Jonathan Snook, Peter-Paul Koch en Remy Sharp zullen spreken op dit eendaagse congres, wat makkelijk te combineren is met een weekendje zon.

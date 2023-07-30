@@ -1,10 +1,11 @@
 ---
-title: "Bijeenkomst bij De Voorhoede op 18 april 2013"
+title: 'Bijeenkomst bij De Voorhoede op 18 april 2013'
 date: 2013-03-25
 author: Charis Rooda
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op donderdag 18 april is Fronteers te gast bij De Voorhoede in Amsterdam. De vorige Pecha Kucha was een groot succes en dat willen we dit jaar bij De Voorhoede herhalen.
 
 Pecha Kucha is een presentatiestijl waarbij 20 slides worden getoond die elk 20 seconden in beeld zijn. Hierdoor krijg je snelle en beknopte presentaties. Door de korte tijd van 6 minuut 40 is het ook voor mensen die geen uur willen of kunnen volpraten. Heb je nog nooit een presentatie gegeven en wil je het een keer proberen, dan is dit de uitgeziene mogelijkheid.

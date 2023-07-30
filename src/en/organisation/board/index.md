@@ -2,15 +2,15 @@
 key: board
 title: Board of the association
 # if there's a subtitle, put it in heroSlogan:
-heroSlogan: ""
+heroSlogan: ''
 ---
 
-| Role | Person |
-|------|----------------|
-| President | Anneke Sinnema |
-| Secretary | Edwin Martin |
-| Treasurer | Wim van Iersel |
-| General board member | Sander Vink |
+| Role                 | Person         |
+| -------------------- | -------------- |
+| President            | Anneke Sinnema |
+| Secretary            | Edwin Martin   |
+| Treasurer            | Wim van Iersel |
+| General board member | Sander Vink    |
 
 The [minutes of the board meetings (in Dutch)](/en/association/board/minutes) are accessible to everyone.
 

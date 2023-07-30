@@ -1,19 +1,20 @@
 ---
-title: "Bijeenkomst bij Kabisa op 8 april 2015"
+title: 'Bijeenkomst bij Kabisa op 8 april 2015'
 date: 2015-03-04
 author: Wesley Lancel
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op woensdag 8 april 2015 is Fronteers te gast bij [Kabisa](http://www.kabisa.nl) in Weert. Er worden twee presentaties gehouden.
 
 # Het programma is als volgt:
 
-* 18:00 uur Ontvangst met buffet & drankje
-* 19:00 uur Rik Schennink - Conditioner.js
-* 19:45 uur Korte pauze
-* 20:00 uur Koen Kivits - Bowser in de browser
-* 20:45 uur Borrel
+- 18:00 uur Ontvangst met buffet & drankje
+- 19:00 uur Rik Schennink - Conditioner.js
+- 19:45 uur Korte pauze
+- 20:00 uur Koen Kivits - Bowser in de browser
+- 20:45 uur Borrel
 
 Geen tijd om na je werk nog ergens een hapje te gaan eten? Geen nood: er staat vanaf 18:00u een lekker buffet voor je klaar. Geef even door of je aanschuift, en of je nog speciale dieetwensen hebt.
 

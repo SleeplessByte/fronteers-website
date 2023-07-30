@@ -1,10 +1,11 @@
 ---
-title: "Verslag Docentendag"
+title: 'Verslag Docentendag'
 date: 2011-03-08
 author: Niels Sijm
-categories: 
+categories:
   - Onderwijs
 ---
+
 De [docentendag 2011](/docentendag) zit er weer op. Vijftien docenten zijn in Amsterdam samengekomen om samen met de commissie-Onderwijs, Nikolai Onken en Hedwyg van Groenendaal nader kennis te maken met het vakgebied en met elkaar.
 
 ![](/_img/2011/03/prezi.png)

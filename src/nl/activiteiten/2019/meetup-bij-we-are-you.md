@@ -1,26 +1,27 @@
 ---
-title: "Meetup bij We are you"
+title: 'Meetup bij We are you'
 date: 2019-05-16
 eventdate: 2019-05-16
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 # Testen van processen in applicaties en websites is tijdrovend werk
 
-Blokkeer je agenda op *donderdagavond 27 juni*: want dan zal [We are you](https://www.weareyou.com/nl) je voorzien van 3 interessante talks tijdens deze meetup in hartje Rotterdam.
+Blokkeer je agenda op _donderdagavond 27 juni_: want dan zal [We are you](https://www.weareyou.com/nl) je voorzien van 3 interessante talks tijdens deze meetup in hartje Rotterdam.
 
 Dit event is gratis en We are you zorgt uiteraard voor een goede maaltijd en lekkere drankjes.
 
 # Programma
 
-* 17:15 · Inloop (met food and drinks)
-* 18:00 · Introductie en welkomstwoord
-* 18:10 · *Jeroen Landsman* - Voorkom bugs bij live deployments met automatisch end-to-end testen
-* 18:30 · *Danny Arntz* - Visueel regressie testen, wat, waarom en hoe?
-* 18:50 · Pauze - cocktails
-* 19:20 · *Lars van Tulden* - Morgen meetbaar beter werk leveren
-* 19:40 · 21:30 Borrel met dj
+- 17:15 · Inloop (met food and drinks)
+- 18:00 · Introductie en welkomstwoord
+- 18:10 · _Jeroen Landsman_ - Voorkom bugs bij live deployments met automatisch end-to-end testen
+- 18:30 · _Danny Arntz_ - Visueel regressie testen, wat, waarom en hoe?
+- 18:50 · Pauze - cocktails
+- 19:20 · _Lars van Tulden_ - Morgen meetbaar beter werk leveren
+- 19:40 · 21:30 Borrel met dj
 
 # Over We are you
 
@@ -46,11 +47,9 @@ Schiekade 189, 6e verdieping (Schieblock)
 
 {%- googlemaps "We are you, Rotterdam" -%}
 
-
 {%- comment -%}
 {%- form -%}
 {%- endcomment -%}
-
 
 <table>
 <tr>

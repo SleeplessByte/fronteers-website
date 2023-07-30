@@ -1,19 +1,20 @@
 ---
-title: "Bijeenkomst bij WHITE op 30 augustus 2012"
+title: 'Bijeenkomst bij WHITE op 30 augustus 2012'
 date: 2012-07-30
 author: Arjan Eising & Edwin Martin
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Op donderdag 30 augustus 2012 is Fronteers te gast bij WHITE in Valkenswaard. Er zijn twee presentaties voorzien.
 
 # Het programma is als volgt:
 
-* 18.30 inloop
-* 19.30 Stijn Janssen over Front-end style guides
-* 20.30 korte pauze
-* 20.45 Ludo Beumer en Jeroen Smits over Facebook versus corporate website
-* 21.45 borrelen
+- 18.30 inloop
+- 19.30 Stijn Janssen over Front-end style guides
+- 20.30 korte pauze
+- 20.45 Ludo Beumer en Jeroen Smits over Facebook versus corporate website
+- 21.45 borrelen
 
 # Stijn Janssen over Front-end style guides
 

@@ -1,11 +1,12 @@
 ---
-title: "De full-stack mythe"
+title: 'De full-stack mythe'
 date: 2019-12-06
 author: Koen Kivits
-categories: 
+categories:
   - Adventskalender
 ---
-Een aantal jaar geleden was het web nog een stuk eenvoudiger. We gebruikten HTML en CSS om onze websites te maken, met eventueel wat JavaScript om het geheel een beetje *_schwung_* te geven. Had je dynamische content, dan maakte je een back-end in bijvoorbeeld PHP met eventueel een MySQL-database erachter. Als web developer was het niet ongewoon om op deze manier van voor tot achter met een website bezig te zijn.
+
+Een aantal jaar geleden was het web nog een stuk eenvoudiger. We gebruikten HTML en CSS om onze websites te maken, met eventueel wat JavaScript om het geheel een beetje _*schwung*_ te geven. Had je dynamische content, dan maakte je een back-end in bijvoorbeeld PHP met eventueel een MySQL-database erachter. Als web developer was het niet ongewoon om op deze manier van voor tot achter met een website bezig te zijn.
 
 Maar de tijd heeft niet stil gestaan. Onze computers werden beter, onze browsers werden beter en onze tools werden beter. Niet alleen de techniek is veranderd, vooral ook de rol ervan. Het web heeft heeft een centrale plek in de maatschappij gekregen - tot het punt dat we bijna allemaal altijd en overal verbonden zijn - waardoor we hogere eisen stellen aan toegankelijkheid, gebruiksvriendelijkheid, en veiligheid.
 
@@ -17,11 +18,11 @@ Een full-stack developer is een _jack of all trades_ en daarmee tegelijk doorgaa
 
 Die afwisseling is alleen niet gratis. Omdat je je aandacht verdeelt over verschillende onderwerpen zul je niet zo productief zijn als een specialist in het gebied, óf je moet concessies doen op kwaliteit. Uiteindelijk is full-stack niets meer dan een compromis tussen kwaliteit en productiviteit aan de ene kant en flexibiliteit aan de andere. En dat laatste wil nog weleens over het hoofd gezien worden. Er heerst bij werkgevers vaak nog de mythe dat je developers kunt vinden die alles kunnen. Vacatures vragen regelmatig om developers die zowel front- als back-end beheersen, want waarom zou je meerdere specialisten inhuren als je ook developers in kunt schakelen die gewoon alles kunnen? Het scheelt gewoon gedoe. Wat ook niet helpt is dat front-end op sommige plekken nog steeds een ondergeschoven kindje is, iets 'voor erbij'.
 
-Een full-stack developer is niet beter dan een gespecialiseerde developer, en vice versa. Vraag je jezelf af wat voor jou de beste keus is, dan is het enige korte antwoord daarop: *_It Depends™_*. Het hangt van de situatie af.
+Een full-stack developer is niet beter dan een gespecialiseerde developer, en vice versa. Vraag je jezelf af wat voor jou de beste keus is, dan is het enige korte antwoord daarop: _*It Depends™*_. Het hangt van de situatie af.
 
 # De juiste keuze
 
-Voor developers hangt die keuze op dit moment vooral af van persoonlijke voorkeur. We zitten voorlopig nog in een situatie dat er aan vacatures geen tekort is, dus écht verkeerd kun je niet gaan. In alle gevallen moet je zorgen dat zorgen dat je de fundamentele bouwstenen van je vakgebied beheerst. Frameworks en libraries komen en gaan, maar talen en protocollen, bijvoorbeeld HTML, CSS en HTTP, zijn *_here to stay_* en geven in alle gevallen een stabiele basis om op voort te borduren. Als full-stacker moet je meer fundamentals beheersen, als gespecialiseerde developer bouw je er vooral meer op.
+Voor developers hangt die keuze op dit moment vooral af van persoonlijke voorkeur. We zitten voorlopig nog in een situatie dat er aan vacatures geen tekort is, dus écht verkeerd kun je niet gaan. In alle gevallen moet je zorgen dat zorgen dat je de fundamentele bouwstenen van je vakgebied beheerst. Frameworks en libraries komen en gaan, maar talen en protocollen, bijvoorbeeld HTML, CSS en HTTP, zijn _*here to stay*_ en geven in alle gevallen een stabiele basis om op voort te borduren. Als full-stacker moet je meer fundamentals beheersen, als gespecialiseerde developer bouw je er vooral meer op.
 
 Kies je ervoor om full-stack developer te zijn of te worden? Weet dat je niets weet: accepteer dat ieder onderdeel van je werk een complex en dynamisch vakgebied is en dat je nooit alles kunt bijhouden. Denk je daar anders over, dan is dat waarschijnlijk [dunning-kruger](https://nl.wikipedia.org/wiki/Dunning-krugereffect) in actie. Er hoeft echter ook niet van je verwacht te worden dat je alles meteen kan en de sleutel tot succes is vooral het kunnen focussen op wat er op dat moment qua skillset nodig is.
 

@@ -1,11 +1,12 @@
 ---
-title: "Artikel in NRC"
+title: 'Artikel in NRC'
 date: 2010-10-10
 author: Peter-Paul Koch
-categories: 
+categories:
   - Browsers
   - Congres
 ---
+
 Op dinsdag 5 oktober [werd](http://www.readwriteweb.com/archives/internet_explorer_drops_below_50_market_share_worl.php) [bekend](http://www.zeldman.com/2010/10/07/no-comment/) dat Internet Explorer wereldwijd tot onder de 50% martkaandeel is gezakt — als we althans [StatCounter](http://gs.statcounter.com) mogen geloven (wat ikzelf op dit moment doe). ([In Nederland](http://gs.statcounter.com/#browser-NL-monthly-200809-201010) is dat aandeel overigens nog 64%.)
 
 [Marc Hijink](http://nl.linkedin.com/in/march) van [NRC Handelsblad](http://nrc.nl) pikte dit nieuwtje op, zag in dat hij achtergrondinformatie miste, ging naar [Fronteers 2010](/congres/2010) en schoot daar de keynote spreker van dag 1, [Jeremy Keith](http://adactio.com), aan voor nadere uitleg.

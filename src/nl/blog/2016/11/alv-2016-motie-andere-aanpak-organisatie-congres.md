@@ -1,11 +1,12 @@
 ---
-title: "ALV 2016: Motie: Andere aanpak organisatie congres"
+title: 'ALV 2016: Motie: Andere aanpak organisatie congres'
 date: 2016-11-20
 author: Thomas van Zuijlen
-categories: 
+categories:
   - Congres
   - Vereniging
 ---
+
 Het Fronteerscongres is in negen jaar uitgegroeid tot Fronteers Conference. De organisatie daarvan is inmiddels geen avondwerk meer, maar een dagtaak. De congrescommissie gaat niet verder in zijn huidige vorm: een goed moment om het anders aan te pakken. Aangeboden ter overweging aan de algemene ledenvergadering van Fronteers: Ik stel voor om de commissie op inhoud te laten sturen en om de praktische organisatie uit te besteden.
 
 # Achtergrond

@@ -1,7 +1,8 @@
 ---
 title: Bestuursleden
-heroSlogan: ""
+heroSlogan: ''
 ---
+
 Fronteers is hard op zoek naar nieuwe bestuursleden en vrijwilligers die het net als wij belangrijk vinden om front-end developers in Nederland te ondersteunen in hun werk, door middel van het faciliteren van kennisdeling en netwerkevents.
 
 - Het huidige bestuur telt drie enthousiaste vrijwilligers die zich bezighouden met de dagelijkse praktijk van het draaiend houden van de vereniging:
@@ -12,7 +13,7 @@ Fronteers is hard op zoek naar nieuwe bestuursleden en vrijwilligers die het net
 
 Daarnaast zijn we dit jaar extra ambitieus door het tackelen van de identiteit van de vereniging door middel van meerdere identiteitssessies, willen we graag gaan werken aan een nieuwe website voor Fronteers (en mogelijk voor het congres),
 
-We zoeken iemand met visie en gedrevenheid die het leuk vindt om niet alleen mee te denken over nieuwe initiatieven, maar die ook de handen uit de mouwen steekt om te zorgen dat deze gerealiseerd worden (al dan niet door hulp in te schakelen van vrijwilligers en commissies). 
+We zoeken iemand met visie en gedrevenheid die het leuk vindt om niet alleen mee te denken over nieuwe initiatieven, maar die ook de handen uit de mouwen steekt om te zorgen dat deze gerealiseerd worden (al dan niet door hulp in te schakelen van vrijwilligers en commissies).
 We zoeken bovendien iemand wie het leuk lijkt op termijn de rol van voorzitter, secretaris of penningmeester over te nemen of aan te vullen.
 
 Als vrijwilliger bij Fronteers ben je onderdeel van een actieve, jonge vereniging. De leukste manier om te netwerken en nieuwe vaardigheden op te doen!

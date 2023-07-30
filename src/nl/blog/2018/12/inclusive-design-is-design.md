@@ -1,10 +1,11 @@
 ---
-title: "Inclusive Design is Design"
+title: 'Inclusive Design is Design'
 date: 2018-12-03
 author: Darice de Cuba
-categories: 
+categories:
   - Adventskalender
 ---
+
 Als men het over een toegankelijk en inclusive website heeft, gaat dit vaak over dat de website goed te gebruiken is voor mensen die schermlezers gebruiken en mensen die kleurenblind of slechtziend zijn. Het betekent vaak ook dat de website goed te gebruiken is met alleen een toetsenbord zonder een muis.
 
 Vaak gaan talks, blogs en slack channel chats over: wanneer ARIA te gebruiken, hoe te gebruiken, goede HTML-structuur, CSS tips (denk aan: class ‘screenreaders’), kleurcontrasten en lettertypes die goed leesbaar zijn. Er is een boel te leren en te delen met elkaar over deze onderwerpen.
@@ -37,7 +38,8 @@ Hoe vaak hebben we zuchtend een blog gelezen over een onderwerp dat nieuw voor o
 
 Als je websites bouwt, kijk verder dan je structuur, code en kleuren. Het kan 100% scoren in de Axe test, Lighthouse audit, Tenon.io en dergelijke, maar toch enorm frustrerend zijn voor veel bezoekers. De beste test tools zijn mensen: een diverse groep mensen. Inclusive design is design. Er bestaat geen mens die niet profiteert van inclusive design.
 
-### Over Darice de Cuba 
+### Over Darice de Cuba
+
 <img src="/_img/adventskalender/darice-de-cuba-2018.jpg" alt="Foto van Daroce">
 Darice is front-end developer en ervaringsdeskundige met een focus op inclusive design. Ze schrijft regelmatig over inclusive design voor doven en slechthorenden op [darice.org](https://darice.org). Als je meer wilt weten over inclusive design kan je contact nemen met @Darice via Twitter. 
 Donatie 

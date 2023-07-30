@@ -1,10 +1,11 @@
 ---
-title: "Met korting naar het Nationaal Congres Digitale Toegankelijkheid"
+title: 'Met korting naar het Nationaal Congres Digitale Toegankelijkheid'
 date: 2016-03-07
 author: Janita Top
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Op dinsdag 31 mei 2016 vindt het Nationaal Congres Digitale Toegankelijkheid plaats. Leden van Fronteers krijgen 30% korting op de toegangsprijs, eventueel in combinatie met de early-bird korting, die geldt tot 16 maart.
 
 Op het programma staan onder andere: gevolgen van de ratificatie van het VN-verdrag, het accessibility-squad van de ING, pair writing, webstatistieken, webcare, en soft skills voor webwerkers.

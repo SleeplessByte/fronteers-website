@@ -1,10 +1,11 @@
 ---
-title: "Workshops update augustus"
+title: 'Workshops update augustus'
 date: 2011-08-29
 author: Matijs Brinkhuis
-categories: 
+categories:
   - Workshops
 ---
+
 Na bijna twee maanden zonder workshops is het weer tijd voor een update en er is genoeg te melden. Als ik zeg zonder workshops dan bedoel ik eigenlijk zonder workshops in Nederland, want op 19 augustus heeft Jan Moesen in België de eerste Vlaamse Fronteers workshop gegeven. Het onderwerp was misschien op het eerste gezicht voor front-end ontwikkelaars wat minder toegankelijk, maar de workshop was desondanks een succes. Tussen de droge Vlaamse humor door hebben de aanwezigen waaronder ondergetekende een boel opgestoken.
 
 Vandaag, 30 augustus, geeft Jeroen Visser zijn workshop [Counter Space](/workshops/counter-space-jeroen-visser) over web typografie. Mocht je hier aan deel hebben willen nemen maar is het je ontgaan dat hij gegeven werd, laat ons dan alsjeblieft weten hoe we je hadden kunnen bereiken. Workshops worden over het algemeen als eerste via het Twitter account van Fronteers [@fronteers](https://twitter.com/fronteers) aangekondigd. Daarnaast kun je [fronteers.nl/workshops](/workshops) in de gaten houden, je abonneren op de workshops newsfeed (onderaan die pagina) en het blog bijhouden.

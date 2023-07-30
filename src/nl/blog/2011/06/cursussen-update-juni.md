@@ -1,10 +1,11 @@
 ---
-title: "Workshops update juni"
+title: 'Workshops update juni'
 date: 2011-06-06
 author: Matijs Brinkhuis
-categories: 
+categories:
   - Workshops
 ---
+
 Inmiddels hebben we alweer vijf cursussen achter de rug. Naast [ppk](/cursussen/css-positionering-peter-paul-koch) die het jaar aftrapte met CSS Positionering, zijn er cursussen gegeven door [Vasilis van Gemert](/cursussen/adaptief-ontwikkelen-vasilis-van-gemert) (twee keer al zelfs), [Peter van der Zee](/cursussen/javascript-achtbaan-peter-van-der-zee) en [Peter Beverloo](/cursussen/praktisch-html5-peter-beverloo). Tijd voor een update.
 
 De eerstvolgende workshop is [Inclusive Design](/workshops/inclusive-design-jeroen-hulscher) die gegeven gaat worden door Jeroen Hulscher. Vanaf vandaag is het mogelijk om je hiervoor [in te schrijven](/workshops/inclusive-design-jeroen-hulscher#formulier-1). Zoals altijd geldt ook voor deze workshop dat je er snel bij moet zijn. Ervaring heeft ons inmiddels geleerd dat de meeste workshops supersnel vol zitten.

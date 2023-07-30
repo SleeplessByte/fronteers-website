@@ -1,10 +1,11 @@
 ---
-title: "Hallo frontenders, hier spreekt een ontwerper"
+title: 'Hallo frontenders, hier spreekt een ontwerper'
 date: 2014-12-22
 author: Maaike de Laat
-categories: 
+categories:
   - De Artikelen
 ---
+
 Maaike de Laat deed tijdens de Jam Sessions van het Fronteers-congres namens ontwerpers een oproep aan front-enders. Deze presentatie heeft ze met Marrije Schaake uitgeschreven tot dit artikel. Haar talk, 'A Call To Arms', in het Engels, [is terug te kijken bij de Jam Session video's](\congres/2014/jam-session/call-to-arms).
 
 # Hallo Frontenders
@@ -65,7 +66,7 @@ Het probleem met deze ontwerpsites is dat ze nooit uitleggen hoe iets gebouwd is
 
 Maar laten we het eens over jou hebben. Jij bezoekt waarschijnlijk heel andere websites. Sites als [A List Apart](http://alistapart.com/) en [Smashing Magazine](http://www.smashingmagazine.com/), waar je leest over CSS3-dingen die je eindelijk kunt gebruiken, of misschien een nieuwe lichtgewicht JavaScript library waarmee je allerlei coole dingen kunt doen.
 
-Interessant, toch? Zowel jij als de ontwerper willen graag experimenteren. Jullie zijn beiden op zoek naar nieuwe ideeën. Zou het niet veel beter zijn als jullie allebei experimenteren met dezelfde dingen? 
+Interessant, toch? Zowel jij als de ontwerper willen graag experimenteren. Jullie zijn beiden op zoek naar nieuwe ideeën. Zou het niet veel beter zijn als jullie allebei experimenteren met dezelfde dingen?
 
 # Houd contact met je ontwerpers
 
@@ -80,6 +81,7 @@ Denk eens na: je bent hier bij Fronteers om jezelf onder te dompelen in front-en
 Ik weet ook wel dat wat ik hier zeg niet nieuw is. Maar ik denk wel dat het vaker gezegd moet worden! Wij ontwerpers hebben jullie echt nodig, zelfs als we het onszelf niet altijd realiseren ;-)
 
 ### Over Maaike de Laat
-<img src="/_img/blog/2014/maaikedelaat.png" alt="Foto van Maaike uit 2014" class="floating-portrait" /> 
 
-Maaike is ontwerper bij [eend](http://eend.nl/).  [Volg haar op twitter](https://twitter.com/maaike).
+<img src="/_img/blog/2014/maaikedelaat.png" alt="Foto van Maaike uit 2014" class="floating-portrait" />
+
+Maaike is ontwerper bij [eend](http://eend.nl/). [Volg haar op twitter](https://twitter.com/maaike).

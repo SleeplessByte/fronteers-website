@@ -1,10 +1,11 @@
 ---
-title: "Met korting naar performance.now()"
+title: 'Met korting naar performance.now()'
 date: 2019-09-26
 author: Peter-Paul Koch
-categories: 
+categories:
   - Ledenkorting
 ---
+
 Op 21 en 22 november organiseert Web Conferences Amsterdam voor de tweede keer [performance.now()](https://perfnow.nl); opnieuw met 14 sessies over de stand van zaken in front-end performance.
 
 Fronteers-leden krijgen korting op dit congres. Ze betalen 550 in plaats van 650 euro voor een kaartje (exclusief BTW). Het aanbod is geldig voor mensen die op dit moment al lid zijn, en je kunt ervan gebruik maken door[ een email naar het bestuur](mailto:bestuur@lists.fronteers.nl) te zenden. Je ontvangt dan een kortingscode waarmee je je kaart kunt kopen.

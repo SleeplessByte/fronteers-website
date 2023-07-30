@@ -1,5 +1,5 @@
 ---
-layout: layouts/jobs-single.liquid
+layout: jobs-single.liquid
 title: Vacature Software Engineer Front-end bij Deli Home (Eibergen)
 date: 2020-11-14
 backgroundcolor: var(--lilac)
@@ -10,7 +10,7 @@ categories:
   - Front-end engineer
 graphic:
   src: /assets/company-logos/deli-home.svg
-  alt: ""
+  alt: ''
   class:
 
 key: job-deli-home-eibergen

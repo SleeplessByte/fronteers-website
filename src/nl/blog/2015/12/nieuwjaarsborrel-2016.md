@@ -1,11 +1,12 @@
 ---
-title: "Fronteers Nieuwjaarsborrel 2016"
+title: 'Fronteers Nieuwjaarsborrel 2016'
 date: 2015-12-30
 author: Meta Kruijs
-categories: 
+categories:
   - Bijeenkomsten
   - Leden
 ---
+
 Tijd voor de Fronteers nieuwjaarsborrel, speciaal voor leden! Meld je nu aan en proost op het nieuwe jaar!
 
 Op vrijdagavond 15 januari 2016 organiseert Fronteers een Nieuwjaarsborrel in de Nieuwe Dikke Dries, in Utrecht.

@@ -1,19 +1,20 @@
 ---
-title: "BBQ bij eFocus in Amsterdam op 20 juni"
+title: 'BBQ bij eFocus in Amsterdam op 20 juni'
 date: 2013-05-24
 author: Anton Kouliavtsev
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Donderdag 20 juni is Fronteers te gast bij [eFocus](http://www.efocus.nl/) in Amsterdam. Naast een
 presentatie van Jeroen Hulscher trakteert eFocus op een BBQ.
 
 # Programma
 
-* 18:00 inloop met BBQ
-* 19:30 uitgebreide kennissessie met Jeroen Hulscher
-* 21:30 borrelen
-* 22:30 einde
+- 18:00 inloop met BBQ
+- 19:30 uitgebreide kennissessie met Jeroen Hulscher
+- 21:30 borrelen
+- 22:30 einde
 
 "Toegankelijk bouwen is onzin, ik heb geen blinde bezoekers." Geen uitspraak zo ondoordacht als deze, want als we het hebben over zoekmachines wil iedereen ineens bovenaan de resultaten verschijnen. En zoekmachines zijn allen doof, blind en motorisch beperkt. Bovendien is ontoegankelijke informatie voor niemand prettig te gebruiken, en hebben we allemaal baat bij begrijpelijke content.
 

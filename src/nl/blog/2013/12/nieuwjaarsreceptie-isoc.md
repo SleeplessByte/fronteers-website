@@ -1,10 +1,11 @@
 ---
-title: "Nieuwjaarsreceptie ISOC"
+title: 'Nieuwjaarsreceptie ISOC'
 date: 2013-12-10
 author: Meta Kruijs
-categories: 
+categories:
   - Bijeenkomsten
 ---
+
 Het wordt weer tijd voor de nieuwjaarsborrels. De eerste is op donderdag 9 januari 2014, georganiseerd door de overkoepelende organisatie voor internetinstanties, Internet Society Nederland.
 
 Op de nieuwjaarsreceptie van ISOC Nederland ontmoet je bijna twintig nationale en internationale spelers uit de internetwereld. Van e-infrastructuur tot .nl, van digitale burgerrechten tot en met digitale certificaten, van toegankelijkheid voor blinden tot hosting providers - iedereen doet mee.

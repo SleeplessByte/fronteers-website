@@ -1,11 +1,12 @@
 ---
-title: "Fronteers vote for the W3C Technical Architecture Group"
+title: 'Fronteers vote for the W3C Technical Architecture Group'
 date: 2019-12-13
 author: Anneke Sinnema
-categories: 
+categories:
   - Vereniging
   - W3C
 ---
+
 In January, W3C members are voting for four seats on the Technical Architecture Group. Since Fronteers is a W3C member, we also have a vote, which our representative Rachel Andrew will cast on behalf of us.
 
 Just like half a year ago, we call all Fronteers members to share their list of top candidates. This time for the W3C Technical Architecture Group (TAG). The result of the internal Fronteers vote will be transmitted to Rachel.
@@ -26,12 +27,12 @@ There's also a blog in which members of the working group regularly provide upda
 
 The four candidates for the three seats are:
 
-* Rossen Atanassov (Microsoft Corporation)
-* David Baron (Mozilla Foundation)*
-* Kenneth Rohde Christiansen (Intel Corporation)*
-* Lukasz Olejnik (W3C Invited Expert)*
+- Rossen Atanassov (Microsoft Corporation)
+- David Baron (Mozilla Foundation)\*
+- Kenneth Rohde Christiansen (Intel Corporation)\*
+- Lukasz Olejnik (W3C Invited Expert)\*
 
-An asterisk (*) indicates that the nominee is a current participant.
+An asterisk (\*) indicates that the nominee is a current participant.
 [All candidates provided statements on what they hope to achieve](https://www.w3.org/2019/12/03-tag-nominations).
 
 # Voting procedure

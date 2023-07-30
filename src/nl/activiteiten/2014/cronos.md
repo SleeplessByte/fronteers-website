@@ -1,19 +1,20 @@
 ---
-title: "Bijeenkomst bij Cronos op 19 juni 2014"
+title: 'Bijeenkomst bij Cronos op 19 juni 2014'
 date: 2014-06-19
 eventdate: 2014-06-19
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Op donderdag 19 juni 2014 is Fronteers te gast bij Cronos in Kontich. Er worden twee presentaties voorzien.
 
 # Het programma is als volgt:
 
-* 18:00 ontvangst met een drankje
-* 19:00 Dimitri Mestdagh over _JavaScript at your enterprise_ ([slides](http://g00glen00b.github.io/js-at-your-enterprise/#/))
-* 20:00 Bram(us) Van Damme over _terugkeren naar de roots van JavaScript_ ([slides](http://bramus.github.io/js-roots-core-language-essentials/))
-* 21:00 naborrelen
+- 18:00 ontvangst met een drankje
+- 19:00 Dimitri Mestdagh over _JavaScript at your enterprise_ ([slides](http://g00glen00b.github.io/js-at-your-enterprise/#/))
+- 20:00 Bram(us) Van Damme over _terugkeren naar de roots van JavaScript_ ([slides](http://bramus.github.io/js-roots-core-language-essentials/))
+- 21:00 naborrelen
 
 # JavaScript at your enterprise, Dimitri Mestdagh
 
@@ -33,11 +34,9 @@ Dit evenement vindt plaats in zaal Atlantis bij Cronos te Kontich.
 
 Iedereen is welkom. Er is echter beperkt plaats, voor circa 40 mannen en vrouwen. Geef je daarom op via onderstaand aanmeldformulier. Vol is vol!
 
-
 {%- comment -%}
 {%- form -%}
 {%- endcomment -%}
-
 
 # Aanmeldingen, {aanmeldingen} van de {max}
 
@@ -264,7 +263,6 @@ Iedereen is welkom. Er is echter beperkt plaats, voor circa 40 mannen en vrouwen
 </tr>
 </table>
 
-
 Volg de discussie via Twitter op [#fronteersbe](https://twitter.com/search?q=%23fronteersbe).
 
-Naast bovenstaande officiële lijst kunnen aangemelde deelnemers ook [via Lanyrd aangeven dat ze aanwezig zullen zijn](http://lanyrd.com/2014/fronteersbe-cronos/). *Inschrijven via het formulier is echter verplicht!*
+Naast bovenstaande officiële lijst kunnen aangemelde deelnemers ook [via Lanyrd aangeven dat ze aanwezig zullen zijn](http://lanyrd.com/2014/fronteersbe-cronos/). _Inschrijven via het formulier is echter verplicht!_

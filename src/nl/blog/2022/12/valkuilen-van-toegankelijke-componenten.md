@@ -4,8 +4,9 @@ date: 2022-12-02
 author: Erik Kroes
 summary: Al zijn je bouwblokken (componenten) nog zo mooi, je kan er nog steeds verkeerd mee bouwen!
 categories:
-- Adventskalender
+  - Adventskalender
 ---
+
 Al zijn je bouwblokken (componenten) nog zo mooi, je kan er nog steeds verkeerd mee bouwen!
 
 Steeds vaker zie je dat componenten claimen toegankelijk te zijn. Dat klinkt goed: componenten die voor iedereen te gebruiken zijn, ook voor mensen met beperkingen! Wat zo’n claim precies inhoudt is niet altijd duidelijk. Daarnaast geeft het je als bouwer ook geen garanties. Je kan er nog steeds een zooitje van maken!
@@ -20,7 +21,7 @@ Wat je dan ook meteen krijgt is consistentie. Daar maak je iedereen blij mee! De
 
 ![Een plastic speelset geplaatst op de dakrand van een flat.](/_img/adventskalender/toepassing-blog-erik-full.png)
 
-*Het zit hem helemaal in de toepassing.*
+_Het zit hem helemaal in de toepassing._
 
 ### Pagina-specifiek: content
 
@@ -46,10 +47,10 @@ Misschien heb je hier deels wel iets herbruikbaars voor, zoals templates. Dat is
 
 Voor elke pagina wil je je landmarks op orde hebben:
 
-* Plaats je navigatie in een `<nav>`
-* Plaats de belangrijkste content in een `<main>`
-* Gebruik aan het begin van je pagina een `<header>` en aan het eind een `<footer>`
-* Heb je informatie die terzijde is? Gebruik dan een `<aside>`
+- Plaats je navigatie in een `<nav>`
+- Plaats de belangrijkste content in een `<main>`
+- Gebruik aan het begin van je pagina een `<header>` en aan het eind een `<footer>`
+- Heb je informatie die terzijde is? Gebruik dan een `<aside>`
 
 #### Heading structuur
 
@@ -77,7 +78,7 @@ Hieraan gerelateerd is ook het onderwerp van relaties. Alles wat je zelf aan elk
 
 ![Een projector hangt aan een muur. Een scherm hangt er opgerold boven. Het scherm kan zo niet uitgerold worden, en de projector kan er niet op projecteren.](/_img/adventskalender/advents-erik-2.jpeg)
 
-*De juiste onderdelen in de verkeerde volgorde.*
+_De juiste onderdelen in de verkeerde volgorde._
 
 ### Website-breed
 

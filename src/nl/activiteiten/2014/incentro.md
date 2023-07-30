@@ -1,21 +1,22 @@
 ---
-title: "Bijeenkomst bij Incentro op 24 september 2014"
+title: 'Bijeenkomst bij Incentro op 24 september 2014'
 date: 2014-09-24
 eventdate: 2014-09-24
 location:
 categories:
-    - meetup
+  - meetup
 ---
+
 Op woensdag 24 september 2014 is Fronteers te gast bij [Incentro](http://www.incentro.com/) in Amsterdam. Er worden drie presentaties gegeven.
 
 # Het programma is als volgt:
 
-* 18:00 Inloop en eten
-* 18:45 Modulair ontwikkelen met Angularjs - Kasper Reijnders
-* 19:00 Frontend Maturity Model -  Steven Chim
-* 19:45 Korte pauze
-* 20:00 Mobile Viewports - Peter-Paul Koch
-* 21:00 Borrel
+- 18:00 Inloop en eten
+- 18:45 Modulair ontwikkelen met Angularjs - Kasper Reijnders
+- 19:00 Frontend Maturity Model - Steven Chim
+- 19:45 Korte pauze
+- 20:00 Mobile Viewports - Peter-Paul Koch
+- 21:00 Borrel
 
 # Modulair ontwikkelen met Angularjs - Kasper Reijnders
 
@@ -41,7 +42,7 @@ Tijdens deze bijeenkomst deelt PPK nog eens zijn kennis, net als tijdens de [wor
 
 # Bereikbaarheid
 
-Incentro heet Fronteers welkom in de gloednieuwe vestiging in de mediahaven in Amsterdam. Het adres is Moermanskkade 113, 1013 CC Amsterdam. Deze locatie is *per openbaar vervoer wat moeilijker bereikbaar*, laat weten of je wilt carpoolen of plek over hebt in je auto!
+Incentro heet Fronteers welkom in de gloednieuwe vestiging in de mediahaven in Amsterdam. Het adres is Moermanskkade 113, 1013 CC Amsterdam. Deze locatie is _per openbaar vervoer wat moeilijker bereikbaar_, laat weten of je wilt carpoolen of plek over hebt in je auto!
 
 De locatie is voor sommige (verouderde) navigaties wat lastig te vinden, de Archangelkade (ligt parallel aan de Moermanskkade) staat er wel in. Je kunt gratis parkeren onder het pand, op straat is het betaald parkeren.
 
@@ -50,8 +51,6 @@ De locatie is voor sommige (verouderde) navigaties wat lastig te vinden, de Arch
 # Vragen, carpoolen of afmelden?
 
 [Neem contact op met de Activiteitencommissie](/vereniging/commissies/activiteiten).
-
-
 
 # Aanmeldingen
 

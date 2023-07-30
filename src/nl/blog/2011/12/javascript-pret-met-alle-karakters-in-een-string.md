@@ -1,10 +1,11 @@
 ---
-title: "JavaScript-pret met alle karakters in een string"
+title: 'JavaScript-pret met alle karakters in een string'
 date: 2011-12-09
 author: Mathias Bynens
-categories: 
+categories:
   - Adventskalender
 ---
+
 Stel: je hebt een functie `encode()` geschreven, die [een string bestaande uit één enkel karakter](http://www.flickr.com/photos/24374884@N08/6346609079/) als argument neemt, en een gecodeerde versie van dat ene karakter teruggeeft. Een praktisch voorbeeld hiervan is [ROT-13-encodering](http://en.wikipedia.org/wiki/ROT13).
 
 Als je nu een willekeurige string bestaande uit meerdere karakters wil gaan coderen volgens `encode()`, hoe zou jij dat dan doen?
@@ -93,7 +94,7 @@ Merk op dat je niet gewoon `/./` kan gebruiken, aangezien dat geen line feeds (`
 
 Deze oplossing is volledig conform met ES3.
 
-Een alternatief is om `[^]` te gebruiken in plaats van `[\s\S]`: zoek elk karakter dat niet… niets is. Helaas werkt deze reguliere expressie niet in IE < 9. In browsers waar ze wel werkt, is ze [sneller dan `[\s\S]`](http://jsperf.com/match-any-char-regex "jsPerf: Match any character using regex").
+Een alternatief is om `[^]` te gebruiken in plaats van `[\s\S]`: zoek elk karakter dat niet… niets is. Helaas werkt deze reguliere expressie niet in IE < 9. In browsers waar ze wel werkt, is ze [sneller dan `[\s\S]`](http://jsperf.com/match-any-char-regex 'jsPerf: Match any character using regex').
 
 # Ondersteuning voor Safari 2-achtige WebKits
 
@@ -121,6 +122,7 @@ Deze oplossing is net als de vorige volledig ES3-compatibel, en werkt bovendien 
 [JavaScript maakt intern gebruik van de UCS-2-encodering](https://mathiasbynens.be/notes/javascript-encoding) (de voorloper van UTF-16). Alle ingebouwde string-eigenschappen en functies (zoals `String#length`, `String#split` en `String#slice`) werken op basis van 16-bit code-eenheden in plaats van Unicode-karakters. Dit geeft soms op het eerste zicht [onverwachte resultaten](https://mathiasbynens.be/notes/javascript-unicode). Als je `encode`-functie Unicode code-points in plaats van UCS-2/UTF-16 code-eenheden verwacht, zal je dus nog een conversie-functie nodig hebben.
 
 ### Over Mathias Bynens
+
 <img src="/_img/2011/12/mathias-bynens.jpg" alt="Foto van mathias bynens uit 2011" class="floating-portrait" /> 
 [Mathias](https://mathiasbynens.be/) is een freelance webontwikkelaar uit Grembergen, België. In zijn vrije tijd organiseert hij samen met enkele andere vrijwilligers [Fronteers-meetups in België](https://twitter.com/fronteersbe).
 

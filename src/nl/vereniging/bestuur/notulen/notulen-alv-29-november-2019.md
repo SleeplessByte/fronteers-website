@@ -1,6 +1,7 @@
 ---
 title: Notulen ALV 29 november 2019
 ---
+
 Notulen ALV 29 november 2019
 
 Aanwezig: Anneke Sinnema, Sander Vink, Edwin Martin, Mallory van Achterberg, Jewwy Qadri, Arjan Eising en Wim van Iersel.
@@ -41,7 +42,7 @@ Mallory: beheer en moderatie moeten wel uit elkaar gehouden worden.
 
 Anneke: Op Slack willen we een nieuwe regel hanteren: three strikes out: Na drie waarschuwingen wordt je account verwijderd.
 
-Mallory: is het niet mogelijk dat mensen die voor het eerst op Slack komen een 
+Mallory: is het niet mogelijk dat mensen die voor het eerst op Slack komen een
 welkomsttekst krijgen met spelregels en CoC?
 
 Hier gaan we naar kijken. We kunnen hier Slackbot voor gebruiken.

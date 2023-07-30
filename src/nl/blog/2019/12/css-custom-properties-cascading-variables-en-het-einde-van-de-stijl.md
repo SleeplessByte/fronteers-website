@@ -1,10 +1,11 @@
 ---
-title: "CSS Custom Properties, Cascading Variables en het Einde van de Stijl"
+title: 'CSS Custom Properties, Cascading Variables en het Einde van de Stijl'
 date: 2019-12-05
 author: Edwin Martin
-categories: 
+categories:
   - Adventskalender
 ---
+
 Het is al heel lang mogelijk om de CSS-stijl vanuit HTML te bepalen met het `style` attribuut:
 
 ```
@@ -227,7 +228,7 @@ In dit geval wordt de waarschuwing in oude browsers altijd rood weergegeven. Het
 
 # Toekomst
 
-Lea Verou wilde ook diagrammen in CSS kunnen tekenen, inclusief schuine verbindingslijnen. Dat gaat nog niet goed met alleen `calc()`, want daar heb je ook trigonometrische functies voor nodig. Op het moment van schrijven, in 2019, wordt er [gewerkt](https://github.com/w3c/csswg-drafts/issues/2331) om de functies `sin()`,  `cos()`,  `tan()`,  `acos()`, `asin()`, `atan()`, `atan2()`, `hypot()`, `sqrt()` en `pow()` aan CSS toe te voegen.
+Lea Verou wilde ook diagrammen in CSS kunnen tekenen, inclusief schuine verbindingslijnen. Dat gaat nog niet goed met alleen `calc()`, want daar heb je ook trigonometrische functies voor nodig. Op het moment van schrijven, in 2019, wordt er [gewerkt](https://github.com/w3c/csswg-drafts/issues/2331) om de functies `sin()`, `cos()`, `tan()`, `acos()`, `asin()`, `atan()`, `atan2()`, `hypot()`, `sqrt()` en `pow()` aan CSS toe te voegen.
 
 # Breinbreker
 
@@ -251,6 +252,7 @@ Tot slot een leuk stukje code uit een [tweet van Micah Godbolt](https://twitter.
 Bedenk eerst zelf wat je antwoord zal zijn en kijk daarna pas naar het [antwoord](https://codepen.io/edwinm/pen/bGGOdpa). Aan de stembalkjes in de [tweet](https://twitter.com/micahgodbolt/status/1131626097349496833?s=20) te zien, zitten er nogal wat mensen naast. Bedenk ook waarom het juiste antwoord het juiste antwoord is.
 
 ### Over Edwin Martin
+
 <img src="/_img/adventskalender/edwin.jpg" alt="Foto van Edwin Martin" class="floating-portrait" /> 
 Edwin is freelance frontend webontwikkelaar en woont in Hilversum. Hij [blogt](https://bitstorm.org/), twittert in het Engels over frontendzaken op [@edwinmdev](https://mobile.twitter.com/edwinmdev/) en schrijft af en toe [stukjes code](https://github.com/edwinm).
 Edwins donatie gaat naar Bits of Freedom.

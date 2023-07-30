@@ -1,10 +1,11 @@
 ---
-title: "Updates uit de congrescommissie"
+title: 'Updates uit de congrescommissie'
 date: 2013-04-18
 author: Hidde de Vries
-categories: 
+categories:
   - Congres
 ---
+
 De congrescommissie heeft een nieuwe voorzitter, heeft een handboek gemaakt, probeert het dit jaar zonder sponsors en zal zeer spoedig de kaartverkoop aankondigen.
 
 # Nieuwe voorzitter

@@ -1,17 +1,18 @@
 ---
-title: "Klaar voor de mobiele tsunami"
+title: 'Klaar voor de mobiele tsunami'
 date: 2011-12-17
 author: Peter-Paul Koch
-categories: 
+categories:
   - Adventskalender
 ---
+
 Als ze het niet nu al doen, wordt 2012 het jaar waarin je klanten je gaan vragen om een mobiele website. Hier zijn wat snelle wenken voor diegenen onder ons die mobiel nog niet echt goed bestudeerd hebben.
 
 # Eerste testen
 
 Je hebt waarschijnlijk al een smartphone voor prive-gebruik. Kijk er eens op naar je recente projecten. Waarschijnlijk zie je al direct enige zaken die voor verbetering vatbaar zijn. Maak een lijstje, en spreek met jezelf af dat je hier in je volgende project iets aan gaat doen.
 
-Let op: ik zeg hier *smartphone*, en niet tablet! Voor je eerste tests is een tablet minder geschikt, omdat het scherm niet voldoende afwijkt van dat van desktopcomputers. Een extreem verschil in schermgrootte zet je sneller op het goede spoor dan schermen die slechts iets kleiner dan het gemiddelde desktopscherm zijn.
+Let op: ik zeg hier _smartphone_, en niet tablet! Voor je eerste tests is een tablet minder geschikt, omdat het scherm niet voldoende afwijkt van dat van desktopcomputers. Een extreem verschil in schermgrootte zet je sneller op het goede spoor dan schermen die slechts iets kleiner dan het gemiddelde desktopscherm zijn.
 
 Maak je nog niet teveel zorgen over representativiteit van je smartphone: zelfs als je uitsluitend een iPhone of Android bezit, kan een snelle test je toch al iets nuttigs vertellen over mobiele websites. De belangrijkste wijziging ten opzichte van een ouderwetse desktop-site is het kleine scherm. Bedenk wat je er qua design en interactie aan wilt doen; later in dit artikel vind je de technische tip die je hiervoor nodig hebt.
 
@@ -25,9 +26,9 @@ Er zijn twee basiskeuzes: of met behulp van media queries (die we zodadelijk zul
 
 # Geen van beide oplossingen is ideaal:
 
-* Als je met media queries wat extra CSS invoegt, zorgt dat er wel voor dat de site er acceptabel uitziet, maar kan de site te zwaar blijven voor mobiele connecties. Immers, je kunt een groot plaatje of een video die niet geschikt is voor mobiel wel een snelle `display: none;` meegeven, maar daarmee voorkom je niet dat de browser het bestand downloadt.
-* Als je een aparte mobiele website maakt, zondig je tegen het One Web-principe. Het is zelden echt nodig om een aparte site voor mobiel te maken, en het bijhouden van twee sites in plaats van een zorgt ook voor de nodige administratieve traagheid. Een goed CMS kan hier uitkomst bieden, maar ... naja, we weten allemaal hoe het met CMS'en gesteld is.
-* Bovendien is er voor deze oplossing ook nog een goede browser detect nodig. En die zijn dun gezaaid.
+- Als je met media queries wat extra CSS invoegt, zorgt dat er wel voor dat de site er acceptabel uitziet, maar kan de site te zwaar blijven voor mobiele connecties. Immers, je kunt een groot plaatje of een video die niet geschikt is voor mobiel wel een snelle `display: none;` meegeven, maar daarmee voorkom je niet dat de browser het bestand downloadt.
+- Als je een aparte mobiele website maakt, zondig je tegen het One Web-principe. Het is zelden echt nodig om een aparte site voor mobiel te maken, en het bijhouden van twee sites in plaats van een zorgt ook voor de nodige administratieve traagheid. Een goed CMS kan hier uitkomst bieden, maar ... naja, we weten allemaal hoe het met CMS'en gesteld is.
+- Bovendien is er voor deze oplossing ook nog een goede browser detect nodig. En die zijn dun gezaaid.
 
 Niettemin zullen deze twee tussenoplossingen waarschijnlijk je enige alternatieven zijn tijdens je eerste mobiele opdrachten. Klanten hebben nou eenmaal niet altijd het budget dat eigenlijk nodig is.
 
@@ -109,7 +110,7 @@ De Nokia-browser, tenslotte, is ook op WebKit gebaseerd, en is redelijk, maar ni
 
 Dat brengt ons op het laatste onderwerp: welke toestellen moet je hebben?
 
-Je moet daadwerkelijke mobiele telefoons hebben. Hoewel emulators je kunnen helpen, zijn ze *niet goed genoeg* voor serieuze mobiele webontwikkelaars. Je moet een telefoon in je handen hebben en er mee werken zoals een gebruiker dat doet, anders kan je je site niet afdoende testen.
+Je moet daadwerkelijke mobiele telefoons hebben. Hoewel emulators je kunnen helpen, zijn ze _niet goed genoeg_ voor serieuze mobiele webontwikkelaars. Je moet een telefoon in je handen hebben en er mee werken zoals een gebruiker dat doet, anders kan je je site niet afdoende testen.
 
 Je dient dus budget in te plannen voor de aanschaf van mobiele telefoons. Dit is gewoon een zakelijke uitgave die je uiteindelijk weer aan je mobiele klanten terugverdient.
 

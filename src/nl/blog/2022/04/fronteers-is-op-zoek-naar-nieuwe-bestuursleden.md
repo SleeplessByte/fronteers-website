@@ -1,5 +1,5 @@
 ---
-title: "Fronteers is op zoek naar nieuwe bestuursleden!"
+title: 'Fronteers is op zoek naar nieuwe bestuursleden!'
 date: 2022-04-22
 author: Anneke Sinnema
 categories:

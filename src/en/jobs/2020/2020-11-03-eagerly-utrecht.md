@@ -1,5 +1,5 @@
 ---
-layout: layouts/jobs-single.liquid
+layout: jobs-single.liquid
 title: Vacature Medior Frontend Developer bij Eagerly (Utrecht)
 date: 2020-11-03
 backgroundcolor: skyblue
@@ -10,7 +10,7 @@ categories:
   - UX Developer
 graphic:
   src: /assets/company-logos/eagerly-internet-logo.png
-  alt: ""
+  alt: ''
   class:
 ---
 

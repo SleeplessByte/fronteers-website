@@ -4,8 +4,9 @@ date: 2022-12-01
 author: Robert van der Elst
 summary: Als front end developer bevindt je je in de luxe positie om in het midden te zitten van meerdere disciplines, zoals back end development, UX, design en project management. Doordat je daar in het midden zit heb je ook de mogelijkheid om je te bewegen of te verschuiven in één van die richtingen. Nu zal je daar natuurlijk niet altijd bewust mee bezig zijn, maar soms gebeurt dat van nature, zoals in mijn geval.
 categories:
-- Adventskalender
+  - Adventskalender
 ---
+
 Als front end developer bevindt je je in de luxe positie om in het midden te zitten van meerdere disciplines, zoals back end development, UX, design en project management. Doordat je daar in het midden zit heb je ook de mogelijkheid om je te bewegen of te verschuiven in één van die richtingen. Nu zal je daar natuurlijk niet altijd bewust mee bezig zijn, maar soms gebeurt dat van nature, zoals in mijn geval.
 
 ### Ome Robert vertelt
@@ -30,8 +31,8 @@ Ik denk dat het goed is om regelmatig eens van een afstandje te kijken naar waar
 
 Je hoeft niet voor altijd te blijven doen wat je nu doet. Dat is eigenlijk de boodschap die ik heb. Er zijn genoeg mogelijkheden om te groeien en of dat nu in de hoogte is (bijvoorbeeld van junior naar senior) of in een breedte (bijvoorbeeld van front end naar UX), dat bepaal je zelf. Je moet alleen wel stapjes durven te maken in de richting die jij wil.
 
-Buiten dat is het goed om überhaupt meer kennis te krijgen van de gebieden om je heen. Je hoeft niet per sé een 
-specialist te zijn, maar als je meer [T-shaped](https://agilescrumgroup.nl/t-shaped) bent wordt je veel 
+Buiten dat is het goed om überhaupt meer kennis te krijgen van de gebieden om je heen. Je hoeft niet per sé een
+specialist te zijn, maar als je meer [T-shaped](https://agilescrumgroup.nl/t-shaped) bent wordt je veel
 gevarieerder. Als persoon wordt je daardoor ook nog eens interessanter als je een nieuwe baan zoekt.
 
 Om af te sluiten met een TL;DR: wordt bewust van je huidige positie, volg je interesses, blijf niet onnodig hangen in je huidige werk als je er niet gelukkig van wordt en blijf groeien.

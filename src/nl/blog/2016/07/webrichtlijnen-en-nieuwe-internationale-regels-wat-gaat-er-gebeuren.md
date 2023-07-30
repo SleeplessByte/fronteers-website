@@ -1,18 +1,19 @@
 ---
-title: "Webrichtlijnen en nieuwe internationale regels: wat gaat er gebeuren?"
+title: 'Webrichtlijnen en nieuwe internationale regels: wat gaat er gebeuren?'
 date: 2016-07-22
 author: Janita Top
-categories: 
+categories:
   - Toegankelijkheid
   - Webrichtlijnen
 ---
+
 Dankzij een aantal internationale ontwikkelingen is toegankelijkheid voor mensen met een beperking recentelijk hoger op de agenda komen te staan. Dat is dus goed nieuws!
 
 Zo is er een EU-richtlijn opgesteld voor de toegankelijkheid van digitale dienstverlening door overheidsorganisaties. Het doel hiervan is harmonisatie van de toegankelijkheidseisen binnen de EU en -mede daardoor- een verbetering van de algehele toegankelijkheid van digitale dienstverlening in de EU.
 
 Ook is onlangs het VN-verdrag inzake de rechten van personen met een handicap door Nederland geratificeerd.
 
-Wat betekent dit alles voor web developers in Nederland? Moeten we de [Webrichtlijnen](http://versie2.webrichtlijnen.nl/norm/20110701/ ) blijven volgen of niet? Op dit moment staat Webrichtlijnen versie 2 nog op de 'Pas toe of leg uit’-lijst voor overheidswebsites. Dit betekent dat overheden de Webrichtlijnen moeten toepassen, en anders moeten uitleggen waarom dat niet lukt.
+Wat betekent dit alles voor web developers in Nederland? Moeten we de [Webrichtlijnen](http://versie2.webrichtlijnen.nl/norm/20110701/) blijven volgen of niet? Op dit moment staat Webrichtlijnen versie 2 nog op de 'Pas toe of leg uit’-lijst voor overheidswebsites. Dit betekent dat overheden de Webrichtlijnen moeten toepassen, en anders moeten uitleggen waarom dat niet lukt.
 De komende periode moet duidelijk worden wat de nieuwe eisen precies gaan worden.
 
 Een overzicht van de stand van zaken:
