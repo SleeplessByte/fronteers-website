@@ -1,13 +1,12 @@
 ---
 layout: 'base'
 ---
-
 {%- for member in members -%}
-    {%- if member.data.title == heroPost.data.author -%}
-        {%- assign authorHasAProfilePage = true -%}
-    {%- else -%}
-        {%- assign authorHasAProfilePage = false -%}
-    {%- endif -%}
+  {%- if member.data.title == heroPost.data.author -%}
+    {%- assign authorHasAProfilePage = true -%}
+  {%- else -%}
+    {%- assign authorHasAProfilePage = false -%}
+  {%- endif -%}
 {%- endfor -%}
 
 {% capture blogMeta %}
@@ -33,22 +32,22 @@ layout: 'base'
     </ul>
 {% endcapture %}
 
-
 {%- pagehero 'single-blog' title blogMeta -%}
 
-<div data-layout="blog-single" class="inner-wrapper">
-    <div class="page-content">
-        <div class="blog-graphic-wrapper">
-            {%- if graphic.src -%}
-                <img
-                    src="/assets/images/{{ graphic.src }}"
-                    alt="{{ graphic.alt }}"
-                    class="blog-graphic" />
-            {%- endif -%}
-        </div>
-
-        {{ content }}
+<div data-layout='blog-single' class='inner-wrapper'>
+  <div class='page-content'>
+    <div class='blog-graphic-wrapper'>
+      {%- if graphic.src -%}
+        <img
+          src='/assets/images/{{ graphic.src }}'
+          alt='{{ graphic.alt }}'
+          class='blog-graphic'
+        >
+      {%- endif -%}
     </div>
+
+    {{ content }}
+  </div>
 </div>
 
 {%- include 'partials/utility/edit-this-page' -%}

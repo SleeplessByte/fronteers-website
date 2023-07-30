@@ -1,63 +1,74 @@
 {%- for member in members -%}
-    {%- if member.data.title == post.data.author -%}
-        {%- assign authorHasAProfilePage = true -%}
-    {%- else -%}
-        {%- assign authorHasAProfilePage = false -%}
-    {%- endif -%}
+  {%- if member.data.title == post.data.author -%}
+    {%- assign authorHasAProfilePage = true -%}
+  {%- else -%}
+    {%- assign authorHasAProfilePage = false -%}
+  {%- endif -%}
 {%- endfor -%}
 
-<div data-partial="blogpost" class="blog blog-{{ index }}">
-    <div class="blog-graphic-wrapper">
-        {%- if post.data.graphic.src -%}
-            <img
-                src="/assets/images/{{ post.data.graphic.src }}"
-                alt="{{ post.data.graphic.alt }}"
-                class="blog-graphic" />
-        {%- else -%}
-            <img
-                src="/assets/images/default_blog_image.png"
-                alt="{{ post.data.graphic.alt }}"
-                class="blog-graphic" />
-        {%- endif -%}
+<div data-partial='blogpost' class='blog blog-{{ index }}'>
+  <div class='blog-graphic-wrapper'>
+    {%- if post.data.graphic.src -%}
+      <img
+        src='/assets/images/{{ post.data.graphic.src }}'
+        alt='{{ post.data.graphic.alt }}'
+        class='blog-graphic'
+      >
+    {%- else -%}
+      <img
+        src='/assets/images/default_blog_image.png'
+        alt='{{ post.data.graphic.alt }}'
+        class='blog-graphic'
+      >
+    {%- endif -%}
+  </div>
+
+  <div class='blog-content-wrapper'>
+    <div class='blog-content'>
+      {%- include 'partials/utility/dynamic-headerlevel', level: headerlvl, title: post.data.title, link: post.url -%}
+
+      {%- if post.data.summary -%}
+        <p class='blog-summary'>{{ post.data.summary | strip_html | truncatewords: 60 | truncate: 160 }}</p>
+      {%- else -%}
+        <p class='blog-summary'>{{ post.templateContent | strip_html | truncatewords: 60 | truncate: 160 }}</p>
+      {%- endif -%}
     </div>
 
-    <div class="blog-content-wrapper">
-        <div class="blog-content">
-            {%- include 'partials/utility/dynamic-headerlevel' level: headerlvl title: post.data.title link: post.url -%}
+    <div class='blog-meta'>
+      <time class='blog-time' datetime='{{ post.date | date: "%Y-%m-%d" }}'>
+        {{ post.date | displayDate: locale | date: '%d.%m.%y' }}
+      </time>
 
-            {%- if post.data.summary -%}
-                <p class="blog-summary">{{ post.data.summary | strip_html | truncatewords: 60 | truncate: 160 }}</p>
-            {%- else -%}
-                <p class="blog-summary">{{ post.templateContent | strip_html | truncatewords: 60 | truncate: 160 }}</p>
-            {%- endif -%}
-        </div>
+      {%- if authorHasAProfilePage -%}
+        <a href='{{ member.url }}' class='blog-author'>{{ post.data.author }}</a>
+      {%- else -%}
+        <span class='blog-author'>{{ post.data.author }}</span>
+      {%- endif -%}
 
-        <div class="blog-meta">
-            <time class="blog-time" datetime="{{ post.date | date: "%Y-%m-%d" }}">
-                {{ post.date | displayDate: locale | date: "%d.%m.%y" }}
-            </time>
-
-            {%- if authorHasAProfilePage -%}
-                <a href="{{ member.url }}" class="blog-author">{{ post.data.author }}</a>
-            {%- else -%}
-                <span class="blog-author">{{ post.data.author }}</span>
-            {%- endif -%}
-
-            <ul
-                class="blog-tags"
-                role="list"
-                aria-label="Tagged">
-                {%- for tag in post.data.categories limit: 2 -%}
-                    <li>
-                        <a href="/{{ translations[locale].blogsURL }}/{{ translations[locale].category }}/{{ tag | slugify }}" class="tag-link">{%- tag tag -%}</a>
-                    </li>
-                {%- endfor -%}
-            </ul>
-        </div>
-
-        <a href="{{ post.url }}" class="button button-readmore">
-            {{ translations[locale].blogreadmore }}
-            <span class="visually-hidden">{{ translations[locale].about }} {{ post.data.title }}</span>
-        </a>
+      <ul
+        class='blog-tags'
+        role='list'
+        aria-label='Tagged'
+      >
+        {%- for tag in post.data.categories limit: 2 -%}
+          <li>
+            <a
+              href='/{{ translations[locale].blogsURL }}/{{ translations[locale].category }}/{{ tag | slugify }}'
+              class='tag-link'
+            >
+              {%- tag tag -%}
+            </a>
+          </li>
+        {%- endfor -%}
+      </ul>
     </div>
+
+    <a href='{{ post.url }}' class='button button-readmore'>
+      {{ translations[locale].blogreadmore }}
+      <span class='visually-hidden'>
+        {{- translations[locale].about }}
+        {{ post.data.title -}}
+      </span>
+    </a>
+  </div>
 </div>

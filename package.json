@@ -11,8 +11,8 @@
     "build": "npm run clean && npx @11ty/eleventy",
     "clean": "rimraf dist",
     "start:quick": "cross-env BUILD_QUICK=1 npm run start",
-    "lint": "prettier --check src/**/*.{json,html,md,mdx,liquid,njk,css,scss,js,jsx,ts,tsx}",
-    "format": "prettier --write src/**/*.{json,html,md,mdx,liquid,njk,css,scss,js,jsx,ts,tsx}"
+    "lint": "prettier --check src/**/*.{json,html,md,mdx,liquid,css,scss,js,jsx,ts,tsx}",
+    "format": "prettier --write src/**/*.{json,html,md,mdx,liquid,css,scss,js,jsx,ts,tsx}"
   },
   "repository": {
     "type": "git",

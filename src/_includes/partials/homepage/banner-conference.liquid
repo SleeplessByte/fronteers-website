@@ -1,23 +1,24 @@
 {%- case type -%}
-    {%- when 'parentheses' -%}
-    {%- assign className = "parentheses-bg" -%}
-    {%- when 'greater' -%}
-    {%- assign className = "greater-than-bg" -%}
-    {%- when 'curly' -%}
-    {%- assign className = "curly-braces-bg" -%}
-    {%- when 'none' -%}
-    {%- assign className = "none-bg" -%}
-{%- else -%}
-    {%- assign className = "parentheses-bg" -%}
+  {%- when 'parentheses' -%}
+    {%- assign className = 'parentheses-bg' -%}
+  {%- when 'greater' -%}
+    {%- assign className = 'greater-than-bg' -%}
+  {%- when 'curly' -%}
+    {%- assign className = 'curly-braces-bg' -%}
+  {%- when 'none' -%}
+    {%- assign className = 'none-bg' -%}
+  {%- else -%}
+    {%- assign className = 'parentheses-bg' -%}
 {%- endcase -%}
 
-<section data-partial="homepage/banner-conference" class="inner-wrapper no-padding">
-    {%- include 'partials/utility/dynamic-headerlevel' level: headerlvl title: partialTitle link: "{{link}}" -%}
-    <a
-        class="banner-conference {% if className %}{{ className }}{% endif %}"
-        style="{%- if image != '' -%}background-image: url({{image}}){%- endif -%}"
-        href="{{bannerlink}}">
-        <span class="visually-hidden">{{ translations[locale].goToVimeo }}</span>
-        {%- include 'svg/button_play.svg' -%}
-    </a>
+<section data-partial='homepage/banner-conference' class='inner-wrapper no-padding'>
+  {%- include 'partials/utility/dynamic-headerlevel' level: headerlvl title: partialTitle link: "{{link}}" -%}
+  <a
+    class='banner-conference {% if className %}{{ className }}{% endif %}'
+    style='{%- if image != '' -%}background-image: url({{image}}){%- endif -%}'
+    href='{{bannerlink}}'
+  >
+    <span class='visually-hidden'>{{ translations[locale].goToVimeo }}</span>
+    {%- include 'svg/button_play.svg' -%}
+  </a>
 </section>

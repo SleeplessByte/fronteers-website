@@ -1,14 +1,14 @@
-<div data-partial="page-header/logo" class="page-header-logo">
-    <h1 id="page-title">
-        <a href="{{ '/' | url }}">
-            <span class="visually-hidden">
-                {% if title %}
-                    {{ title }}
-                {% else %}
-                    {{ translations[locale].siteName }}
-                {% endif %}
-            </span>
-            {%- include 'svg/logo/geel.svg' -%}
-        </a>
-    </h1>
+<div data-partial='page-header/logo' class='page-header-logo'>
+  <h1 id='page-title'>
+    <a href='{{ '/' | url }}'>
+      <span class='visually-hidden'>
+        {% if title %}
+          {{ title }}
+        {% else %}
+          {{ translations[locale].siteName }}
+        {% endif %}
+      </span>
+      {%- include 'svg/logo/geel.svg' -%}
+    </a>
+  </h1>
 </div>

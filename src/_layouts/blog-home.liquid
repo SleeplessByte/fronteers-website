@@ -1,19 +1,18 @@
 ---
 layout: 'base'
 ---
-
 {% comment %} Get the title and the information from the most recent activity {% endcomment %}
 {%- for blog in paginated_posts limit: 1 -%}
-    {%- for member in members -%}
-        {%- if member.data.title == heroPost.data.author -%}
-            {%- assign authorHasAProfilePage = true -%}
-        {%- else -%}
-            {%- assign authorHasAProfilePage = false -%}
-        {%- endif -%}
-    {%- endfor -%}
+  {%- for member in members -%}
+    {%- if member.data.title == heroPost.data.author -%}
+      {%- assign authorHasAProfilePage = true -%}
+    {%- else -%}
+      {%- assign authorHasAProfilePage = false -%}
+    {%- endif -%}
+  {%- endfor -%}
 
-    {% comment %} Save html in variable nextUpTitle to use on line 38 {% endcomment %}
-    {% capture latestBlogTitle %}
+  {% comment %} Save html in variable nextUpTitle to use on line 38 {% endcomment %}
+  {% capture latestBlogTitle %}
         <h2>
             <a href="{{ blog.url }}">
                 <span class="sup-title">{{ translations[locale].latestBlog }}</span>
@@ -22,7 +21,7 @@ layout: 'base'
         </h2>
     {% endcapture %}
 
-    {% capture latestBlog %}
+  {% capture latestBlog %}
         <div class="blog-time-wrapper">
             <time class="blog-date" datetime="{{ blog.date | date: "%Y-%m-%d" }}">
                 {{ blog.date | displayDate: locale }}
@@ -42,7 +41,7 @@ layout: 'base'
         </a>
     {% endcapture %}
 
-    {% capture latestBlogImage %}
+  {% capture latestBlogImage %}
         <div class="hero-image-wrapper">
             <div class="hero--hero-image">
                 {%- if post.data.graphic.src -%}
@@ -61,21 +60,21 @@ layout: 'base'
     {% endcapture %}
 {%- endfor -%}
 
-<div data-layout="blog-home" class="inner-wrapper">
-    <div class="page-content">
-        <h2 class="visually-hidden">{{ title }}</h2>
-        {{ content }}
-    </div>
+<div data-layout='blog-home' class='inner-wrapper'>
+  <div class='page-content'>
+    <h2 class='visually-hidden'>{{ title }}</h2>
+    {{ content }}
+  </div>
 
-    {%- include 'partials/blog/loop-blog-categories' headerlvl: "h3" -%}
+  {%- include 'partials/blog/loop-blog-categories', headerlvl: 'h3' -%}
 
-    <ul class="desktop-rows mobile-slider">
-        {%- for post in paginated_posts limit: pagination.size -%}
-            <li class="list-item mobile-slider-item">
-                {%- include 'partials/blogpost' headerlvl: "h3" index: forloop.index -%}
-            </li>
-        {%- endfor -%}
-    </ul>
+  <ul class='desktop-rows mobile-slider'>
+    {%- for post in paginated_posts limit: pagination.size -%}
+      <li class='list-item mobile-slider-item'>
+        {%- include 'partials/blogpost', headerlvl: 'h3', index: forloop.index -%}
+      </li>
+    {%- endfor -%}
+  </ul>
 
-    {%- include 'partials/pagination' -%}
+  {%- include 'partials/pagination' -%}
 </div>
