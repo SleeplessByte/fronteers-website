@@ -1,4 +1,5 @@
-exports.mailchimp = () => `<form action="https://fronteers.us10.list-manage.com/subscribe/post?u=d8d859a3bce138807ce785741&amp;id=49b991ad18" method="post" class="generated">
+exports.mailchimp =
+  () => `<form action="https://fronteers.us10.list-manage.com/subscribe/post?u=d8d859a3bce138807ce785741&amp;id=49b991ad18" method="post" class="generated">
     <fieldset>
     <legend>Sign up for our newsletter</legend>
     <p><label for="subscribe-email">E-mail address <em>required</em></label> <input type="email" name="EMAIL" id="subscribe-email" class="text"></p>

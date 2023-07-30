@@ -1,6 +1,6 @@
-const { shield } = require("../../shortcodes/shield/shield");
+const { shield } = require('../../shortcodes/shield/shield');
 
-const DEFAULTS_FOR_SHIELD = ["triangular", "thunder", "lilac", "purple"];
+const DEFAULTS_FOR_SHIELD = ['triangular', 'thunder', 'lilac', 'purple'];
 exports.aboutushero = (text, title, shieldOptions = []) => {
   const [style, shape, primary, secondary] = shieldOptions.concat(
     DEFAULTS_FOR_SHIELD.slice(shieldOptions.length, DEFAULTS_FOR_SHIELD.length)
@@ -12,8 +12,8 @@ exports.aboutushero = (text, title, shieldOptions = []) => {
 ${heroShield}
 <div class="about-us-hero-graphic">
 <div class="about-us-hero-content">
-<h2> ${title ?? ""}</h2>
-<p>${text ?? ""}</p>
+<h2> ${title ?? ''}</h2>
+<p>${text ?? ''}</p>
 </div>
 </div>
 </div>

@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "ginfuru.better-nunjucks",
+    "sissel.shopify-liquid",
+    "esbenp.prettier-vscode"
+  ]
+}

@@ -5,14 +5,14 @@
 **/
 
 .category-list {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    margin-block-end: var(--spacing);
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-block-end: var(--spacing);
 }
 
 .category-list li {
-    display: inline-block;
-    padding-block-end: var(--spacing-half);
-    padding-inline-end: var(--spacing-half);
+  display: inline-block;
+  padding-block-end: var(--spacing-half);
+  padding-inline-end: var(--spacing-half);
 }

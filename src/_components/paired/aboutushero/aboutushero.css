@@ -20,7 +20,7 @@
   inline-size: 100%;
   block-size: 0;
   padding-block-end: 22.8%;
-  content: " ";
+  content: ' ';
   display: block;
   background-color: var(--red);
   background-size: cover;

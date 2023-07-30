@@ -1,10 +1,9 @@
 # Directories
 node_modules
 dist/
-public
+.11ty-vite
 
 # Files
 .cache
 .env
 .idea
-.vscode

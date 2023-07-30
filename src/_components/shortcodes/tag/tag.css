@@ -22,7 +22,7 @@
 
 /* Rounded tags, like with { and } */
 .tag-curly-braces {
-   -webkit-clip-path: url(#button-curly-braces);
+  -webkit-clip-path: url(#button-curly-braces);
   clip-path: url(#button-curly-braces);
 }
 

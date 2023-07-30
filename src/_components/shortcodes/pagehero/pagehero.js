@@ -1,8 +1,8 @@
 // Used for hero on home, activities, blog
 
-const { shield } = require("../shield/shield");
+const { shield } = require('../shield/shield');
 
-const heroShield = shield("triangular", "thunder", "lilac", "purple");
+const heroShield = shield('triangular', 'thunder', 'lilac', 'purple');
 
 exports.pagehero = (heroStyle, herotitle, herotext, heroImage) => `
 <section class="outer-wrapper outer-wrapper--${heroStyle}">

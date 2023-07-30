@@ -1,4 +1,4 @@
-const { generateShield } = require("../../shortcodes/shield/shield");
+const { generateShield } = require('../../shortcodes/shield/shield');
 
 /**
  * Render a quote with a member image
@@ -32,7 +32,7 @@ exports.memberquote = (
       <figcaption class="member-quote-names-container">
         <span class="member-quote-name thin">${[member, jobTitle]
           .filter(Boolean)
-          .join(", ")}</span>
+          .join(', ')}</span>
       </figcaption>
     </div>
   </div>

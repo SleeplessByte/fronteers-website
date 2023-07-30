@@ -9,7 +9,7 @@
 }
 
 .banner-conference::after {
-  content: " ";
+  content: ' ';
   inline-size: 100%;
   block-size: 100%;
   z-index: 1;

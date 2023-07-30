@@ -27,7 +27,7 @@
 }
 
 .page-header-translate li:first-child::after {
-  content: "|";
+  content: '|';
 }
 
 .page-header-translate .navigation-link:not([aria-current]) {
@@ -37,7 +37,7 @@
   font-weight: bold;
 }
 
-.page-header-translate .navigation-link[aria-current="page"] {
+.page-header-translate .navigation-link[aria-current='page'] {
   color: #fff;
   text-decoration: none;
 }

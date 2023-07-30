@@ -82,13 +82,13 @@ const style = `
 </style>`;
 
 exports.banner = (
-  type = "parentheses",
+  type = 'parentheses',
   title,
   link,
-  image = "/assets/images/banner-conference.jpg",
-  target = "_blank",
-  titleLevel = "h3",
-  hint = "go to vimeo"
+  image = '/assets/images/banner-conference.jpg',
+  target = '_blank',
+  titleLevel = 'h3',
+  hint = 'go to vimeo'
 ) =>
   `${
     title
@@ -96,13 +96,13 @@ exports.banner = (
 <${titleLevel} class="h"> 
     <a href="${link}" target="${target}">${title.toUpperCase()}</a>
 </${titleLevel}>`
-      : ""
+      : ''
   }
 
-<a class="${type === "curly" ? "curly-braces-bg" : ""}${
-    type === "greater" ? "greater-than-bg" : ""
-  }${type === "parentheses" ? "parentheses-bg" : ""}${
-    type === "none" ? "none-bg" : ""
+<a class="${type === 'curly' ? 'curly-braces-bg' : ''}${
+    type === 'greater' ? 'greater-than-bg' : ''
+  }${type === 'parentheses' ? 'parentheses-bg' : ''}${
+    type === 'none' ? 'none-bg' : ''
   } banner_component" style="background-image: url(${image})" href="${link}" target="${target}">
     <span class="visually-hidden">${hint}</span>
     ${svgButton}

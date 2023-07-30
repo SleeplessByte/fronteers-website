@@ -1,9 +1,9 @@
-const fs = require("fs");
-const path = require("path");
-const { createHash } = require("crypto");
+const fs = require('fs');
+const path = require('path');
+const { createHash } = require('crypto');
 
-const DIR_PATTERNS = path.resolve(__dirname, "patterns");
-const DIR_SHAPES = path.resolve(__dirname, "shapes");
+const DIR_PATTERNS = path.resolve(__dirname, 'patterns');
+const DIR_SHAPES = path.resolve(__dirname, 'shapes');
 
 const PATTERNS = fs
   .readdirSync(DIR_PATTERNS)
@@ -14,16 +14,16 @@ const SHAPES = fs
   .map((p) => path.basename(p, path.extname(p)));
 
 // List of curated color combinations
-// See: src/_assets/css/common/colors.css
+// See: src/assets/css/common/colors.css
 const COLOR_SETS = [
-  ["lilac", "purple"],
-  ["purple", "lilac"],
-  ["purple", "red"],
-  ["purple", "yellow"],
-  ["red", "purple"],
-  ["red", "yellow"],
-  ["yellow", "purple"],
-  ["yellow", "red"],
+  ['lilac', 'purple'],
+  ['purple', 'lilac'],
+  ['purple', 'red'],
+  ['purple', 'yellow'],
+  ['red', 'purple'],
+  ['red', 'yellow'],
+  ['yellow', 'purple'],
+  ['yellow', 'red'],
 ];
 
 function getCharacterRangeForProps(props, radix = 16) {
@@ -44,7 +44,7 @@ function pickPropsByString(string, props, radix = 16) {
   const ranges = getCharacterRangeForProps(props, radix);
 
   if (ranges.reduce((sum, { length }) => sum + length, 0) > string.length) {
-    throw new Error("Hexadecimal string is too short");
+    throw new Error('Hexadecimal string is too short');
   }
 
   return props.map((prop, index) => {
@@ -102,9 +102,9 @@ ${shapeSvg}
  */
 function generateShield(term, overrides = {}) {
   const [pattern, shape, [colorPrimary, colorSecondary]] = pickPropsByString(
-    createHash("md5")
+    createHash('md5')
       .update(String(overrides.term || term))
-      .digest("hex"),
+      .digest('hex'),
     [PATTERNS, SHAPES, COLOR_SETS]
   );
 

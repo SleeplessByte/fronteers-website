@@ -54,7 +54,7 @@
   inline-size: 100%;
   block-size: 0;
   padding-block-end: 22.8%;
-  content: " ";
+  content: ' ';
   display: block;
   background-color: var(--yellow);
   background-size: cover;
@@ -75,7 +75,7 @@
   inline-size: 100%;
   block-size: 0;
   padding-block-end: 22.8%;
-  content: " ";
+  content: ' ';
   display: block;
   background-color: var(--red);
   background-size: cover;
@@ -96,7 +96,7 @@
   inline-size: 100%;
   block-size: 0;
   padding-block-end: 22.8%;
-  content: " ";
+  content: ' ';
   display: block;
   background-color: var(--lilac);
   background-size: cover;
@@ -109,7 +109,7 @@
   padding: var(--spacing);
   padding-block-start: 0;
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
   min-height: 19rem;
 }
 
@@ -143,7 +143,7 @@
 }
 
 @media all and (min-width: 46.875em) {
-    .activity-header-content { 
-        height: 9rem; 
-    }
+  .activity-header-content {
+    height: 9rem;
+  }
 }

@@ -1,44 +1,44 @@
-.banner-join-us { 
-    text-align: center;
+.banner-join-us {
+  text-align: center;
 }
 
 .banner-join-us__content {
-    display: flex;
-    flex-direction: column;
-    align-content: center;
-    gap: var(--spacing);
-    color: black;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  gap: var(--spacing);
+  color: black;
 }
 
 .banner-join-us__title {
-    margin-top: 0;
-    margin-bottom: 0;
-    text-transform: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-transform: none;
 }
 
 .banner-join-us__description {
-    margin-top: 0;
-    margin-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .banner-join-us__link {
-    max-width: max-content;
-    align-self: center;
+  max-width: max-content;
+  align-self: center;
 }
 
 .banner-join-us .button {
-    color: black;
-    background-color: var(--red);
-    text-decoration: none;
+  color: black;
+  background-color: var(--red);
+  text-decoration: none;
 }
 
 .banner-join-us__description {
-    text-wrap: balance;
+  text-wrap: balance;
 }
 
 @media all and (min-width: 46.875em) {
-    .banner-join-us__description {
-        align-self: center;
-        width: 80%;
-    }
+  .banner-join-us__description {
+    align-self: center;
+    width: 80%;
+  }
 }
