@@ -25,7 +25,7 @@ jobs:
         fi
 
         # Setup the git user (required to commit anything)
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.email "1964376+SleeplessByte@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
 
         # Commit the changes made by prettier
