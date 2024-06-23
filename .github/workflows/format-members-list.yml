@@ -10,6 +10,8 @@ jobs:
         node-version: 20
 
     - uses: actions/checkout@v4
+      with:
+        ref: ${{ github.ref_name }}
     
     - name: 'Format members-list.json'
       run: npx prettier@latest -w src/_data/members-list.json
