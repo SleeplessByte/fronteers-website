@@ -11,7 +11,7 @@ jobs:
 
     - uses: actions/checkout@v4
       with:
-        ref: ${{ github.ref_name }}
+        ref: ${{ github.event.pull_request.head.sha }}
     
     - name: 'Format members-list.json'
       run: npx prettier@latest -w src/_data/members-list.json
